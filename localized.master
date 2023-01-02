@@ -1,593 +1,932 @@
 #EXTM3U
-#EXTINF:30,TVR Parlemen (720p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:0,Jogja Istimewa TV (720p)
-http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:0,CGTN (576p)
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=14&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:60,Semarang TV (720p)
-http://116.254.112.74/hls/cakralive.m3u8
-#EXTINF:0,Batu TV (576p) [Not 24/7]
-http://117.103.69.219:8080/live/streaming/index.m3u8
-#EXTINF:0,TVRI World (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-#EXTINF:0,TVRI Sport (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:0,TVRI Aceh (720p) [Not 24/7]
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-#EXTINF:0,TVRI Bangka Belitung (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-#EXTINF:0,TVRI Bali (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-#EXTINF:0,TVRI Bengkulu (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-#EXTINF:0,TVRI DKI Jakarta (720p) [Not 24/7]
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-#EXTINF:0,TVRI Gorontalo (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
-#EXTINF:0,TVRI Jawa Barat (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-#EXTINF:0,TVRI Jambi (720p) [Not 24/7]
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-#EXTINF:0,TVRI Jawa Tengah (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-#EXTINF:0,TVRI Jawa Timur (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-#EXTINF:0,TVRI Kalimantan Barat (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-#EXTINF:0,TVRI Kalimantan Selatan (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
-#EXTINF:0,TVRI Kalimantan Tengah (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-#EXTINF:120,TVRI Kalimantan Timur (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-#EXTINF:0,TVRI Lampung (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
-#EXTINF:0,TVRI Maluku (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-#EXTINF:0,TVRI Nasional (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-#EXTINF:0,TVRI Nusa Tenggara Barat (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
-#EXTINF:0,TVRI Nusa Tenggara Timur (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
-#EXTINF:0,TVRI Papua (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
-#EXTINF:0,TVRI Riau (720p) [Not 24/7]
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
-#EXTINF:0,TVRI Sulawesi Barat (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
-#EXTINF:0,TVRI Sulawesi Selatan (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
-#EXTINF:0,TVRI Sulawesi Tengah (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
-#EXTINF:0,TVRI Sulawesi Tenggara (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
-#EXTINF:0,TVRI Sumatera Barat (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-#EXTINF:0,TVRI Sumatera Selatan (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
-#EXTINF:0,TVRI Yogyakarta (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-#EXTINF:0,TV Edukasi (576p)
-http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
-#EXTINF:0,Riau TV (576p) [Not 24/7]
-http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
-#EXTINF:0,Pon TV (360p) [Not 24/7]
-http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
-#EXTINF:0,Padang TV (720p) [Not 24/7]
-http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
-#EXTINF:0,Kawanua TV (720p)
-http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
-#EXTINF:0,JTV (720p) [Not 24/7]
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#EXTINF:0,Jambi TV (576p) [Not 24/7]
-http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
-#EXTINF:0,SMTV (720p) [Not 24/7]
-http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
-#EXTINF:0,Fajar TV (240p) [Not 24/7]
-http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
-#EXTINF:0,Simpang5 TV (360p) [Not 24/7]
-http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
-#EXTINF:0,JPM TV (720p) [Not 24/7]
-http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
-#EXTINF:0,Pal TV (720p) [Not 24/7]
-http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
-#EXTINF:0,RCTV (720p) [Not 24/7]
-http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
-#EXTINF:0,Euro Indie Music Chart TV (360p)
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:0,Cartoon Network Asia (720p)
-http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
-#EXTINF:60,Mecca
-http://210.210.155.35/qwr9ew/s/s27/index.m3u8
-#EXTINF:60,Medina
-http://210.210.155.35/qwr9ew/s/s28/index.m3u8
-#EXTINF:60,Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
-http://210.210.155.37/dr9445/h/h02/index.m3u8
-#EXTINF:60,Bloomberg TV Asia (576p)
-http://210.210.155.37/dr9445/h/h03/index.m3u8
-#EXTINF:0,RTV (576p) [Geo-blocked]
-http://210.210.155.37/dr9445/h/h10/index.m3u8
-#EXTINF:0,SCTV (480p) [Geo-blocked]
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-#EXTINF:0,Indosiar (480p) [Geo-blocked]
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-#EXTINF:0,ANTV (480p) [Geo-blocked]
-http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
-#EXTINF:0,NET. (480p) [Geo-blocked]
-http://210.210.155.37/qwr9ew/s/s08/index.m3u8
-#EXTINF:60,Elshinta TV (480p) [Not 24/7] [Geo-blocked]
-http://210.210.155.37/qwr9ew/s/s10/index.m3u8
-#EXTINF:0,tvOne (480p) [Geo-blocked]
-http://210.210.155.37/qwr9ew/s/s105/01.m3u8
-#EXTINF:0,CCTV-4 Asia (576p)
-http://210.210.155.37/qwr9ew/s/s19/index.m3u8
-#EXTINF:60,Zee Bioskop (360p) [Geo-blocked]
-http://210.210.155.37/qwr9ew/s/s32/index.m3u8
-#EXTINF:60,Thrill ID
-http://210.210.155.37/qwr9ew/s/s34/index.m3u8
-#EXTINF:0,Thrill (576p)
-http://210.210.155.37/qwr9ew/s/s34/index.m3u8
-#EXTINF:0,RTP Internacional Asia (480p)
-http://210.210.155.37/qwr9ew/s/s38/index.m3u8
-#EXTINF:0,Moji (480p) [Geo-blocked]
-http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-#EXTINF:0,K+ (Indonesian subtitle) (576p)
-http://210.210.155.37/uq2663/h/h08/index.m3u8
-#EXTINF:0,One TV Asia (576p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h143/index.m3u8
-#EXTINF:0,TVE Internacional Asia-Oceania (576p)
-http://210.210.155.37/uq2663/h/h158/index2.m3u8
-#EXTINF:0,My Kidz (1080p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h191/index.m3u8
-#EXTINF:0,My Cinema (1080p)
-http://210.210.155.37/uq2663/h/h192/index.m3u8
-#EXTINF:0,My Cinema Asia (1080p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h193/index.m3u8
-#EXTINF:0,My Family Channel (1080p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h194/index.m3u8
-#EXTINF:0,Wion (576p)
-http://210.210.155.37/uq2663/h/h91/index.m3u8
-#EXTINF:0,Dens Play (720p) [Geo-blocked]
-http://210.210.155.37/x6bnqe/s/s101/live.m3u8
-#EXTINF:9,Dens ShowBiz (576p) [Geo-blocked]
-http://210.210.155.37/x6bnqe/s/s35/index.m3u8
-#EXTINF:0,Dens Knowledge and Learning (576p) [Geo-blocked]
-http://210.210.155.37/x6bnqe/s/s36/index.m3u8
-#EXTINF:0,Dens Food Channel (576p) [Geo-blocked]
-http://210.210.155.37/x6bnqe/s/s38/index.m3u8
-#EXTINF:0,RAI Italia Asia (576p)
-http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
-#EXTINF:0,Dens Life Style (576p) [Geo-blocked]
-http://210.210.155.37/x6bnqe/s/s65/index2.m3u8
-#EXTINF:0,U Channel (576p) [Not 24/7] [Geo-blocked]
-http://210.210.155.37/x6bnqe/s/s73/index2.m3u8
-#EXTINF:0,24/7 Avenger Movies
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145594
-#EXTINF:0,24/7 Back to the Future Trilogy
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145595
-#EXTINF:0,24/7 Harry Potter
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145660
-#EXTINF:0,USA | ANIMAL PLANET EAST
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145917
-#EXTINF:0,USA | BBC AMERICA
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145922
-#EXTINF:0,USA | DISCOVERY CHANNEL
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145942
-#EXTINF:0,USA | DISCOVERY FAMILY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145943
-#EXTINF:0,USA | DISCOVERY LIFE
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145944
-#EXTINF:0,USA | DISCOVERY SCIENCE
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145945
-#EXTINF:0,DISCOVERY SCIENCE
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145945
-#EXTINF:0,HISTORY CHANNEL
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145967
-#EXTINF:0,USA | TLC
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146002
-#EXTINF:0,CA | BBC EARTH
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146021
-#EXTINF:0,USA | PBS KIDS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146681
-#EXTINF:0,USA | TEEN NICK
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146682
-#EXTINF:0,USA | UNIVERSAL KIDS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146683
-#EXTINF:0,USA | Disney XD
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146684
-#EXTINF:0,EL: HBO 2
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35939
-#EXTINF:0,EL: HBO FAMILY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35940
-#EXTINF:0,[PT] AXN HD
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36698
-#EXTINF:0,[PT] AXN BLACK HD
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36699
-#EXTINF:0,[PT] AXN WHITE HD
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36700
-#EXTINF:0,RO: CINEMAX FHD
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39221
-#EXTINF:0,RO: HBO 3 FHD
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39279
-#EXTINF:0,RO: HBO RO 1
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39282
-#EXTINF:0,RO: HBO RO 3
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39284
-#EXTINF:0,RO: HBO Romania
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39285
-#EXTINF:0,US: FOX News | HD*
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52833
-#EXTINF:0,US: FOX | HD*
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52834
-#EXTINF:0,US: HISTORY CHANNEL | HD*
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52849
-#EXTINF:0,US: SYFY  | HD*
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52884
-#EXTINF:0,US: TBS EAST | HD*
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52885
-#EXTINF:0,US: beIN Sports 1 | HD*
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53184
-#EXTINF:0,bein Sports USA | HD
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53185
-#EXTINF:0,US: Bein Sports 2 | (ES)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53186
-#EXTINF:0,US: BeIN Sports 4 | HD*
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53188
-#EXTINF:0,US: BeIN Sports 6 | HD*
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53190
-#EXTINF:0,US: BeIN Sports 7 | HD*
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53191
-#EXTINF:0,US: BeIN Sports 8 | HD*
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53192
-#EXTINF:0,CGTN Documentary (576p)
-http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
-#EXTINF:0,CTi Asia (中天亞洲台) (720p)
-http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
-#EXTINF:0,FTV (民視) (720p)
-http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?ct=18335&tid=m15b424641a89&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
-#EXTINF:0,Kanal 10 Asia (540p)
-http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
-#EXTINF:30,Metro TV (480p) [Not 24/7]
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:0,FASHION 4K
-http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-#EXTINF:0,FOX MOVIES
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25035.ts
-#EXTINF:0,Pijar TV [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/pijartv
-#EXTINF:0,Sriwijaya TV [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sriwijayatvonline
-#EXTINF:0,I AM CHANNEL (576p) [Not 24/7]
-http://iamchannel.org:1935/tes/1/playlist.m3u8
-#EXTINF:0,Biznet Adventure (720p)
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
-#EXTINF:0,Biznet Kids (720p)
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
-#EXTINF:30,Biznet Lifestyle (720p)
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
-#EXTINF:0,NHK World Japan (720p)
-http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:0,Baby TV (480p)
-http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
-#EXTINF:0,TVM Internacional (480p) [Not 24/7]
-http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
-#EXTINF:22,NHK BS1 (480p)
-http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
-#EXTINF:25,NHK BSP (480p)
-http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
-#EXTINF:22,BS Nippon TV (480p)
-http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
-#EXTINF:24,BS Asahi (480p)
-http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
-#EXTINF:0,BS TBS (480p)
-http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
-#EXTINF:0,BS TV Tokyo
-http://redlabmcdn.s.llnwi.net/nv02/bs06hd/playlist.m3u8
-#EXTINF:0,BS Fuji TV (480p)
-http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
-#EXTINF:21,Star 1 (480p) [Not 24/7]
-http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
-#EXTINF:20,Star 2 (480p) [Not 24/7]
-http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
-#EXTINF:0,Disney Channel Japan (480p) [Not 24/7]
-http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
-#EXTINF:21,Animax (480p)
-http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
-#EXTINF:22,Animax
-http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
-#EXTINF:22,NHK E
-http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
-#EXTINF:22,NHK G
-http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
-#EXTINF:0,TV Asahi (480p)
-http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-#EXTINF:0,TV Tokyo
-http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
-#EXTINF:0,Tokyo MX1
-http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
-#EXTINF:0,Filma24 Animuar FHD
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/540
-#EXTINF:0,FTV Taiwan (民視台灣台) (720p) [Not 24/7]
-http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:0,Motorvision TV (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
-#EXTINF:0,FOX MOVIES
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52108
-#EXTINF:0,TLC HD
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129916.ts
-#EXTINF:0,Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
-http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-#EXTINF:0,Three Angels Broadcasting Network International (3ABN) (720p)
-https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
-#EXTINF:0,Bayu TV Nganjuk (720p)
-https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8
-#EXTINF:0,Bungo TV (480p) [Not 24/7]
-https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-#EXTINF:0,MQTV (720p) [Not 24/7]
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-#EXTINF:0,TV9 Nusantara (720p)
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:0,TV Tabalong (720p) [Not 24/7]
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-#EXTINF:0,Bahrain International (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-#EXTINF:0,dTVi (720p)
-https://alfa.kugo.id/dtvi/rtmp.stream/playlist.m3u8
-#EXTINF:0,Nabawi TV (576p)
-https://alfa.kugo.id/nabawitv/nabawitv/playlist.m3u8
-#EXTINF:0,Ainos (576i)
-https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
-#EXTINF:0,Kugo 1 (720p)
-https://alfa.kugo.id/playout/kugo1.stream/playlist.m3u8
-#EXTINF:29,kugo Star (576i)
-https://alfa.kugo.id/playout/KugoStar.stream/playlist.m3u8
-#EXTINF:30,Maleo (576i)
-https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-#EXTINF:0,POP musik (576i)
-https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
-#EXTINF:0,Alwafa Tarim TV (Am Media) (720p)
-https://ammedia.siar.us/ammedia/live/playlist.m3u8
-#EXTINF:0,TRT World (1080p) [Not 24/7]
-https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:0,Dhamma TV (720p) [Not 24/7]
-https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF:0,JakartaGlobe News (720p) [Not 24/7]
-https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
-#EXTINF:0,BeritaSatu (720p)
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:0,BeritaSatu World (720p) [Not 24/7]
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:18,playlist.m3u8
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:0,Garda TV (576p)
-https://bintangtv.siar.us/bintangtv/live/playlist.m3u8
-#EXTINF:0,Sea Today (720p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
-#EXTINF:0,Usee Prime (720p)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-#EXTINF:0,The Indonesia Channel (720p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
-#EXTINF:0,Ruang Trampil (480p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
-#EXTINF:0,Rodja TV (720p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
-#EXTINF:0,Jak TV (480p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
-#EXTINF:0,Channel 4U (720p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
-#EXTINF:0,Bali TV (720p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
-#EXTINF:0,MCC (720p)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/index.m3u8
-#EXTINF:0,Max2U (720p)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
-#EXTINF:0,mta tv (720p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
-#EXTINF:0,DigiOne (720p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
-#EXTINF:0,Kompas TV (720p)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-#EXTINF:60,Usee Photo (480p)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
-#EXTINF:0,BTV World (720p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
-#EXTINF:0,MGS TV (720p) [Not 24/7]
-https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
-#EXTINF:0,Sangaji TV (720p) [Not 24/7]
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-#EXTINF:0,UGTV (720p)
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-#EXTINF:0,The Indonesia Channel
-https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
-#EXTINF:0,EWTN Asia-Pacific (720p) [Not 24/7]
-https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-#EXTINF:0,UN Web TV (540p)
-https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:0,Classic Arts Showcase
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:0,Baywatch
-https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
-#EXTINF:0,CNA International (1080p)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:0,SKI TV (1080p) [Not 24/7]
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
-#EXTINF:0,World Poker Tour (1080p) [Not 24/7]
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
-#EXTINF:0,Dust (1080p)
-https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
-#EXTINF:0,STIRR MavTV (720p)
-https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
-#EXTINF:1800,DW English (1080p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0,BRTV (1080p) [Not 24/7]
-https://e1.siar.us/badartv/live/playlist.m3u8
-#EXTINF:0,Magna Channel (1080p) [Not 24/7]
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:0,Metro Globe Network (1080p) [Not 24/7]
-https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-#EXTINF:0,ERT World (720p)
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
-#EXTINF:32,Euronews German
-https://euronews.alteox.app/hls/de_stream.m3u8
-#EXTINF:0,Euronews English
-https://euronews.alteox.app/hls/en_stream.m3u8
-#EXTINF:0,Euronews Spanish
-https://euronews.alteox.app/hls/es_stream.m3u8
-#EXTINF:0,Euronews Italian
-https://euronews.alteox.app/hls/it_stream.m3u8
-#EXTINF:0,Euronews Portuguese
-https://euronews.alteox.app/hls/pt_stream.m3u8
-#EXTINF:0,Euronews Russian
-https://euronews.alteox.app/hls/ru_stream.m3u8
-#EXTINF:32,Fashion TV Midnite Secrets (1080p)
-https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:0,Insan TV (360p) [Geo-blocked]
-https://h1.intechmedia.net/intech/ch1.m3u8
-#EXTINF:0,Niaga TV (360p) [Geo-blocked]
-https://h1.intechmedia.net/intech/ch10.m3u8
-#EXTINF:0,Salam TV (360p) [Geo-blocked]
-https://h1.intechmedia.net/intech/ch12.m3u8
-#EXTINF:0,RadioKita TV (360p) [Geo-blocked]
-https://h1.intechmedia.net/intech/ch16.m3u8
-#EXTINF:0,Sunnah Jalan Pasti TV (360p) [Geo-blocked]
-https://h1.intechmedia.net/intech/ch17.m3u8
-#EXTINF:0,Ashiil TV (360p) [Geo-blocked]
-https://h1.intechmedia.net/intech/ch2.m3u8
-#EXTINF:0,Bin Baz TV (360p) [Geo-blocked]
-https://h1.intechmedia.net/intech/ch22.m3u8
-#EXTINF:0,Media Sunnah Aceh [Geo-blocked]
-https://h1.intechmedia.net/intech/ch23.m3u8
-#EXTINF:7,UFA 24 (360p) [Geo-blocked]
-https://h1.intechmedia.net/intech/ch27.m3u8
-#EXTINF:0,Surau TV (360p) [Geo-blocked]
-https://h1.intechmedia.net/intech/ch3.m3u8
-#EXTINF:0,BETV (360p) [Not 24/7] [Geo-blocked]
-https://h1.intechmedia.net/intech/ch30.m3u8
-#EXTINF:0,Ahsan TV (360p) [Geo-blocked]
-https://h1.intechmedia.net/intech/ch4.m3u8
-#EXTINF:7,Muadz (360p) [Geo-blocked]
-https://h1.intechmedia.net/intech/ch5.m3u8
-#EXTINF:0,DMTV Malang (360p) [Geo-blocked]
-https://h1.intechmedia.net/intech/ch51.m3u8
-#EXTINF:0,RB TV (360p) [Geo-blocked]
-https://h1.intechmedia.net/intech/ch59.m3u8
-#EXTINF:0,Rasyaad TV (360p) [Geo-blocked]
-https://h1.intechmedia.net/intech/ch6.m3u8
-#EXTINF:0,Hijrah TV (360p) [Geo-blocked]
-https://h1.intechmedia.net/intech/ch8.m3u8
-#EXTINF:0,Insight TV (1080p)
-https://insighttv-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0,Inspira TV (720p) [Not 24/7]
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:0,Al Jazeera English (1080p)
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
-#EXTINF:0,CNBC Indonesia (720p)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:0,CNN Indonesia (720p) [Geo-blocked]
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:0,MNB world
-https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" - BBC Earth (Vietnamese dub) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" - Da Vinci Asia (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
-#EXTINF:0, like Gecko Chrome/76.0.3809.25 Safari/537.36" - Animax Asia (Vietnamese Subs) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1,Animax Asia (Vietnamese Subs) (720p)
+#EXTGRP:ANIME
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" - Boomerang South East Asia (Vietnamese dub) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" - CBeebies Asia (Vietnamese dub) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" - Dreamworks Channel Asia (Vietnamese dub) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
-#EXTINF:0, like Gecko) Chrome/91.0.4472.124 Safari/537.36" - CNBC Asia (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
-#EXTINF:0,KBS World (Vietnamese Subtitles) (720p)
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-#EXTINF:0,MavTV Select (720p)
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0,Tokyo MX1
-https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-#EXTINF:0,Tokyo MX1 (720p)
-https://movie.mcas.jp/mcas/mx1_2/master.m3u8
-#EXTINF:0,Tokyo MX2
-https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-#EXTINF:0,Tokyo MX2 (720p)
-https://movie.mcas.jp/mcas/mx2_2/master.m3u8
-#EXTINF:24,Tokyo MX1
-https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
-#EXTINF:0,Tokyo MX2
-https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
-#EXTINF:0,Garuda TV (720p) [Not 24/7]
-https://ms.digdaya.tv/live/digdayatv/live.m3u8
-#EXTINF:0,ETB Basque (480p)
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-#EXTINF:0,NDR Fernsehen International
-https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:0,CGTN Français (576p) [Not 24/7]
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:0,NHK World Japan (1080p)
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:0,NHK World Japan (1080p)
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:0,NHK Worldᴴᴰ
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:0,Nusantara TV (720p)
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:0,Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0,Madu TV (576p)
-https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:0,Pluto TV Euronews (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,FIGHT SPORTS (1080p)
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:0,Sofy TV (720p)
-https://sofy-ger-samsung.amagi.tv/playlist.m3u8
-#EXTINF:30,Anime TV (360p) [Not 24/7]
+#EXTINF:1,Animax (480p)
+#EXTGRP:ANIME
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+#EXTINF:1,Animax (480p)
+#EXTGRP:ANIME
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+#EXTINF:2,Animax
+#EXTGRP:ANIME
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
+#EXTINF:2,Animax
+#EXTGRP:ANIME
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
+#EXTINF:0,Anime TV (360p) [Not 24/7]
+#EXTGRP:Others
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:0,RTP Internacional (504p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:0,RT Documentary Russian (1080p) [Not 24/7]
-https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
-#EXTINF:28,NBT World (720p)
-https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
-#EXTINF:0,Al-Iman TV (720p) [Geo-blocked]
-https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
-#EXTINF:30,MGI TV (720p) [Geo-blocked]
-https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
-#EXTINF:0,tvMu (720p)
-https://tvmu.siar.us/tvmu/live/playlist.m3u8
-#EXTINF:32,NASA TV (720p)
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:33,ADiTV (720p) [Not 24/7]
-https://v2.siar.us/aditv/livestream/chunks.m3u8
-#EXTINF:0,Banyumas TV (720p) [Geo-blocked]
-https://v2.siar.us/bmstv/livestream/playlist.m3u8
-#EXTINF:23,Jawa Pos TV (480p) [Not 24/7]
-https://v2.siar.us/jawapostv/live/chunks.m3u8
-#EXTINF:0,Sakti TV (480p) [Not 24/7]
-https://v2.siar.us/saktitv/livestream/playlist.m3u8
-#EXTINF:0,TATV (720p) [Not 24/7]
-https://v2.siar.us/tatv/live.sdp/playlist.m3u8
-#EXTINF:0,Huma Betang TV (720p) [Not 24/7]
-https://v3.siar.us/humabetangtv/live/playlist.m3u8
-#EXTINF:0,Pal TV (720p) [Not 24/7]
-https://v3.siar.us/paltv/live/playlist.m3u8
-#EXTINF:0,Trans7 (720p)
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:100,Trans TV (720p)
+#EXTINF:-1,Disney Channel Japan (480p) [Not 24/7]
+#EXTGRP:ANIME
+http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
+#EXTINF:0,Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
+#EXTGRP:ANIME
+http://210.210.155.37/dr9445/h/h02/index.m3u8
+#EXTINF:0,Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
+#EXTGRP:ANIME
+http://210.210.155.37/dr9445/h/h02/index.m3u8
+#EXTINF:-1,Cartoon Network Asia (720p)
+#EXTGRP:ANIME
+http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
+#EXTINF:-1,Filma24 Animuar FHD
+#EXTGRP:ANIME
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/540
+#EXTINF:-1,TV Tokyo
+#EXTGRP:JAPAN
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
+#EXTINF:-1,Tokyo MX1
+#EXTGRP:JAPAN
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
+#EXTINF:-1,Tokyo MX1
+#EXTGRP:JAPAN
+https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1,Tokyo MX1 (720p)
+#EXTGRP:JAPAN
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:-1,Tokyo MX2
+#EXTGRP:JAPAN
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1,Tokyo MX2 (720p)
+#EXTGRP:JAPAN
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:4,Tokyo MX1
+#EXTGRP:JAPAN
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+#EXTINF:-1,Tokyo MX2
+#EXTGRP:JAPAN
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+#EXTINF:2,BS Nippon TV (480p)
+#EXTGRP:JAPAN
+http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
+#EXTINF:-1,TV Asahi (480p)
+#EXTGRP:JAPAN
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:4,BS Asahi (480p)
+#EXTGRP:JAPAN
+http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
+#EXTINF:-1,BS TBS (480p)
+#EXTGRP:JAPAN
+http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
+#EXTINF:-1,BS TV Tokyo
+#EXTGRP:JAPAN
+http://redlabmcdn.s.llnwi.net/nv02/bs06hd/playlist.m3u8
+#EXTINF:-1,BS Fuji TV (480p)
+#EXTGRP:JAPAN
+http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
+#EXTINF:-1,NHK World Japan (1080p)
+#EXTGRP:JAPAN
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1,NHK Worldᴴᴰ
+#EXTGRP:JAPAN
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:2,NHK E
+#EXTGRP:JAPAN
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
+#EXTINF:2,NHK G
+#EXTGRP:JAPAN
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
+#EXTINF:-1,NHK World Japan (720p)
+#EXTGRP:JAPAN
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:2,NHK BS1 (480p)
+#EXTGRP:JAPAN
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
+#EXTINF:5,NHK BSP (480p)
+#EXTGRP:JAPAN
+http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
+#EXTINF:00,Trans TV (720p)
+#EXTGRP:INDO
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:0,ATVLI (720p)
+#EXTINF:-1,Trans7 (720p)
+#EXTGRP:INDO
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1,Sakti TV (480p) [Not 24/7]
+#EXTGRP:INDO
+https://v2.siar.us/saktitv/livestream/playlist.m3u8
+#EXTINF:-1,tvMu (720p)
+#EXTGRP:INDO
+https://tvmu.siar.us/tvmu/live/playlist.m3u8
+#EXTINF:-1,Banyumas TV (720p) [Geo-blocked]
+#EXTGRP:INDO
+https://v2.siar.us/bmstv/livestream/playlist.m3u8
+#EXTINF:3,Jawa Pos TV (480p) [Not 24/7]
+#EXTGRP:INDO
+https://v2.siar.us/jawapostv/live/chunks.m3u8
+#EXTINF:-1,Garuda TV (720p) [Not 24/7]
+#EXTGRP:INDO
+https://ms.digdaya.tv/live/digdayatv/live.m3u8
+#EXTINF:0,TVR Parlemen (720p) [Not 24/7]
+#EXTGRP:INDO
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:-1,Jogja Istimewa TV (720p)
+#EXTGRP:INDO
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:0,Semarang TV (720p)
+#EXTGRP:INDO
+http://116.254.112.74/hls/cakralive.m3u8
+#EXTINF:-1,Batu TV (576p) [Not 24/7]
+#EXTGRP:INDO
+http://117.103.69.219:8080/live/streaming/index.m3u8
+#EXTINF:-1,TVRI World (720p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:-1,SCTV (480p) [Geo-blocked]
+#EXTGRP:INDO
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+#EXTINF:-1,TVRI Sport (720p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1,Indosiar (480p) [Geo-blocked]
+#EXTGRP:INDO
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+#EXTINF:-1,ANTV (480p) [Geo-blocked]
+#EXTGRP:INDO
+http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1,NET. (480p) [Geo-blocked]
+#EXTGRP:INDO
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+#EXTINF:0,Elshinta TV (480p) [Not 24/7] [Geo-blocked]
+#EXTGRP:INDO
+http://210.210.155.37/qwr9ew/s/s10/index.m3u8
+#EXTINF:-1,tvOne (480p) [Geo-blocked]
+#EXTGRP:INDO
+http://210.210.155.37/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1,TVRI Aceh (720p) [Not 24/7]
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+#EXTINF:-1,TVRI Bangka Belitung (480p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+#EXTINF:-1,TVRI Bali (480p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+#EXTINF:-1,TVRI Bengkulu (480p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+#EXTINF:-1,TVRI DKI Jakarta (720p) [Not 24/7]
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+#EXTINF:-1,TVRI Gorontalo (480p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+#EXTINF:-1,TVRI Jawa Barat (480p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+#EXTINF:-1,TVRI Jambi (720p) [Not 24/7]
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+#EXTINF:-1,TVRI Jawa Tengah (720p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+#EXTINF:-1,TVRI Jawa Timur (720p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+#EXTINF:-1,TVRI Kalimantan Barat (480p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+#EXTINF:-1,TVRI Kalimantan Selatan (720p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+#EXTINF:-1,TVRI Kalimantan Tengah (480p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+#EXTINF:20,TVRI Kalimantan Timur (720p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+#EXTINF:-1,TVRI Lampung (720p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+#EXTINF:-1,TVRI Maluku (480p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+#EXTINF:-1,TVRI Nasional (720p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:-1,TVRI Nusa Tenggara Barat (720p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+#EXTINF:-1,TVRI Nusa Tenggara Timur (480p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+#EXTINF:-1,TVRI Papua (480p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+#EXTINF:-1,Bayu TV Nganjuk (720p)
+#EXTGRP:INDO
+https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8
+#EXTINF:-1,Bali TV (720p) [Geo-blocked]
+#EXTGRP:INDO
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:-1,Kompas TV (720p)
+#EXTGRP:INDO
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:0,Usee Photo (480p)
+#EXTGRP:INDO
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+#EXTINF:-1,The Indonesia Channel
+#EXTGRP:INDO
+https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
+#EXTINF:-1,RadioKita TV (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch16.m3u8
+#EXTINF:-1,Bin Baz TV (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch22.m3u8
+#EXTINF:-1,Media Sunnah Aceh [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch23.m3u8
+#EXTINF:-1,Nusantara TV (720p)
+#EXTGRP:INDO
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:-1,CNBC Indonesia (720p)
+#EXTGRP:INDO
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1,CNN Indonesia (720p) [Geo-blocked]
+#EXTGRP:INDO
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,Inspira TV (720p) [Not 24/7]
+#EXTGRP:Others
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1,Sunnah Jalan Pasti TV (360p) [Geo-blocked]
+#EXTGRP:INDO
+https://h1.intechmedia.net/intech/ch17.m3u8
+#EXTINF:-1,UGTV (720p)
+#EXTGRP:INDO
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1,The Indonesia Channel (720p) [Geo-blocked]
+#EXTGRP:INDO
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+#EXTINF:-1,Jak TV (480p) [Geo-blocked]
+#EXTGRP:INDO
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+#EXTINF:-1,Biznet Adventure (720p)
+#EXTGRP:INDO
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
+#EXTINF:-1,Biznet Kids (720p)
+#EXTGRP:INDO
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
+#EXTINF:0,Biznet Lifestyle (720p)
+#EXTGRP:INDO
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
+#EXTINF:0,Metro TV (480p) [Not 24/7]
+#EXTGRP:INDO
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1,TVRI Riau (720p) [Not 24/7]
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
+#EXTINF:-1,TVRI Sulawesi Barat (720p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
+#EXTINF:-1,TVRI Sulawesi Selatan (480p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+#EXTINF:-1,TVRI Sulawesi Tengah (720p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+#EXTINF:-1,TVRI Sulawesi Tenggara (480p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+#EXTINF:-1,TVRI Sumatera Barat (720p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+#EXTINF:-1,TVRI Sumatera Selatan (480p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+#EXTINF:-1,TVRI Yogyakarta (720p)
+#EXTGRP:INDO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+#EXTINF:-1,TV Edukasi (576p)
+#EXTGRP:INDO
+http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
+#EXTINF:-1,Riau TV (576p) [Not 24/7]
+#EXTGRP:INDO
+http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+#EXTINF:-1,Pon TV (360p) [Not 24/7]
+#EXTGRP:INDO
+http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
+#EXTINF:-1,Padang TV (720p) [Not 24/7]
+#EXTGRP:INDO
+http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
+#EXTINF:-1,Kawanua TV (720p)
+#EXTGRP:INDO
+http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
+#EXTINF:-1,JTV (720p) [Not 24/7]
+#EXTGRP:INDO
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:-1,Jambi TV (576p) [Not 24/7]
+#EXTGRP:INDO
+http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
+#EXTINF:-1,SMTV (720p) [Not 24/7]
+#EXTGRP:INDO
+http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+#EXTINF:-1,Fajar TV (240p) [Not 24/7]
+#EXTGRP:INDO
+http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
+#EXTINF:-1,Simpang5 TV (360p) [Not 24/7]
+#EXTGRP:INDO
+http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
+#EXTINF:-1,RCTV (720p) [Not 24/7]
+#EXTGRP:INDO
+http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
+#EXTINF:-1,Sriwijaya TV [Not 24/7]
+#EXTGRP:INDO
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sriwijayatvonline
+#EXTINF:-1,Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
+#EXTGRP:INDO
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+#EXTINF:-1,JakartaGlobe News (720p) [Not 24/7]
+#EXTGRP:INDO
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+#EXTINF:-1,BeritaSatu (720p)
+#EXTGRP:INDO
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1,BeritaSatu World (720p) [Not 24/7]
+#EXTGRP:INDO
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:0,Zee Bioskop (360p) [Geo-blocked]
+#EXTGRP:MOVIE
+http://210.210.155.37/qwr9ew/s/s32/index.m3u8
+#EXTINF:0,Thrill ID
+#EXTGRP:MOVIE
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1,My Cinema (1080p)
+#EXTGRP:MOVIE
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:-1,My Cinema Asia (1080p) [Geo-blocked]
+#EXTGRP:MOVIE
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:-1,My Family Channel (1080p) [Geo-blocked]
+#EXTGRP:MOVIE
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA | ThrillerMAX (East)
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147365
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA | ThrillerMAX (West)
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147366
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",24/7 The Matrix
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145759
+#EXTINF:-1,24/7 Avenger Movies
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145594
+#EXTINF:-1,24/7 Back to the Future Trilogy
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145595
+#EXTINF:-1,24/7 Harry Potter
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145660
+#EXTINF:-1,Baywatch
+#EXTGRP:MOVIE
+https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
+#EXTINF:-1,FOX MOVIES
+#EXTGRP:MOVIE
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52108
+#EXTINF:-1,FOX MOVIES
+#EXTGRP:MOVIE
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/25035.ts
+#EXTINF:-1,TLC HD
+#EXTGRP:MOVIE
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129916.ts
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA | HBO Signature (East)
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147308
+#EXTINF:-1,EL: HBO 2
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35939
+#EXTINF:-1,EL: HBO FAMILY
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35940
+#EXTINF:-1,[PT] AXN HD
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36698
+#EXTINF:-1,[PT] AXN BLACK HD
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36699
+#EXTINF:-1,[PT] AXN WHITE HD
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36700
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA | CineMAX (East)
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147313
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA | CineMAX (West)
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147314
+#EXTINF:-1,RO: CINEMAX FHD
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39221
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA | HBO (West)
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147299
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA | HBO 2 (West)
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147301
+#EXTINF:-1,RO: HBO 3 FHD
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39279
+#EXTINF:-1,RO: HBO RO 1
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39282
+#EXTINF:-1,RO: HBO RO 3
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39284
+#EXTINF:-1,RO: HBO Romania
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39285
+#EXTINF:-1,US: FOX News | HD*
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52833
+#EXTINF:-1,US: FOX | HD*
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52834
+#EXTINF:-1,US: HISTORY CHANNEL | HD*
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52849
+#EXTINF:-1,TLC HD
+#EXTGRP:MOVIE
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129916.ts
+#EXTINF:-1,USA | ANIMAL PLANET EAST
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145917
+#EXTINF:-1,USA | BBC AMERICA
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145922
+#EXTINF:-1,USA | DISCOVERY CHANNEL
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145942
+#EXTINF:-1,USA | DISCOVERY FAMILY
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145943
+#EXTINF:-1,USA | DISCOVERY LIFE
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145944
+#EXTINF:-1,USA | DISCOVERY SCIENCE
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145945
+#EXTINF:-1,HISTORY CHANNEL
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145967
+#EXTINF:-1,USA | TLC
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146002
+#EXTINF:8,BBC US
+#EXTGRP:MOVIE
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:8,BBC US
+#EXTGRP:MOVIE
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1,CA | BBC EARTH
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146021
+#EXTINF:-1,USA | PBS KIDS
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146681
+#EXTINF:-1,USA | TEEN NICK
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146682
+#EXTINF:-1,USA | UNIVERSAL KIDS
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146683
+#EXTINF:-1,USA | Disney XD
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146684
+#EXTINF:-1,US: SYFY  | HD*
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52884
+#EXTINF:-1,US: TBS EAST | HD*
+#EXTGRP:MOVIE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52885
+#EXTINF:-1,FASHION 4K
+#EXTGRP:MOVIE
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/wLDxN0k/download-1.png",Fashion TV UHD
+#EXTGRP:MOVIE
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:2,Fashion TV Midnite Secrets (1080p)
+#EXTGRP:MOVIE
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:1,Star 1 (480p) [Not 24/7]
+#EXTGRP:MOVIE
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
+#EXTINF:0,Star 2 (480p) [Not 24/7]
+#EXTGRP:MOVIE
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
+#EXTINF:0,Mecca
+#EXTGRP:Others
+http://210.210.155.35/qwr9ew/s/s27/index.m3u8
+#EXTINF:0,Medina
+#EXTGRP:Others
+http://210.210.155.35/qwr9ew/s/s28/index.m3u8
+#EXTINF:-1,K+ (Indonesian subtitle) (576p)
+#EXTGRP:Others
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:-1,CGTN (576p)
+#EXTGRP:Others
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=14&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1,JPM TV (720p) [Not 24/7]
+#EXTGRP:Others
+http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
+#EXTINF:-1,Pal TV (720p) [Not 24/7]
+#EXTGRP:Others
+http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
+#EXTINF:-1,Euro Indie Music Chart TV (360p)
+#EXTGRP:Others
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:0,Bloomberg TV Asia (576p)
+#EXTGRP:Others
+http://210.210.155.37/dr9445/h/h03/index.m3u8
+#EXTINF:-1,RTV (576p) [Geo-blocked]
+#EXTGRP:Others
+http://210.210.155.37/dr9445/h/h10/index.m3u8
+#EXTINF:-1,CCTV-4 Asia (576p)
+#EXTGRP:Others
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1,RTP Internacional Asia (480p)
+#EXTGRP:Others
+http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1,Moji (480p) [Geo-blocked]
+#EXTGRP:Others
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+#EXTINF:-1,One TV Asia (576p) [Geo-blocked]
+#EXTGRP:Others
+http://210.210.155.37/uq2663/h/h143/index.m3u8
+#EXTINF:-1,TVE Internacional Asia-Oceania (576p)
+#EXTGRP:Others
+http://210.210.155.37/uq2663/h/h158/index2.m3u8
+#EXTINF:-1,My Kidz (1080p) [Geo-blocked]
+#EXTGRP:Others
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+#EXTINF:-1,Wion (576p)
+#EXTGRP:Others
+http://210.210.155.37/uq2663/h/h91/index.m3u8
+#EXTINF:-1,Dens Play (720p) [Geo-blocked]
+#EXTGRP:Others
+http://210.210.155.37/x6bnqe/s/s101/live.m3u8
+#EXTINF:-1,Dens ShowBiz (576p) [Geo-blocked]
+#EXTGRP:Others
+http://210.210.155.37/x6bnqe/s/s35/index.m3u8
+#EXTINF:-1,Dens Knowledge and Learning (576p) [Geo-blocked]
+#EXTGRP:Others
+http://210.210.155.37/x6bnqe/s/s36/index.m3u8
+#EXTINF:-1,Dens Food Channel (576p) [Geo-blocked]
+#EXTGRP:Others
+http://210.210.155.37/x6bnqe/s/s38/index.m3u8
+#EXTINF:-1,RAI Italia Asia (576p)
+#EXTGRP:Others
+http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
+#EXTINF:-1,Dens Life Style (576p) [Geo-blocked]
+#EXTGRP:Others
+http://210.210.155.37/x6bnqe/s/s65/index2.m3u8
+#EXTINF:-1,U Channel (576p) [Not 24/7] [Geo-blocked]
+#EXTGRP:Others
+http://210.210.155.37/x6bnqe/s/s73/index2.m3u8
+#EXTINF:-1,CGTN Documentary (576p)
+#EXTGRP:Others
+http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+#EXTINF:-1,CTi Asia (中天亞洲台) (720p)
+#EXTGRP:Others
+http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
+#EXTINF:-1,FTV (民視) (720p)
+#EXTGRP:Others
+http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?ct=18335&tid=m15b424641a89&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+#EXTINF:-1,Kanal 10 Asia (540p)
+#EXTGRP:Others
+http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+#EXTINF:-1,Pijar TV [Not 24/7]
+#EXTGRP:Others
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/pijartv
+#EXTINF:-1,I AM CHANNEL (576p) [Not 24/7]
+#EXTGRP:Others
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+#EXTINF:-1,Baby TV (480p)
+#EXTGRP:Others
+http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
+#EXTINF:-1,TVM Internacional (480p) [Not 24/7]
+#EXTGRP:Others
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1,FTV Taiwan (民視台灣台) (720p) [Not 24/7]
+#EXTGRP:Others
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1,Motorvision TV (720p)
+#EXTGRP:Others
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
+#EXTINF:-1,Three Angels Broadcasting Network International (3ABN) (720p)
+#EXTGRP:Others
+https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
+#EXTINF:-1,Bungo TV (480p) [Not 24/7]
+#EXTGRP:Others
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTINF:-1,MQTV (720p) [Not 24/7]
+#EXTGRP:Others
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1,TV9 Nusantara (720p)
+#EXTGRP:Others
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1,TV Tabalong (720p) [Not 24/7]
+#EXTGRP:Others
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1,Bahrain International (720p) [Not 24/7]
+#EXTGRP:Others
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1,dTVi (720p)
+#EXTGRP:Others
+https://alfa.kugo.id/dtvi/rtmp.stream/playlist.m3u8
+#EXTINF:-1,Nabawi TV (576p)
+#EXTGRP:Others
+https://alfa.kugo.id/nabawitv/nabawitv/playlist.m3u8
+#EXTINF:-1,Ainos (576i)
+#EXTGRP:Others
+https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
+#EXTINF:-1,Kugo 1 (720p)
+#EXTGRP:Others
+https://alfa.kugo.id/playout/kugo1.stream/playlist.m3u8
+#EXTINF:9,kugo Star (576i)
+#EXTGRP:Others
+https://alfa.kugo.id/playout/KugoStar.stream/playlist.m3u8
+#EXTINF:0,Maleo (576i)
+#EXTGRP:Others
+https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+#EXTINF:-1,POP musik (576i)
+#EXTGRP:Others
+https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
+#EXTINF:-1,Alwafa Tarim TV (Am Media) (720p)
+#EXTGRP:Others
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+#EXTINF:-1,TRT World (1080p) [Not 24/7]
+#EXTGRP:Others
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1,Dhamma TV (720p) [Not 24/7]
+#EXTGRP:Others
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1,Garda TV (576p)
+#EXTGRP:Others
+https://bintangtv.siar.us/bintangtv/live/playlist.m3u8
+#EXTINF:-1,Sea Today (720p) [Geo-blocked]
+#EXTGRP:Others
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:-1,Usee Prime (720p)
+#EXTGRP:Others
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1,Ruang Trampil (480p) [Geo-blocked]
+#EXTGRP:Others
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
+#EXTINF:-1,Rodja TV (720p) [Geo-blocked]
+#EXTGRP:Others
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+#EXTINF:-1,Channel 4U (720p) [Geo-blocked]
+#EXTGRP:Others
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
+#EXTINF:-1,MCC (720p)
+#EXTGRP:Others
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/index.m3u8
+#EXTINF:-1,Max2U (720p)
+#EXTGRP:Others
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
+#EXTINF:-1,mta tv (720p) [Geo-blocked]
+#EXTGRP:Others
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+#EXTINF:-1,DigiOne (720p) [Geo-blocked]
+#EXTGRP:Others
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#EXTINF:-1,BTV World (720p) [Not 24/7]
+#EXTGRP:Others
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
+#EXTINF:-1,MGS TV (720p) [Not 24/7]
+#EXTGRP:Others
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+#EXTINF:-1,Sangaji TV (720p) [Not 24/7]
+#EXTGRP:Others
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+#EXTINF:-1,EWTN Asia-Pacific (720p) [Not 24/7]
+#EXTGRP:Others
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1,UN Web TV (540p)
+#EXTGRP:Others
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1,Classic Arts Showcase
+#EXTGRP:Others
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1,CNA International (1080p)
+#EXTGRP:Others
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1,SKI TV (1080p) [Not 24/7]
+#EXTGRP:Others
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
+#EXTINF:-1,World Poker Tour (1080p) [Not 24/7]
+#EXTGRP:Others
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
+#EXTINF:-1,Dust (1080p)
+#EXTGRP:Others
+https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
+#EXTINF:-1,STIRR MavTV (720p)
+#EXTGRP:Others
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1,Magna Channel (1080p) [Not 24/7]
+#EXTGRP:Others
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:800,DW English (1080p)
+#EXTGRP:Others
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,BRTV (1080p) [Not 24/7]
+#EXTGRP:Others
+https://e1.siar.us/badartv/live/playlist.m3u8
+#EXTINF:-1,ERT World (720p)
+#EXTGRP:Others
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1,Metro Globe Network (1080p) [Not 24/7]
+#EXTGRP:Others
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:2,Euronews German
+#EXTGRP:Others
+https://euronews.alteox.app/hls/de_stream.m3u8
+#EXTINF:-1,Euronews English
+#EXTGRP:Others
+https://euronews.alteox.app/hls/en_stream.m3u8
+#EXTINF:-1,Euronews Spanish
+#EXTGRP:Others
+https://euronews.alteox.app/hls/es_stream.m3u8
+#EXTINF:-1,Euronews Italian
+#EXTGRP:Others
+https://euronews.alteox.app/hls/it_stream.m3u8
+#EXTINF:-1,Euronews Portuguese
+#EXTGRP:Others
+https://euronews.alteox.app/hls/pt_stream.m3u8
+#EXTINF:-1,Euronews Russian
+#EXTGRP:Others
+https://euronews.alteox.app/hls/ru_stream.m3u8
+#EXTINF:-1,Insan TV (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:-1,Niaga TV (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch10.m3u8
+#EXTINF:-1,Salam TV (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch12.m3u8
+#EXTINF:-1,RadioKita TV (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch16.m3u8
+#EXTINF:-1,Ashiil TV (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch2.m3u8
+#EXTINF:-1,Bin Baz TV (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch22.m3u8
+#EXTINF:-1,Media Sunnah Aceh [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch23.m3u8
+#EXTINF:-1,UFA 24 (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch27.m3u8
+#EXTINF:-1,Surau TV (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch3.m3u8
+#EXTINF:-1,BETV (360p) [Not 24/7] [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch30.m3u8
+#EXTINF:-1,Ahsan TV (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch4.m3u8
+#EXTINF:-1,Muadz (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch5.m3u8
+#EXTINF:-1,DMTV Malang (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch51.m3u8
+#EXTINF:-1,RB TV (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch59.m3u8
+#EXTINF:-1,Rasyaad TV (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch6.m3u8
+#EXTINF:-1,Hijrah TV (360p) [Geo-blocked]
+#EXTGRP:Others
+https://h1.intechmedia.net/intech/ch8.m3u8
+#EXTINF:-1,Insight TV (1080p)
+#EXTGRP:Others
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Inspira TV (720p) [Not 24/7]
+#EXTGRP:Others
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1,Al Jazeera English (1080p)
+#EXTGRP:Others
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1,MNB world
+#EXTGRP:Others
+https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
+#EXTINF:-1,BBC Earth (Vietnamese dub) (1080p)
+#EXTGRP:Others
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Da Vinci Asia (1080p)
+#EXTGRP:Others
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Boomerang South East Asia (Vietnamese dub) (1080p)...
+#EXTGRP:Others
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
+#EXTINF:-1,CBeebies Asia (Vietnamese dub) (1080
+#EXTGRP:Others
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Dreamworks Channel Asia (Vietnamese dub) (1080p)
+#EXTGRP:Others
+https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
+#EXTINF:-1,CNBC Asia (720p)
+#EXTGRP:Others
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
+#EXTINF:-1,KBS World (Vietnamese Subtitles) (720p)
+#EXTGRP:Others
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1,MavTV Select (720p)
+#EXTGRP:Others
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,ETB Basque (480p)
+#EXTGRP:Others
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:-1,NDR Fernsehen International
+#EXTGRP:Others
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1,CGTN Français (576p) [Not 24/7]
+#EXTGRP:Others
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1,Madu TV (576p)
+#EXTGRP:Others
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1,Pluto TV Euronews (720p) [Not 24/7]
+#EXTGRP:Others
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,FIGHT SPORTS (1080p)
+#EXTGRP:Others
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1,Sofy TV (720p)
+#EXTGRP:Others
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0,Anime TV (360p) [Not 24/7]
+#EXTGRP:Others
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1,RTP Internacional (504p) [Not 24/7]
+#EXTGRP:Others
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1,RT Documentary Russian (1080p) [Not 24/7]
+#EXTGRP:Others
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:8,NBT World (720p)
+#EXTGRP:Others
+https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
+#EXTINF:-1,Al-Iman TV (720p) [Geo-blocked]
+#EXTGRP:Others
+https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
+#EXTINF:0,MGI TV (720p) [Geo-blocked]
+#EXTGRP:Others
+https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
+#EXTINF:2,NASA TV (720p)
+#EXTGRP:Others
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:3,ADiTV (720p) [Not 24/7]
+#EXTGRP:Others
+https://v2.siar.us/aditv/livestream/chunks.m3u8
+#EXTINF:-1,TATV (720p) [Not 24/7]
+#EXTGRP:Others
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1,Huma Betang TV (720p) [Not 24/7]
+#EXTGRP:Others
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+#EXTINF:-1,Pal TV (720p) [Not 24/7]
+#EXTGRP:Others
+https://v3.siar.us/paltv/live/playlist.m3u8
+#EXTINF:-1,ATVLI (720p)
+#EXTGRP:Others
 https://wowza.convergen.co/atvli/atvli.stream/playlist.m3u8
-#EXTINF:0,GPR TV (720p)
+#EXTINF:-1,GPR TV (720p)
+#EXTGRP:Others
 https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/wLDxN0k/download-1.png",Arirang Korea
+#EXTGRP:Others
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/arirang_1ch.smil/.m3u8
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/wLDxN0k/download-1.png",Arirang
+#EXTGRP:Others
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/wLDxN0k/download-1.png",Ariang KOREA
+#EXTGRP:Others
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/wLDxN0k/download-1.png",Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/wLDxN0k/download-1.png",RED BULL TV OPT 1
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.ts
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/wLDxN0k/download-1.png",beIN SPORTS XTRA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=false&paln=&includeExtendedEvents=false&architecture=&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&appName=web
+#EXTINF:-1,Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,US: beIN Sports 1 | HD*
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53184
+#EXTINF:-1,bein Sports USA | HD
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53185
+#EXTINF:-1,US: Bein Sports 2 | (ES)
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53186
+#EXTINF:-1,US: BeIN Sports 4 | HD*
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53188
+#EXTINF:-1,US: BeIN Sports 6 | HD*
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53190
+#EXTINF:-1,US: BeIN Sports 7 | HD*
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53191
+#EXTINF:-1,US: BeIN Sports 8 | HD*
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53192
