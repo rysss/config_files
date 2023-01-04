@@ -1,352 +1,361 @@
 #EXTM3U
 #EXTINF:1 tvg-id="RajawaliTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-titl...,RTV (576p) [Geo-blocked]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 #EXTINF:-1,Biznet Adventure (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
 #EXTINF:-1,Biznet Kids (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 #EXTINF:-1,Biznet Lifestyle (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
-#EXTINF:-1,Medina
-#EXTGRP:INDO
-http://210.210.155.35/qwr9ew/s/s27/index.m3u8
-#EXTINF:-1,Mecca
-#EXTGRP:INDO
-http://210.210.155.35/qwr9ew/s/s28/index.m3u8
 #EXTINF:-1,Trans TV (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1,Trans7 (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1,Sakti TV (480p) [Not 24/7]
-#EXTGRP:INDO
-https://v2.siar.us/saktitv/livestream/playlist.m3u8
-#EXTINF:-1,tvMu (720p)
-#EXTGRP:INDO
-https://tvmu.siar.us/tvmu/live/playlist.m3u8
-#EXTINF:-1,Banyumas TV (720p) [Geo-blocked]
-#EXTGRP:INDO
-https://v2.siar.us/bmstv/livestream/playlist.m3u8
-#EXTINF:-1,Jawa Pos TV (480p) [Not 24/7]
-#EXTGRP:INDO
-https://v2.siar.us/jawapostv/live/chunks.m3u8
-#EXTINF:-1,Garuda TV (720p) [Not 24/7]
-#EXTGRP:INDO
-https://ms.digdaya.tv/live/digdayatv/live.m3u8
-#EXTINF:-1,Jogja Istimewa TV (720p)
-#EXTGRP:INDO
-http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:-1,Semarang TV (720p)
-#EXTGRP:INDO
-http://116.254.112.74/hls/cakralive.m3u8
-#EXTINF:-1,Batu TV (576p) [Not 24/7]
-#EXTGRP:INDO
-http://117.103.69.219:8080/live/streaming/index.m3u8
+#EXTINF:-1,Medina
+#EXTGRP:INDO CHANNEL
+http://210.210.155.35/qwr9ew/s/s27/index.m3u8
+#EXTINF:-1,Mecca
+#EXTGRP:INDO CHANNEL
+http://210.210.155.35/qwr9ew/s/s28/index.m3u8
 #EXTINF:-1,SCTV (480p) [Geo-blocked]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1,Indosiar (480p) [Geo-blocked]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1,ANTV (480p) [Geo-blocked]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1,NET. (480p) [Geo-blocked]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
-#EXTINF:-1,Elshinta TV (480p) [Not 24/7] [Geo-blocked]
-#EXTGRP:INDO
-http://210.210.155.37/qwr9ew/s/s10/index.m3u8
 #EXTINF:-1,tvOne (480p) [Geo-blocked]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://210.210.155.37/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1,Bali TV (720p) [Geo-blocked]
-#EXTGRP:INDO
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
-#EXTINF:-1,Kompas TV (720p)
-#EXTGRP:INDO
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-#EXTINF:-1,Usee Photo (480p)
-#EXTGRP:INDO
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
-#EXTINF:-1,The Indonesia Channel
-#EXTGRP:INDO
-https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
-#EXTINF:-1,RadioKita TV (360p) [Geo-blocked]
-#EXTGRP:INDO
-https://h1.intechmedia.net/intech/ch16.m3u8
-#EXTINF:-1,Bin Baz TV (360p) [Geo-blocked]
-#EXTGRP:INDO
-https://h1.intechmedia.net/intech/ch22.m3u8
-#EXTINF:-1,Media Sunnah Aceh [Geo-blocked]
-#EXTGRP:INDO
-https://h1.intechmedia.net/intech/ch23.m3u8
-#EXTINF:-1,Nusantara TV (720p)
-#EXTGRP:INDO
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1,CNBC Indonesia (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1,CNN Indonesia (720p) [Geo-blocked]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,Sakti TV (480p) [Not 24/7]
+#EXTGRP:INDO CHANNEL
+https://v2.siar.us/saktitv/livestream/playlist.m3u8
+#EXTINF:-1,tvMu (720p)
+#EXTGRP:INDO CHANNEL
+https://tvmu.siar.us/tvmu/live/playlist.m3u8
+#EXTINF:-1,Banyumas TV (720p) [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+https://v2.siar.us/bmstv/livestream/playlist.m3u8
+#EXTINF:-1,Jawa Pos TV (480p) [Not 24/7]
+#EXTGRP:INDO CHANNEL
+https://v2.siar.us/jawapostv/live/chunks.m3u8
+#EXTINF:-1,Garuda TV (720p) [Not 24/7]
+#EXTGRP:INDO CHANNEL
+https://ms.digdaya.tv/live/digdayatv/live.m3u8
+#EXTINF:-1,Jogja Istimewa TV (720p)
+#EXTGRP:INDO CHANNEL
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1,Semarang TV (720p)
+#EXTGRP:INDO CHANNEL
+http://116.254.112.74/hls/cakralive.m3u8
+#EXTINF:-1,Batu TV (576p) [Not 24/7]
+#EXTGRP:INDO CHANNEL
+http://117.103.69.219:8080/live/streaming/index.m3u8
+#EXTINF:-1,Elshinta TV (480p) [Not 24/7] [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+http://210.210.155.37/qwr9ew/s/s10/index.m3u8
+#EXTINF:-1,Bali TV (720p) [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:-1,Kompas TV (720p)
+#EXTGRP:INDO CHANNEL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1,Usee Photo (480p)
+#EXTGRP:INDO CHANNEL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+#EXTINF:-1,The Indonesia Channel
+#EXTGRP:INDO CHANNEL
+https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
+#EXTINF:-1,RadioKita TV (360p) [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+https://h1.intechmedia.net/intech/ch16.m3u8
+#EXTINF:-1,Bin Baz TV (360p) [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+https://h1.intechmedia.net/intech/ch22.m3u8
+#EXTINF:-1,Media Sunnah Aceh [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+https://h1.intechmedia.net/intech/ch23.m3u8
+#EXTINF:-1,Nusantara TV (720p)
+#EXTGRP:INDO CHANNEL
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1,Inspira TV (720p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1,Sunnah Jalan Pasti TV (360p) [Geo-blocked]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 https://h1.intechmedia.net/intech/ch17.m3u8
 #EXTINF:-1,UGTV (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1,The Indonesia Channel (720p) [Geo-blocked]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 #EXTINF:-1,Jak TV (480p) [Geo-blocked]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
 #EXTINF:-1,Metro TV (480p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1,Bayu TV Nganjuk (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8
 #EXTINF:-1,TV Edukasi (576p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 #EXTINF:-1,Riau TV (576p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 #EXTINF:-1,Pon TV (360p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
 #EXTINF:-1,Padang TV (720p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
 #EXTINF:-1,Kawanua TV (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 #EXTINF:-1,JTV (720p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1,Jambi TV (576p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
 #EXTINF:-1,SMTV (720p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 #EXTINF:-1,Fajar TV (240p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
 #EXTINF:-1,Simpang5 TV (360p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
 #EXTINF:-1,RCTV (720p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
 #EXTINF:-1,Sriwijaya TV [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sriwijayatvonline
 #EXTINF:-1,Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 #EXTINF:-1,JakartaGlobe News (720p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 #EXTINF:-1,BeritaSatu (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1,BeritaSatu World (720p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1,TVRI Riau (720p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
 #EXTINF:-1,TVRI Sulawesi Barat (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
 #EXTINF:-1,TVRI Sulawesi Selatan (480p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
 #EXTINF:-1,TVRI Sulawesi Tengah (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
 #EXTINF:-1,TVRI Sulawesi Tenggara (480p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
 #EXTINF:-1,TVRI Sumatera Barat (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
 #EXTINF:-1,TVRI Sumatera Selatan (480p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
 #EXTINF:-1,TVRI Yogyakarta (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 #EXTINF:-1,TVR Parlemen (720p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:-1,TVRI World (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:-1,TVRI Sport (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1,TVRI Aceh (720p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
 #EXTINF:-1,TVRI Bangka Belitung (480p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
 #EXTINF:-1,TVRI Bali (480p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
 #EXTINF:-1,TVRI Bengkulu (480p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
 #EXTINF:-1,TVRI DKI Jakarta (720p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
 #EXTINF:-1,TVRI Gorontalo (480p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
 #EXTINF:-1,TVRI Jawa Barat (480p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
 #EXTINF:-1,TVRI Jambi (720p) [Not 24/7]
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
 #EXTINF:-1,TVRI Jawa Tengah (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
 #EXTINF:-1,TVRI Jawa Timur (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
 #EXTINF:-1,TVRI Kalimantan Barat (480p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
 #EXTINF:-1,TVRI Kalimantan Selatan (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
 #EXTINF:-1,TVRI Kalimantan Tengah (480p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
 #EXTINF:0,TVRI Kalimantan Timur (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
 #EXTINF:-1,TVRI Lampung (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
 #EXTINF:-1,TVRI Maluku (480p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
 #EXTINF:0,TVRI Nasional (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 #EXTINF:-1,TVRI Nusa Tenggara Barat (720p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
 #EXTINF:-1,TVRI Nusa Tenggara Timur (480p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
 #EXTINF:-1,TVRI Papua (480p)
-#EXTGRP:INDO
+#EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
 #EXTINF:-1,History East (720p) [Not 24/7]
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1,US: NATIONAL GEOGRAPHIC EAST | HD
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52868
 #EXTINF:-1,US: NAT GEO WILD EAST | HD*
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52867
 #EXTINF:-1,US: INVESTIGATION DISCOVERY | HD
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52854
 #EXTINF:-1,US: HISTORY CHANNEL | HD*
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52849
 #EXTINF:-1,US: DISCOVERY FAMILY | HD*
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52824
 #EXTINF:-1,US: DISCOVERY SCIENCE | HD
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52825
 #EXTINF:-1,US: DISCOVERY | HD
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52826
 #EXTINF:-1,RO: NAT GEO HD
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39323
 #EXTINF:-1,RO: NAT GEO WILD HD
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39324
 #EXTINF:-1,RO: History Channel FHD
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39286
 #EXTINF:-1,CA | HISTORY
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146084
 #EXTINF:-1,CA | DISCOVERY
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146063
 #EXTINF:-1,CA | DISCOVERY SCIENCE
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146064
 #EXTINF:-1,CA | BBC EARTH
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146021
 #EXTINF:-1,[DE] HISTORY HD
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36755
 #EXTINF:-1,[DE] NATIONAL GEOGRAPHIC WILD HD
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36750
 #EXTINF:-1,EL: ANIMAL PLANET
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35893
 #EXTINF:-1,USA | NATGEO
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145983
 #EXTINF:-1,USA | NATGEO WILD
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145984
 #EXTINF:-1,USA | HISTORY CHANNEL
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145967
 #EXTINF:-1,USA | DISCOVERY CHANNEL
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145942
 #EXTINF:-1,USA | DISCOVERY FAMILY
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145943
 #EXTINF:-1,USA | DISCOVERY LIFE
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145944
 #EXTINF:-1,USA | DISCOVERY SCIENCE
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145945
 #EXTINF:-1,USA | ANIMAL PLANET EAST
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145917
 #EXTINF:-1,Pluto TV Mythbusters (720p) [Not 24/7]
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd833b41843b56328bac189/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,Pluto TV Nature (720p)
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed58b2db26f0007b4aa73/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1,Mystery Science Theater 3000 (1080p)
-#EXTGRP:SCI
-https://mst3k-localnow.amagi.tv/playlist.m3u8
 #EXTINF:1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/oDacp1F.png" group-title="Americas",Love Nature 4K
-#EXTGRP:SCI
+#EXTGRP:SCI & DOCUMENT
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony BBC Earth
+#EXTGRP:SCI & DOCUMENT
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192995
+#EXTINF:-1,Mystery Science Theater 3000 (1080p)
+#EXTGRP:SCI & DOCUMENT
+https://mst3k-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1,24/7 Tom & Jerry
+#EXTGRP:ANIME & TOON
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145777
+#EXTINF:-1,24/7 The Flintstones
+#EXTGRP:ANIME & TOON
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145750
 #EXTINF:-1,US: NICK TOONS | HD*
 #EXTGRP:ANIME & TOON
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52870
@@ -359,12 +368,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146066
 #EXTINF:-1,CA | DISNEY XD
 #EXTGRP:ANIME & TOON
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146067
-#EXTINF:-1,24/7 Tom & Jerry
-#EXTGRP:ANIME & TOON
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145777
-#EXTINF:-1,24/7 The Flintstones
-#EXTGRP:ANIME & TOON
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145750
 #EXTINF:-1,USA | Disney XD
 #EXTGRP:ANIME & TOON
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146684
@@ -380,9 +383,9 @@ http://210.210.155.37/dr9445/h/h02/index.m3u8
 #EXTINF:0,Disney Channel Japan (480p) [Not 24/7]
 #EXTGRP:ANIME & TOON
 http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
-#EXTINF:-1,Animax Asia (Vietnamese Subs) (720p)
+#EXTINF:1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",Animax Japan (Indonesian Subs) [Geo-blocked]
 #EXTGRP:ANIME & TOON
-https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1,Animax (480p)
 #EXTGRP:ANIME & TOON
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
@@ -401,6 +404,9 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146679
 #EXTINF:-1,Pluto TV One Piece (720p)
 #EXTGRP:ANIME & TOON
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:1 tvg-id="Naruto.us" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPN...,Pluto TV Naruto (480p)
+#EXTGRP:ANIME & TOON
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
 #EXTINF:-1,Pluto TV Anime All Day (720p)
 #EXTGRP:ANIME & TOON
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
@@ -413,6 +419,9 @@ https://cdn.us195.jpnettv.live/jptv/disney_channel/playlist.m3u8
 #EXTINF:1 tvg-id="DisneyJuniorJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disne...,Disney Junior Japan (540p) [Not 24/7]
 #EXTGRP:ANIME & TOON
 https://cdn.us195.jpnettv.live/jptv/disney_junior/playlist.m3u8
+#EXTINF:-1,Animax Asia (Vietnamese Subs) (720p)
+#EXTGRP:ANIME & TOON
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
 #EXTINF:-1,Star 1 (480p) [Not 24/7]
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
@@ -761,6 +770,18 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53185
 #EXTINF:1 tvg-id="" tvg-logo="" group-title="Americas",beIN Sports Xtra (1080p)
 #EXTGRP:SPORTS
 https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 1
+#EXTGRP:SPORTS
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16622
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 2
+#EXTGRP:SPORTS
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16621
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 3
+#EXTGRP:SPORTS
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/56191
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Wah
+#EXTGRP:SPORTS
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165801
 #EXTINF:1 tvg-id="" tvg-logo="" group-title="Asia",HITS (576p) [Geo-blocked]
 #EXTGRP:MOVIES
 http://210.210.155.37/dr9445/h/h37/index.m3u8
@@ -833,51 +854,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39209
 #EXTINF:-1,RO: Bollywood Tv HD
 #EXTGRP:MOVIES
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39214
-#EXTINF:-1,Baywatch
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146713
-#EXTINF:-1,Mission Impossible
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146806
-#EXTINF:-1,Star Trek
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146717
-#EXTINF:-1,24/7 The X-Files
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145775
-#EXTINF:-1,24/7 The Matrix
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145759
-#EXTINF:-1,24/7 The A-Team
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145742
-#EXTINF:-1,24/7 Star Trek: Discovery
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145733
-#EXTINF:-1,24/7 Spiderman Movies
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145731
-#EXTINF:-1,24/7 Sexify
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145723
-#EXTINF:-1,24/7 Pirates of the Caribbean
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145705
-#EXTINF:-1,24/7 John Wick
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145673
-#EXTINF:-1,24/7 Harry Potter
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145660
-#EXTINF:-1,24/7 Chernobyl
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145610
-#EXTINF:-1,24/7 Avenger Movies
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145594
-#EXTINF:-1,24/7 Fifty Shades of Grey Trilogy
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145637
 #EXTINF:-1,[DE] Sky Cinema +24
 #EXTGRP:MOVIES
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36757
@@ -956,6 +932,90 @@ https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:1 tvg-id="RakutenTVActionMoviesItaly.it" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Eur...,Rakuten Action Movies Italy (720p)
 #EXTGRP:MOVIES
 https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/281867
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Aath
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/17005
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Marathi
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193097
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Max
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1359
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Max 2
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/4862
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Max India
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/63397
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Pal
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193645
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Pix
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49539
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony SAB TV Asia
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1073
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony SAB TV India
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/20649
+#EXTINF:1 group-title="Series" tvg-logo="http://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoP...,Pluto TV Star Trek (720p)
+#EXTGRP:MOVIES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd39f8c4ce900075d7698&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=150&terminate=false&userId=
+#EXTINF:-1,24/7 Avenger Movies
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145594
+#EXTINF:-1,24/7 Back to the Future Trilogy
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145595
+#EXTINF:-1,24/7 Pirates of the Caribbean
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145705
+#EXTINF:-1,24/7 The X-Files
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145775
+#EXTINF:-1,24/7 Fifty Shades of Grey Trilogy
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145637
+#EXTINF:-1,24/7 John Wick
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145673
+#EXTINF:-1,24/7 Harry Potter
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145660
+#EXTINF:-1,24/7 Chernobyl
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145610
+#EXTINF:-1,24/7 The Matrix
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145759
+#EXTINF:-1,24/7 The A-Team
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145742
+#EXTINF:-1,24/7 Star Trek: Discovery
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145733
+#EXTINF:-1,24/7 Spiderman Movies
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145731
+#EXTINF:-1,24/7 Sexify
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145723
+#EXTINF:-1,24/7 Shameless
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145724
+#EXTINF:-1,Baywatch
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146713
+#EXTINF:-1,Mission Impossible
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146806
+#EXTINF:-1,Star Trek
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146717
 #EXTINF:-1,USA | LIFETIME
 #EXTGRP:VARIETY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145975
@@ -983,9 +1043,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52833
 #EXTINF:-1,US: WORLD FISHING NETWORK | HD*
 #EXTGRP:VARIETY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52718
-#EXTINF:-1,RO: FASHION TV
-#EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39263
 #EXTINF:-1,CA | TLC
 #EXTGRP:VARIETY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146107
@@ -1004,9 +1061,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146818
 #EXTINF:-1,MTV Dating
 #EXTGRP:VARIETY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146761
-#EXTINF:-1,24/7 Shameless
-#EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145724
 #EXTINF:-1,USA | TLC
 #EXTGRP:VARIETY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146002
@@ -1019,6 +1073,9 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 #EXTINF:-1,FASHION 4K
 #EXTGRP:VARIETY
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+#EXTINF:-1,RO: FASHION TV
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39263
 #EXTINF:2,Fashion TV Midnite Secrets (1080p)
 #EXTGRP:VARIETY
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
@@ -1086,82 +1143,122 @@ http://212.224.98.213:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=
 #EXTGRP:OTHERS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
 #EXTINF:-1,24/7 Bikini Chain Gang
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141771
 #EXTINF:-1,24/7 Black Squirter
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141773
 #EXTINF:-1,24/7 Busty Anal Nymphos
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141776
 #EXTINF:-1,24/7 Pirates
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141782
 #EXTINF:-1,24/7 Pregnant and Pounded
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141787
 #EXTINF:-1,24/7 Pregnant Pussy
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141788
 #EXTINF:-1,24/7 My First Black Dick
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141792
 #EXTINF:-1,24/7 A Summer in the Country
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141794
 #EXTINF:-1,24/7 Executive Affairs
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141796
 #EXTINF:-1,24/7 German Gang Bang All-Stars
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141798
 #EXTINF:-1,24/7 Forced Entry (1973)
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141800
 #EXTINF:-1,24/7 Tear Me a New One
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141803
 #EXTINF:-1,24/7 Load Almighty
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141804
 #EXTINF:-1,24/7 Trophy Whores
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141805
 #EXTINF:-1,24/7 I Like It Rough
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141868
 #EXTINF:-1,24/7 Rookie Pussy
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141869
 #EXTINF:-1,24/7 BFF and I crave a BBC
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141937
 #EXTINF:-1,24/7 Panty Pops
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141942
 #EXTINF:-1,24/7 Momma Knows Best
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141949
 #EXTINF:-1,24/7 Pregnant and Pounded
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141951
 #EXTINF:-1,24/7 Mrs Siren - Bring Me your BBC
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141955
 #EXTINF:-1,24/7 Tiny Spinner
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141958
 #EXTINF:-1,24/7 Maxine X - BJ for the Boyfriend
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141961
 #EXTINF:-1,24/7 Kyler Quinn - Rainy Day
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141964
 #EXTINF:-1,24/7 Jenny Simons BBC Gangbang
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141967
 #EXTINF:-1,24/7 Mermaid Sharing With BBC
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141973
 #EXTINF:-1,24/7 Luna Storm
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141975
 #EXTINF:-1,24/7 Ella Reese - Deep Throating
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141978
 #EXTINF:-1,24/7 Jenny Simmons - Gangbang
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141985
 #EXTINF:-1,24/7 Eve Madison- Gaped
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141991
 #EXTINF:-1,24/7 If it ain't Black...take it back
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141992
 #EXTINF:-1,24/7 Leah Lee Milking the BBC
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141997
 #EXTINF:-1,24/7 Natalia Queen - BBC Detention
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142005
 #EXTINF:-1,24/7 Kaitlyn Katsaros -Don't Break me
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142009
 #EXTINF:-1,24/7 Godess Idelsy - BBC
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142015
 #EXTINF:-1,24/7 Britney Benz Loves the BBC
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142019
 #EXTINF:-1,24/7 Afternoon BBC
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142042
 #EXTINF:-1,24/7 Alexa Black - Pleasure Before Business
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142043
 #EXTINF:-1,24/7 Athena Faris - Cummings on a BBC
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142044
 #EXTINF:-1,24/7 Forced Entry (1973)
+#EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141800
