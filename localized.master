@@ -1,1264 +1,1669 @@
 #EXTM3U
-#EXTINF:1 tvg-id="RajawaliTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-titl...,RTV (576p) [Geo-blocked]
-#EXTGRP:INDO CHANNEL
-http://210.210.155.37/dr9445/h/h10/index.m3u8
-#EXTINF:-1,Biznet Adventure (720p)
-#EXTGRP:INDO CHANNEL
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
-#EXTINF:-1,Biznet Kids (720p)
-#EXTGRP:INDO CHANNEL
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
-#EXTINF:-1,Biznet Lifestyle (720p)
+#EXTINF:1,Biznet Lifestyle (720p)
 #EXTGRP:INDO CHANNEL
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
-#EXTINF:-1,Trans TV (720p)
+#EXTINF:1,Biznet Adventure (720p)
+#EXTGRP:INDO CHANNEL
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
+#EXTINF:1,Biznet Kids (720p)
+#EXTGRP:INDO CHANNEL
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
+#EXTINF:1,Trans TV (720p)
 #EXTGRP:INDO CHANNEL
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1,Trans7 (720p)
+#EXTINF:1,Trans7 (720p)
 #EXTGRP:INDO CHANNEL
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1,Medina
+#EXTINF:tvg-id="RajawaliTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-titl.....,RTV (576p) [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+http://210.210.155.37/dr9445/h/h10/index.m3u8
+#EXTINF:1,Medina
 #EXTGRP:INDO CHANNEL
 http://210.210.155.35/qwr9ew/s/s27/index.m3u8
-#EXTINF:-1,Mecca
+#EXTINF:1,Mecca
 #EXTGRP:INDO CHANNEL
 http://210.210.155.35/qwr9ew/s/s28/index.m3u8
-#EXTINF:-1,SCTV (480p) [Geo-blocked]
+#EXTINF:1,SCTV (480p) [Geo-blocked]
 #EXTGRP:INDO CHANNEL
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-#EXTINF:-1,Indosiar (480p) [Geo-blocked]
+#EXTINF:1,Indosiar (480p) [Geo-blocked]
 #EXTGRP:INDO CHANNEL
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-#EXTINF:-1,ANTV (480p) [Geo-blocked]
+#EXTINF:1,ANTV (480p) [Geo-blocked]
 #EXTGRP:INDO CHANNEL
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
-#EXTINF:-1,NET. (480p) [Geo-blocked]
+#EXTINF:1,NET. (480p) [Geo-blocked]
 #EXTGRP:INDO CHANNEL
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
-#EXTINF:-1,tvOne (480p) [Geo-blocked]
+#EXTINF:1,tvOne (480p) [Geo-blocked]
 #EXTGRP:INDO CHANNEL
 http://210.210.155.37/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1,CNBC Indonesia (720p)
+#EXTINF:1,CNBC Indonesia (720p)
 #EXTGRP:INDO CHANNEL
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1,CNN Indonesia (720p) [Geo-blocked]
+#EXTINF:1,CNN Indonesia (720p) [Geo-blocked]
 #EXTGRP:INDO CHANNEL
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1,Sakti TV (480p) [Not 24/7]
-#EXTGRP:INDO CHANNEL
-https://v2.siar.us/saktitv/livestream/playlist.m3u8
-#EXTINF:-1,tvMu (720p)
-#EXTGRP:INDO CHANNEL
-https://tvmu.siar.us/tvmu/live/playlist.m3u8
-#EXTINF:-1,Banyumas TV (720p) [Geo-blocked]
-#EXTGRP:INDO CHANNEL
-https://v2.siar.us/bmstv/livestream/playlist.m3u8
-#EXTINF:-1,Jawa Pos TV (480p) [Not 24/7]
-#EXTGRP:INDO CHANNEL
-https://v2.siar.us/jawapostv/live/chunks.m3u8
-#EXTINF:-1,Garuda TV (720p) [Not 24/7]
-#EXTGRP:INDO CHANNEL
-https://ms.digdaya.tv/live/digdayatv/live.m3u8
-#EXTINF:-1,Jogja Istimewa TV (720p)
-#EXTGRP:INDO CHANNEL
-http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:-1,Semarang TV (720p)
-#EXTGRP:INDO CHANNEL
-http://116.254.112.74/hls/cakralive.m3u8
-#EXTINF:-1,Batu TV (576p) [Not 24/7]
-#EXTGRP:INDO CHANNEL
-http://117.103.69.219:8080/live/streaming/index.m3u8
-#EXTINF:-1,Elshinta TV (480p) [Not 24/7] [Geo-blocked]
-#EXTGRP:INDO CHANNEL
-http://210.210.155.37/qwr9ew/s/s10/index.m3u8
-#EXTINF:-1,Bali TV (720p) [Geo-blocked]
-#EXTGRP:INDO CHANNEL
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
-#EXTINF:-1,Kompas TV (720p)
-#EXTGRP:INDO CHANNEL
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-#EXTINF:-1,Usee Photo (480p)
-#EXTGRP:INDO CHANNEL
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
-#EXTINF:-1,The Indonesia Channel
-#EXTGRP:INDO CHANNEL
-https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
-#EXTINF:-1,RadioKita TV (360p) [Geo-blocked]
-#EXTGRP:INDO CHANNEL
-https://h1.intechmedia.net/intech/ch16.m3u8
-#EXTINF:-1,Bin Baz TV (360p) [Geo-blocked]
-#EXTGRP:INDO CHANNEL
-https://h1.intechmedia.net/intech/ch22.m3u8
-#EXTINF:-1,Media Sunnah Aceh [Geo-blocked]
-#EXTGRP:INDO CHANNEL
-https://h1.intechmedia.net/intech/ch23.m3u8
-#EXTINF:-1,Nusantara TV (720p)
-#EXTGRP:INDO CHANNEL
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:-1,Inspira TV (720p) [Not 24/7]
-#EXTGRP:INDO CHANNEL
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1,Sunnah Jalan Pasti TV (360p) [Geo-blocked]
-#EXTGRP:INDO CHANNEL
-https://h1.intechmedia.net/intech/ch17.m3u8
-#EXTINF:-1,UGTV (720p)
-#EXTGRP:INDO CHANNEL
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-#EXTINF:-1,The Indonesia Channel (720p) [Geo-blocked]
-#EXTGRP:INDO CHANNEL
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
-#EXTINF:-1,Jak TV (480p) [Geo-blocked]
-#EXTGRP:INDO CHANNEL
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
-#EXTINF:-1,Metro TV (480p) [Not 24/7]
+#EXTINF:1,Metro TV (480p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1,Bayu TV Nganjuk (720p)
+#EXTINF:1,Sakti TV (480p) [Not 24/7]
+#EXTGRP:INDO CHANNEL
+https://v2.siar.us/saktitv/livestream/playlist.m3u8
+#EXTINF:1,tvMu (720p)
+#EXTGRP:INDO CHANNEL
+https://tvmu.siar.us/tvmu/live/playlist.m3u8
+#EXTINF:1,Kompas TV (720p)
+#EXTGRP:INDO CHANNEL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:1,Banyumas TV (720p) [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+https://v2.siar.us/bmstv/livestream/playlist.m3u8
+#EXTINF:1,Jawa Pos TV (480p) [Not 24/7]
+#EXTGRP:INDO CHANNEL
+https://v2.siar.us/jawapostv/live/chunks.m3u8
+#EXTINF:1,Garuda TV (720p) [Not 24/7]
+#EXTGRP:INDO CHANNEL
+https://ms.digdaya.tv/live/digdayatv/live.m3u8
+#EXTINF:1,Jogja Istimewa TV (720p)
+#EXTGRP:INDO CHANNEL
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:1,Semarang TV (720p)
+#EXTGRP:INDO CHANNEL
+http://116.254.112.74/hls/cakralive.m3u8
+#EXTINF:1,Batu TV (576p) [Not 24/7]
+#EXTGRP:INDO CHANNEL
+http://117.103.69.219:8080/live/streaming/index.m3u8
+#EXTINF:1,Elshinta TV (480p) [Not 24/7] [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+http://210.210.155.37/qwr9ew/s/s10/index.m3u8
+#EXTINF:1,Bali TV (720p) [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:1,Usee Photo (480p)
+#EXTGRP:INDO CHANNEL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+#EXTINF:1,The Indonesia Channel
+#EXTGRP:INDO CHANNEL
+https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
+#EXTINF:1,RadioKita TV (360p) [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+https://h1.intechmedia.net/intech/ch16.m3u8
+#EXTINF:1,Bin Baz TV (360p) [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+https://h1.intechmedia.net/intech/ch22.m3u8
+#EXTINF:1,Media Sunnah Aceh [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+https://h1.intechmedia.net/intech/ch23.m3u8
+#EXTINF:1,Nusantara TV (720p)
+#EXTGRP:INDO CHANNEL
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:1,Inspira TV (720p) [Not 24/7]
+#EXTGRP:INDO CHANNEL
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:1,Sunnah Jalan Pasti TV (360p) [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+https://h1.intechmedia.net/intech/ch17.m3u8
+#EXTINF:1,UGTV (720p)
+#EXTGRP:INDO CHANNEL
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:1,The Indonesia Channel (720p) [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+#EXTINF:1,Jak TV (480p) [Geo-blocked]
+#EXTGRP:INDO CHANNEL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+#EXTINF:1,Bayu TV Nganjuk (720p)
 #EXTGRP:INDO CHANNEL
 https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8
-#EXTINF:-1,TV Edukasi (576p)
+#EXTINF:1,TV Edukasi (576p)
 #EXTGRP:INDO CHANNEL
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
-#EXTINF:-1,Riau TV (576p) [Not 24/7]
+#EXTINF:1,Riau TV (576p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
-#EXTINF:-1,Pon TV (360p) [Not 24/7]
+#EXTINF:1,Pon TV (360p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
-#EXTINF:-1,Padang TV (720p) [Not 24/7]
+#EXTINF:1,Padang TV (720p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
-#EXTINF:-1,Kawanua TV (720p)
+#EXTINF:1,Kawanua TV (720p)
 #EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
-#EXTINF:-1,JTV (720p) [Not 24/7]
+#EXTINF:1,JTV (720p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#EXTINF:-1,Jambi TV (576p) [Not 24/7]
+#EXTINF:1,Jambi TV (576p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
-#EXTINF:-1,SMTV (720p) [Not 24/7]
+#EXTINF:1,SMTV (720p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
-#EXTINF:-1,Fajar TV (240p) [Not 24/7]
+#EXTINF:1,Fajar TV (240p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
-#EXTINF:-1,Simpang5 TV (360p) [Not 24/7]
+#EXTINF:1,Simpang5 TV (360p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
-#EXTINF:-1,RCTV (720p) [Not 24/7]
+#EXTINF:1,RCTV (720p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
-#EXTINF:-1,Sriwijaya TV [Not 24/7]
+#EXTINF:1,Sriwijaya TV [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sriwijayatvonline
-#EXTINF:-1,Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
+#EXTINF:1,Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
 #EXTGRP:INDO CHANNEL
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-#EXTINF:-1,JakartaGlobe News (720p) [Not 24/7]
+#EXTINF:1,JakartaGlobe News (720p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
-#EXTINF:-1,BeritaSatu (720p)
+#EXTINF:1,BeritaSatu (720p)
 #EXTGRP:INDO CHANNEL
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:-1,BeritaSatu World (720p) [Not 24/7]
+#EXTINF:1,BeritaSatu World (720p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:-1,TVRI Riau (720p) [Not 24/7]
+#EXTINF:1,TVRI Riau (720p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
-#EXTINF:-1,TVRI Sulawesi Barat (720p)
+#EXTINF:1,TVRI Sulawesi Barat (720p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
-#EXTINF:-1,TVRI Sulawesi Selatan (480p)
+#EXTINF:1,TVRI Sulawesi Selatan (480p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
-#EXTINF:-1,TVRI Sulawesi Tengah (720p)
+#EXTINF:1,TVRI Sulawesi Tengah (720p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
-#EXTINF:-1,TVRI Sulawesi Tenggara (480p)
+#EXTINF:1,TVRI Sulawesi Tenggara (480p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
-#EXTINF:-1,TVRI Sumatera Barat (720p)
+#EXTINF:1,TVRI Sumatera Barat (720p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-#EXTINF:-1,TVRI Sumatera Selatan (480p)
+#EXTINF:1,TVRI Sumatera Selatan (480p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
-#EXTINF:-1,TVRI Yogyakarta (720p)
+#EXTINF:1,TVRI Yogyakarta (720p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-#EXTINF:-1,TVR Parlemen (720p) [Not 24/7]
+#EXTINF:1,TVR Parlemen (720p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:-1,TVRI World (720p)
+#EXTINF:1,TVRI World (720p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-#EXTINF:-1,TVRI Sport (720p)
+#EXTINF:1,TVRI Sport (720p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1,TVRI Aceh (720p) [Not 24/7]
+#EXTINF:1,TVRI Aceh (720p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-#EXTINF:-1,TVRI Bangka Belitung (480p)
+#EXTINF:1,TVRI Bangka Belitung (480p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-#EXTINF:-1,TVRI Bali (480p)
+#EXTINF:1,TVRI Bali (480p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-#EXTINF:-1,TVRI Bengkulu (480p)
+#EXTINF:1,TVRI Bengkulu (480p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-#EXTINF:-1,TVRI DKI Jakarta (720p) [Not 24/7]
+#EXTINF:1,TVRI DKI Jakarta (720p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-#EXTINF:-1,TVRI Gorontalo (480p)
+#EXTINF:1,TVRI Gorontalo (480p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
-#EXTINF:-1,TVRI Jawa Barat (480p)
+#EXTINF:1,TVRI Jawa Barat (480p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-#EXTINF:-1,TVRI Jambi (720p) [Not 24/7]
+#EXTINF:1,TVRI Jambi (720p) [Not 24/7]
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-#EXTINF:-1,TVRI Jawa Tengah (720p)
+#EXTINF:1,TVRI Jawa Tengah (720p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-#EXTINF:-1,TVRI Jawa Timur (720p)
+#EXTINF:1,TVRI Jawa Timur (720p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-#EXTINF:-1,TVRI Kalimantan Barat (480p)
+#EXTINF:1,TVRI Kalimantan Barat (480p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-#EXTINF:-1,TVRI Kalimantan Selatan (720p)
+#EXTINF:1,TVRI Kalimantan Selatan (720p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
-#EXTINF:-1,TVRI Kalimantan Tengah (480p)
+#EXTINF:1,TVRI Kalimantan Tengah (480p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-#EXTINF:0,TVRI Kalimantan Timur (720p)
+#EXTINF:-1,TVRI Kalimantan Timur (720p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-#EXTINF:-1,TVRI Lampung (720p)
+#EXTINF:1,TVRI Lampung (720p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
-#EXTINF:-1,TVRI Maluku (480p)
+#EXTINF:1,TVRI Maluku (480p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-#EXTINF:0,TVRI Nasional (720p)
+#EXTINF:-1,TVRI Nasional (720p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-#EXTINF:-1,TVRI Nusa Tenggara Barat (720p)
+#EXTINF:1,TVRI Nusa Tenggara Barat (720p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
-#EXTINF:-1,TVRI Nusa Tenggara Timur (480p)
+#EXTINF:1,TVRI Nusa Tenggara Timur (480p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
-#EXTINF:-1,TVRI Papua (480p)
+#EXTINF:1,TVRI Papua (480p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
-#EXTINF:-1,History East (720p) [Not 24/7]
-#EXTGRP:SCI & DOCUMENT
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1,US: NATIONAL GEOGRAPHIC EAST | HD
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52868
-#EXTINF:-1,US: NAT GEO WILD EAST | HD*
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52867
-#EXTINF:-1,US: INVESTIGATION DISCOVERY | HD
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52854
-#EXTINF:-1,US: HISTORY CHANNEL | HD*
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52849
-#EXTINF:-1,US: DISCOVERY FAMILY | HD*
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52824
-#EXTINF:-1,US: DISCOVERY SCIENCE | HD
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52825
-#EXTINF:-1,US: DISCOVERY | HD
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52826
-#EXTINF:-1,RO: NAT GEO HD
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39323
-#EXTINF:-1,RO: NAT GEO WILD HD
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39324
-#EXTINF:-1,RO: History Channel FHD
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39286
-#EXTINF:-1,CA | HISTORY
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146084
-#EXTINF:-1,CA | DISCOVERY
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146063
-#EXTINF:-1,CA | DISCOVERY SCIENCE
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146064
-#EXTINF:-1,CA | BBC EARTH
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146021
-#EXTINF:-1,[DE] HISTORY HD
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36755
-#EXTINF:-1,[DE] NATIONAL GEOGRAPHIC WILD HD
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36750
-#EXTINF:-1,EL: ANIMAL PLANET
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35893
-#EXTINF:-1,USA | NATGEO
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145983
-#EXTINF:-1,USA | NATGEO WILD
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145984
-#EXTINF:-1,USA | HISTORY CHANNEL
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145967
-#EXTINF:-1,USA | DISCOVERY CHANNEL
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145942
-#EXTINF:-1,USA | DISCOVERY FAMILY
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145943
-#EXTINF:-1,USA | DISCOVERY LIFE
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145944
-#EXTINF:-1,USA | DISCOVERY SCIENCE
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145945
-#EXTINF:-1,USA | ANIMAL PLANET EAST
-#EXTGRP:SCI & DOCUMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145917
-#EXTINF:-1,Pluto TV Mythbusters (720p) [Not 24/7]
-#EXTGRP:SCI & DOCUMENT
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd833b41843b56328bac189/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,Pluto TV Nature (720p)
-#EXTGRP:SCI & DOCUMENT
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed58b2db26f0007b4aa73/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/oDacp1F.png" group-title="Americas",Love Nature 4K
-#EXTGRP:SCI & DOCUMENT
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony BBC Earth
-#EXTGRP:SCI & DOCUMENT
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192995
-#EXTINF:-1,Mystery Science Theater 3000 (1080p)
-#EXTGRP:SCI & DOCUMENT
-https://mst3k-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1,24/7 Tom & Jerry
-#EXTGRP:ANIME & TOON
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145777
-#EXTINF:-1,24/7 The Flintstones
-#EXTGRP:ANIME & TOON
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145750
-#EXTINF:-1,US: NICK TOONS | HD*
-#EXTGRP:ANIME & TOON
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52870
-#EXTINF:-1,RO: NICK TOONS
-#EXTGRP:ANIME & TOON
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39331
-#EXTINF:-1,CA | DISNEY JR
-#EXTGRP:ANIME & TOON
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146066
-#EXTINF:-1,CA | DISNEY XD
-#EXTGRP:ANIME & TOON
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146067
-#EXTINF:-1,USA | Disney XD
-#EXTGRP:ANIME & TOON
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146684
-#EXTINF:-1,USA | DISNEY CHANNEL
-#EXTGRP:ANIME & TOON
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146675
-#EXTINF:-1,Cartoon Network Asia (720p)
-#EXTGRP:ANIME & TOON
-http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
-#EXTINF:-1,Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
-#EXTGRP:ANIME & TOON
-http://210.210.155.37/dr9445/h/h02/index.m3u8
-#EXTINF:0,Disney Channel Japan (480p) [Not 24/7]
-#EXTGRP:ANIME & TOON
-http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
-#EXTINF:1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",Animax Japan (Indonesian Subs) [Geo-blocked]
-#EXTGRP:ANIME & TOON
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1,Animax (480p)
-#EXTGRP:ANIME & TOON
-http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
-#EXTINF:-1,Animax
-#EXTGRP:ANIME & TOON
-http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
-#EXTINF:-1,Anime TV (360p) [Not 24/7]
-#EXTGRP:ANIME & TOON
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1,USA | NICKELODEON
-#EXTGRP:ANIME & TOON
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146680
-#EXTINF:-1,USA | NICK TOONS
-#EXTGRP:ANIME & TOON
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146679
-#EXTINF:-1,Pluto TV One Piece (720p)
-#EXTGRP:ANIME & TOON
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:1 tvg-id="Naruto.us" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPN...,Pluto TV Naruto (480p)
-#EXTGRP:ANIME & TOON
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
-#EXTINF:-1,Pluto TV Anime All Day (720p)
-#EXTGRP:ANIME & TOON
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:1 tvg-id="OnePiece.us" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogo...,Pluto TV One Piece (720p) [Not 24/7]
-#EXTGRP:ANIME & TOON
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:1 tvg-id="DisneyChannelJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4...,Disney Channel Japan (540p) [Not 24/7]
-#EXTGRP:ANIME & TOON
-https://cdn.us195.jpnettv.live/jptv/disney_channel/playlist.m3u8
-#EXTINF:1 tvg-id="DisneyJuniorJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disne...,Disney Junior Japan (540p) [Not 24/7]
-#EXTGRP:ANIME & TOON
-https://cdn.us195.jpnettv.live/jptv/disney_junior/playlist.m3u8
-#EXTINF:-1,Animax Asia (Vietnamese Subs) (720p)
-#EXTGRP:ANIME & TOON
-https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
-#EXTINF:-1,Star 1 (480p) [Not 24/7]
-#EXTGRP:JAPAN
-http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
-#EXTINF:-1,Star 2 (480p) [Not 24/7]
-#EXTGRP:JAPAN
-http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
-#EXTINF:-1,TV Tokyo
+#EXTINF:1,TV Tokyo
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
-#EXTINF:-1,BS TV Tokyo
+#EXTINF:1,BS TV Tokyo
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/bs06hd/playlist.m3u8
-#EXTINF:-1,BS Nippon TV (480p)
+#EXTINF:1,BS Nippon TV (480p)
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
-#EXTINF:1 tvg-id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Asia",Nippon TV (JOAXD-TV) (720p)
+#EXTINF:tvg-id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Asia",Nippon TV (JOAXD-TV) (720p)
 #EXTGRP:JAPAN
 https://cdn.us195.jpnettv.live/jptv/kanto_nippon_720/playlist.m3u8
-#EXTINF:1 tvg-id="NipponTV.jp" tvg-logo="https://i.imgur.com/HUHGTzu.png" group-title="Asia",Nippon TV (540p) [Not 24/7]
+#EXTINF:tvg-id="NipponTV.jp" tvg-logo="https://i.imgur.com/HUHGTzu.png" group-title="Asia",Nippon TV (540p) [Not 24/7]
 #EXTGRP:JAPAN
 https://ntv3.mov3.co/hls/ntv.m3u8
-#EXTINF:-1,TV Asahi (480p)
+#EXTINF:1,TV Asahi (480p)
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-#EXTINF:-1,BS Asahi (480p)
+#EXTINF:1,BS Asahi (480p)
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
-#EXTINF:-1,BS TBS (480p)
+#EXTINF:1,BS TBS (480p)
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
-#EXTINF:-1,BS Fuji TV (480p)
+#EXTINF:1,BS Fuji TV (480p)
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
-#EXTINF:-1,NHK World Japan (1080p)
+#EXTINF:1,NHK World Japan (1080p)
 #EXTGRP:JAPAN
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1,NHK Worldᴴᴰ
+#EXTINF:1,NHK Worldᴴᴰ
 #EXTGRP:JAPAN
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1,NHK E
+#EXTINF:1,NHK E
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
-#EXTINF:-1,NHK G
+#EXTINF:1,NHK G
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
-#EXTINF:-1,NHK World Japan (720p)
+#EXTINF:1,NHK World Japan (720p)
 #EXTGRP:JAPAN
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_...,NHK World Japan (1080p)
-#EXTGRP:JAPAN
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1,NHK BS1 (480p)
+#EXTINF:1,NHK BS1 (480p)
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
-#EXTINF:-1,NHK BSP (480p)
+#EXTINF:1,NHK BSP (480p)
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
-#EXTINF:-1,Tokyo MX1
-#EXTGRP:JAPAN
-http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
-#EXTINF:-1,Tokyo MX1
-#EXTGRP:JAPAN
-https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-#EXTINF:-1,Tokyo MX1 (720p)
+#EXTINF:1,Tokyo MX1 (720p)
 #EXTGRP:JAPAN
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
-#EXTINF:-1,Tokyo MX1
+#EXTINF:1,Tokyo MX1
+#EXTGRP:JAPAN
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
+#EXTINF:1,Tokyo MX1
+#EXTGRP:JAPAN
+https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:1,Tokyo MX1
 #EXTGRP:JAPAN
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
-#EXTINF:-1,Tokyo MX2
-#EXTGRP:JAPAN
-https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-#EXTINF:-1,Tokyo MX2 (720p)
+#EXTINF:1,Tokyo MX2 (720p)
 #EXTGRP:JAPAN
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
-#EXTINF:-1,Tokyo MX2
+#EXTINF:1,Tokyo MX2
+#EXTGRP:JAPAN
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:1,Tokyo MX2
 #EXTGRP:JAPAN
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" group-title="Worldwide",Kix (Indonesian Subtitle) (576p)
+#EXTINF:tvg-id="" tvg-logo="" group-title="Worldwide",Kix (Indonesian Subtitle) (576p)
 #EXTGRP:JAPAN
 http://210.210.155.37/dr9445/h/h07/index.m3u8
-#EXTINF:1 tvg-id="QVCJapan.jp" tvg-logo="https://i.imgur.com/4pYMkoZ.png" group-title="Asia",QVC Japan (720p)
+#EXTINF:tvg-id="QVCJapan.jp" tvg-logo="https://i.imgur.com/4pYMkoZ.png" group-title="Asia",QVC Japan (720p)
 #EXTGRP:JAPAN
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1,US: beIN Sports 1 | HD*
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53184
-#EXTINF:-1,bein Sports USA | HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53185
-#EXTINF:-1,US: Bein Sports 2 | (ES)
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53186
-#EXTINF:-1,US: BeIN Sports 4 | HD*
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53188
-#EXTINF:-1,US: BeIN Sports 6 | HD*
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53190
-#EXTINF:-1,US: BeIN Sports 7 | HD*
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53191
-#EXTINF:-1,US: BeIN Sports 8 | HD*
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53192
-#EXTINF:-1,US: BIG TEN NETWORK | HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53197
-#EXTINF:-1,US: ELEVEN SPORTS NETWORK | HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53198
-#EXTINF:-1,TUDNxtra 1
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52703
-#EXTINF:-1,TUDNxtra 2
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52704
-#EXTINF:-1,TUDNxtra 3
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52705
-#EXTINF:-1,TUDNxtra 4
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52706
-#EXTINF:-1,TUDNxtra 5
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52707
-#EXTINF:-1,TUDNxtra 6
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52708
-#EXTINF:-1,TUDNxtra 7
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52709
-#EXTINF:-1,TUDNxtra 8
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52710
-#EXTINF:-1,TUDNxtra 9
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52711
-#EXTINF:-1,TUDNxtra 10
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52712
-#EXTINF:-1,TUDNxtra 11
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52713
-#EXTINF:-1,Zona Futbol
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52720
-#EXTINF:-1,US: GolTV (En) | HD*
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52672
-#EXTINF:-1,US: SPORTSMAN CHANNEL | HD*
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52696
-#EXTINF:-1,US: SPORTSNET New York | HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52697
-#EXTINF:-1,US: TyC Sports | HD*
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52714
-#EXTINF:-1,TELEKOM SPORT 3
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141570
-#EXTINF:-1,TELEKOM SPORT 4
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141571
-#EXTINF:-1,US: ESPN 2 | HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52628
-#EXTINF:-1,US: ESPN DEPORTES | HD*
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52637
-#EXTINF:-1,US: ESPN U | HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52641
-#EXTINF:-1,US: ESPN | HD*
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52642
-#EXTINF:-1,US: FNTSY SPORTS NETWORK | HD*
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52643
-#EXTINF:-1,US: FOX SPORTS ARIZONA PLUS | HD*
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52649
-#EXTINF:-1,[DE] SkyselectHD-01
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36809
-#EXTINF:-1,[DE] SkyselectHD-02
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36810
-#EXTINF:-1,[DE] DAZN 1 HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36811
-#EXTINF:-1,[DE] DAZN 2 HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36812
-#EXTINF:-1,[DE] SkyselectHD-04
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36814
-#EXTINF:-1,[DE] SkyselectHD-05
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36815
-#EXTINF:-1,[DE] SkyselectHD-10
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36820
-#EXTINF:-1,[DE] TELEKOM DEL SPORT  1 HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36821
-#EXTINF:-1,[DE] TELEKOM DEL SPORT  2 HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36822
-#EXTINF:-1,[DE] TELEKOM BUNDESLIGA 1 HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36823
-#EXTINF:-1,[DE] TELEKOM BUNDESLIGA 2 HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36824
-#EXTINF:-1,[DE] TELEKOM BUNDESLIGA 5 HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36827
-#EXTINF:-1,[DE] DAZN 1
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36830
-#EXTINF:-1,[DE] SKY SPORT 2 SD [ ONLY ON MATCHDAY ]
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36838
-#EXTINF:-1,[DE] SKY SPORT BUNDESLIGA 2  HD [ ONLY ON MATCHDAY ]
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36846
-#EXTINF:-1,[DE] SKY SPORT NEWS
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36802
-#EXTINF:-1,USA: ESPN
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35057
-#EXTINF:-1,USA: ESPN DEPORTES
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35059
-#EXTINF:-1,USA: ESPN NEWS
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35060
-#EXTINF:-1,USA: ESPN U
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35061
-#EXTINF:-1,US: ESPN DEPORTES FHD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35079
-#EXTINF:-1,USA: ACC NETWORK
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35156
-#EXTINF:-1,[ES] MOVISTAR MOTOGP | UHD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36610
-#EXTINF:-1,[ES] Murcia
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36611
-#EXTINF:-1,ES: MOVISTAR Comedia FHD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39610
-#EXTINF:-1,ES: MOVISTAR Deportes 1 HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39612
-#EXTINF:-1,ES: MOVISTAR DEPORTS
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39615
-#EXTINF:-1,ES: MOVISTAR Drama FHD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39618
-#EXTINF:-1,ES: MOVISTAR FORMULA 1 FHD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39621
-#EXTINF:-1,ES: MOVISTAR Golf FHD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39624
-#EXTINF:-1,ES: MOVISTAR LaLiga FHD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39627
-#EXTINF:-1,ES: MOVISTAR Series
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39641
-#EXTINF:-1,ES: Liga de Campeones FHD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39647
-#EXTINF:-1,UK | Sky One
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35017
-#EXTINF:-1,UK | Sky One
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35018
-#EXTINF:-1,UK | Sky Atlantic FHD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35020
-#EXTINF:-1,UK | Sky Atlantic
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35021
-#EXTINF:-1,UK | Sky Arts
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35023
-#EXTINF:-1,Sky Sports News
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35026
-#EXTINF:-1,Sky Sports Main Event
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35029
-#EXTINF:-1,Sky Sports Football HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35031
-#EXTINF:-1,Sky Sports F1 FHD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35040
-#EXTINF:-1,Sky Sports Cricket
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35044
-#EXTINF:-1,Sky Sports Arena UHD UK*
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35048
-#EXTINF:-1,Sky Sports Golf UHD UK*
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35051
-#EXTINF:-1,Sky Sports Golf FHD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35052
-#EXTINF:-1,Sky Sports Mix UHD UK*
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35054
-#EXTINF:-1,DUBAI RACING 1 (1920×1080)
-#EXTGRP:SPORTS
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Dubai Racing 2
-#EXTGRP:SPORTS
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,DUBAI RACING 2 (1920×1080)
-#EXTGRP:SPORTS
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,DUBAI RACING 3 (1920×1080)
-#EXTGRP:SPORTS
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,DUBAI SPORTS 1 (1920×1080)
-#EXTGRP:SPORTS
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,DUBAI SPORTS 3 (1920×1080)
-#EXTGRP:SPORTS
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,bein Sports USA | HD
-#EXTGRP:SPORTS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53185
-#EXTINF:1 tvg-id="" tvg-logo="" group-title="Americas",beIN Sports Xtra (1080p)
-#EXTGRP:SPORTS
-https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
-#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 1
-#EXTGRP:SPORTS
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16622
-#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 2
-#EXTGRP:SPORTS
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16621
-#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 3
-#EXTGRP:SPORTS
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/56191
-#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Wah
-#EXTGRP:SPORTS
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165801
-#EXTINF:1 tvg-id="" tvg-logo="" group-title="Asia",HITS (576p) [Geo-blocked]
+#EXTINF:1,24/7 The Flintstones
+#EXTGRP:JAPAN
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145750
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Box Office 1
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/536
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Box Office 2
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281863
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Box Office 3
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/538
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Box Office Turk
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/539
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Movies Action
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1761
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Movies Action 2
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/278527
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Movies Family
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1763
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Movies Premiere
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1764
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Movies Premiere 2
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1765
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Movies Stars
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1766
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Movies Turk
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1767
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Series Comedy
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1768
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Series Drama
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1769
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Series sci-fi
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/8231
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Series Vice
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1771
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Action
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1092
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Animation
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1090
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Drama
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1089
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Family
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/727
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Premiere
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1085
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema sci-fi Horror
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/725
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Select
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/726
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Thriller
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1082
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: Celestial Movies
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174687
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: AXN
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157542
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: Cinema World
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171956
+#EXTINF:tvg-id="" tvg-logo="" group-title="Asia",HITS (576p) [Geo-blocked]
 #EXTGRP:MOVIES
 http://210.210.155.37/dr9445/h/h37/index.m3u8
-#EXTINF:1 tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/isr5jto.png" group-title="Southeast Asia",Thrill (576p)
+#EXTINF:tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/isr5jto.png" group-title="Southeast Asia",Thrill (576p)
 #EXTGRP:MOVIES
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
-#EXTINF:1 tvg-id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="Asia",Zee Bioskop (360p) [Geo-blocked]
-#EXTGRP:MOVIES
-http://210.210.155.37/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1,My Cinema Asia (1080p) [Geo-blocked]
+#EXTINF:1,My Cinema Asia (1080p) [Geo-blocked]
 #EXTGRP:MOVIES
 http://210.210.155.37/uq2663/h/h193/index.m3u8
-#EXTINF:1 tvg-id="MyCinema.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="A...,My Cinema (1080p)
+#EXTINF:tvg-id="MyCinema.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="A.....,My Cinema (1080p)
 #EXTGRP:MOVIES
 http://210.210.155.37/uq2663/h/h192/index.m3u8
-#EXTINF:1 tvg-id="MyCinemaEurope.ch" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_cinema_europe_kr.png" g...,My Cinema Europe (576p)
+#EXTINF:tvg-id="MyCinemaEurope.ch" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_cinema_europe_kr.png" g.....,My Cinema Europe (576p)
 #EXTGRP:MOVIES
 http://210.210.155.37/uq2663/h/h18/index.m3u8
-#EXTINF:-1,US: SYFY  | HD*
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52884
-#EXTINF:-1,US: POP | HD*
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52877
-#EXTINF:-1,US: HALLMARK MOVIES & MYSTERIES | HD
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52847
-#EXTINF:-1,CA | FX
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146074
-#EXTINF:-1,CA | FXX
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146075
-#EXTINF:-1,US: FX | HD
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52839
-#EXTINF:-1,US: FXM | HD*
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52840
-#EXTINF:-1,CA | HBO
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146081
-#EXTINF:-1,CA | HBO 2
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146082
-#EXTINF:-1,RO: HBO 3 FHD
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39279
-#EXTINF:-1,RO: HBO RO 1
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39282
-#EXTINF:-1,RO: HBO RO 3
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39284
-#EXTINF:-1,RO: HBO Romania
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39285
-#EXTINF:-1,RO: Film Cafe
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39267
-#EXTINF:-1,RO: CINEMAX FHD
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39221
-#EXTINF:-1,RO: AXN FHD
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39208
-#EXTINF:-1,RO: AXN SPIN
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39209
-#EXTINF:-1,RO: Bollywood Tv HD
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39214
-#EXTINF:-1,[DE] Sky Cinema +24
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36757
-#EXTINF:-1,[DE] Sky Cinema Comedy
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36758
-#EXTINF:-1,[DE] SKY CINEMA HD
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36738
-#EXTINF:-1,[DE] UNIVERSAL TV HD
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36730
-#EXTINF:-1,[PT] HOLLYWOOD FHD
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36703
-#EXTINF:-1,[PT] AXN HD
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36698
-#EXTINF:-1,[PT] AXN BLACK HD
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36699
-#EXTINF:-1,[PT] AXN WHITE HD
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36700
-#EXTINF:-1,USA | SYFY
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145998
-#EXTINF:-1,USA | FX
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145954
-#EXTINF:-1,USA | FXX
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145956
-#EXTINF:-1,FOX MOVIES
-#EXTGRP:MOVIES
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52108
-#EXTINF:-1,FOX MOVIES
-#EXTGRP:MOVIES
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25035.ts
-#EXTINF:-1,USA | ThrillerMAX (East)
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147365
-#EXTINF:-1,USA | ThrillerMAX (West)
-#EXTGRP:MOVIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147366
-#EXTINF:-1,Thrill ID
-#EXTGRP:MOVIES
-http://210.210.155.37/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1,My Family Channel (1080p) [Geo-blocked]
-#EXTGRP:MOVIES
-http://210.210.155.37/uq2663/h/h194/index.m3u8
-#EXTINF:-1,Zee Bioskop (360p) [Geo-blocked]
+#EXTINF:tvg-id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="Asia",Zee Bioskop (360p) [Geo-blocked]
 #EXTGRP:MOVIES
 http://210.210.155.37/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1,CA | HOLLYWOOD SUITE 2000'S MOVIES
+#EXTINF:1,US: SYFY  | HD*
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52884
+#EXTINF:1,US: POP | HD*
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52877
+#EXTINF:1,US: HALLMARK MOVIES & MYSTERIES | HD
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52847
+#EXTINF:1,CA | FX
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146074
+#EXTINF:1,CA | FXX
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146075
+#EXTINF:1,US: FX | HD
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52839
+#EXTINF:1,US: FXM | HD*
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52840
+#EXTINF:1,Star 1 (480p) [Not 24/7]
+#EXTGRP:MOVIES
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
+#EXTINF:1,Star 2 (480p) [Not 24/7]
+#EXTGRP:MOVIES
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
+#EXTINF:1,CA | HBO
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146081
+#EXTINF:1,CA | HBO 2
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146082
+#EXTINF:1,RO: HBO 3 FHD
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39279
+#EXTINF:1,RO: HBO RO 1
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39282
+#EXTINF:1,RO: HBO RO 3
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39284
+#EXTINF:1,RO: HBO Romania
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39285
+#EXTINF:1,RO: Film Cafe
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39267
+#EXTINF:1,RO: CINEMAX FHD
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39221
+#EXTINF:1,RO: AXN FHD
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39208
+#EXTINF:1,RO: AXN SPIN
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39209
+#EXTINF:1,RO: Bollywood Tv HD
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39214
+#EXTINF:1,[DE] Sky Cinema +24
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36757
+#EXTINF:1,[DE] Sky Cinema Comedy
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36758
+#EXTINF:1,[DE] SKY CINEMA HD
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36738
+#EXTINF:1,[DE] UNIVERSAL TV HD
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36730
+#EXTINF:1,[PT] HOLLYWOOD FHD
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36703
+#EXTINF:1,[PT] AXN HD
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36698
+#EXTINF:1,[PT] AXN BLACK HD
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36699
+#EXTINF:1,[PT] AXN WHITE HD
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36700
+#EXTINF:1,USA | SYFY
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145998
+#EXTINF:1,USA | FX
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145954
+#EXTINF:1,USA | FXX
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145956
+#EXTINF:1,FOX MOVIES
+#EXTGRP:MOVIES
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52108
+#EXTINF:1,FOX MOVIES
+#EXTGRP:MOVIES
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/25035.ts
+#EXTINF:1,USA | ThrillerMAX (East)
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147365
+#EXTINF:1,USA | ThrillerMAX (West)
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147366
+#EXTINF:1,My Family Channel (1080p) [Geo-blocked]
+#EXTGRP:MOVIES
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:1,CA | HOLLYWOOD SUITE 2000'S MOVIES
 #EXTGRP:MOVIES
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146086
-#EXTINF:-1,CA | HOLLYWOOD SUITE 90'S MOVIES
+#EXTINF:1,CA | HOLLYWOOD SUITE 90'S MOVIES
 #EXTGRP:MOVIES
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146087
-#EXTINF:1 tvg-id="" tvg-logo="" group-title="Asia",tvN Movies (Indonesian Subtitle) (576p)
+#EXTINF:tvg-id="" tvg-logo="" group-title="Asia",tvN Movies (Indonesian Subtitle) (576p)
 #EXTGRP:MOVIES
 http://210.210.155.37/dr9445/h/h21/index.m3u8
-#EXTINF:1 tvg-id="CelestialMovies.hk" tvg-logo="https://i.imgur.com/jeLJMc6.png" group-title="Worldwide",Celestial Movies (Indonesian Subtitle) (576p)
+#EXTINF:tvg-id="CelestialMovies.hk" tvg-logo="https://i.imgur.com/jeLJMc6.png" group-title="Worldwide",Celestial Movies (Indonesian Subtitle) (576p)
 #EXTGRP:MOVIES
 http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Asia",CinemaWorld (576p) [Geo-blocked]
+#EXTINF:tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Asia",CinemaWorld (576p) [Geo-blocked]
 #EXTGRP:MOVIES
 http://210.210.155.35/dr9445/h/h04/index.m3u8
-#EXTINF:1 tvg-id="RaiItaliaAsia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_...,RAI Italia Asia (576p)
-#EXTGRP:MOVIES
-http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
-#EXTINF:1 tvg-id="RakutenTVActionMoviesGermany.de" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="E...,Rakuten Action Movies Germany (720p)
+#EXTINF:tvg-id="RakutenTVActionMoviesGermany.de" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="E.....,Rakuten Action Movies Germany (720p)
 #EXTGRP:MOVIES
 https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:1 tvg-id="RakutenTVActionMoviesItaly.it" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Eur...,Rakuten Action Movies Italy (720p)
+#EXTINF:tvg-id="RakutenTVActionMoviesItaly.it" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Eur.....,Rakuten Action Movies Italy (720p)
 #EXTGRP:MOVIES
 https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony
+#EXTINF:tvg-id="RaiItaliaAsia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_.....,RAI Italia Asia (576p)
 #EXTGRP:MOVIES
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/281867
-#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Aath
-#EXTGRP:MOVIES
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/17005
-#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Marathi
-#EXTGRP:MOVIES
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193097
-#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Max
-#EXTGRP:MOVIES
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1359
-#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Max 2
-#EXTGRP:MOVIES
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/4862
-#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Max India
-#EXTGRP:MOVIES
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/63397
-#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Pal
-#EXTGRP:MOVIES
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193645
-#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Pix
-#EXTGRP:MOVIES
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49539
-#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony SAB TV Asia
-#EXTGRP:MOVIES
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1073
-#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony SAB TV India
-#EXTGRP:MOVIES
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/20649
-#EXTINF:1 group-title="Series" tvg-logo="http://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoP...,Pluto TV Star Trek (720p)
+http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
+#EXTINF:group-title="Series" tvg-logo="http://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoP.....,Pluto TV Star Trek (720p)
 #EXTGRP:MOVIES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd39f8c4ce900075d7698&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=150&terminate=false&userId=
-#EXTINF:-1,24/7 Avenger Movies
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Colors Rishtey VIP UK
+#EXTGRP:MOVIES
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692585
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sony TV FHD VIP UK
+#EXTGRP:MOVIES
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692562
+#EXTINF:group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/281867
+#EXTINF:group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Aath
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/17005
+#EXTINF:group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Marathi
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193097
+#EXTINF:group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Max
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1359
+#EXTINF:group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Max 2
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/4862
+#EXTINF:group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Max India
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/63397
+#EXTINF:group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Pal
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193645
+#EXTINF:group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Pix
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49539
+#EXTINF:group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony SAB TV Asia
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1073
+#EXTINF:group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony SAB TV India
+#EXTGRP:MOVIES
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/20649
+#EXTINF:1,ES: MOVISTAR Comedia FHD
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39610
+#EXTINF:1,ES: MOVISTAR Drama FHD
+#EXTGRP:MOVIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39618
+#EXTINF:1,24/7 Avenger Movies
 #EXTGRP:MOV ON DEMAND
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145594
-#EXTINF:-1,24/7 Back to the Future Trilogy
+#EXTINF:1,24/7 Back to the Future Trilogy
 #EXTGRP:MOV ON DEMAND
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145595
-#EXTINF:-1,24/7 Pirates of the Caribbean
-#EXTGRP:MOV ON DEMAND
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145705
-#EXTINF:-1,24/7 The X-Files
-#EXTGRP:MOV ON DEMAND
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145775
-#EXTINF:-1,24/7 Fifty Shades of Grey Trilogy
-#EXTGRP:MOV ON DEMAND
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145637
-#EXTINF:-1,24/7 John Wick
-#EXTGRP:MOV ON DEMAND
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145673
-#EXTINF:-1,24/7 Harry Potter
-#EXTGRP:MOV ON DEMAND
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145660
-#EXTINF:-1,24/7 Chernobyl
-#EXTGRP:MOV ON DEMAND
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145610
-#EXTINF:-1,24/7 The Matrix
-#EXTGRP:MOV ON DEMAND
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145759
-#EXTINF:-1,24/7 The A-Team
-#EXTGRP:MOV ON DEMAND
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145742
-#EXTINF:-1,24/7 Star Trek: Discovery
-#EXTGRP:MOV ON DEMAND
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145733
-#EXTINF:-1,24/7 Spiderman Movies
-#EXTGRP:MOV ON DEMAND
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145731
-#EXTINF:-1,24/7 Sexify
-#EXTGRP:MOV ON DEMAND
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145723
-#EXTINF:-1,24/7 Shameless
-#EXTGRP:MOV ON DEMAND
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145724
-#EXTINF:-1,Baywatch
+#EXTINF:1,Baywatch
 #EXTGRP:MOV ON DEMAND
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146713
-#EXTINF:-1,Mission Impossible
+#EXTINF:1,24/7 Pirates of the Caribbean
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145705
+#EXTINF:1,24/7 The X-Files
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145775
+#EXTINF:1,24/7 Fifty Shades of Grey Trilogy
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145637
+#EXTINF:1,24/7 John Wick
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145673
+#EXTINF:1,24/7 Harry Potter
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145660
+#EXTINF:1,24/7 Chernobyl
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145610
+#EXTINF:1,24/7 The Matrix
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145759
+#EXTINF:1,24/7 The A-Team
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145742
+#EXTINF:1,24/7 Star Trek: Discovery
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145733
+#EXTINF:1,24/7 Spiderman Movies
+#EXTGRP:MOV ON DEMAND
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145731
+#EXTINF:1,Mission Impossible
 #EXTGRP:MOV ON DEMAND
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146806
-#EXTINF:-1,Star Trek
+#EXTINF:1,Star Trek
 #EXTGRP:MOV ON DEMAND
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146717
-#EXTINF:-1,USA | LIFETIME
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Animal Planet FHD VIP UK
+#EXTGRP:SCI & DOCUMENT
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692441
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Animal Planet HD VIP UK
+#EXTGRP:SCI & DOCUMENT
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692442
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Discovery Channel FHD VIP UK
+#EXTGRP:SCI & DOCUMENT
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692444
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Discovery History VIP UK
+#EXTGRP:SCI & DOCUMENT
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692445
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Investigation Discovery VIP UK
+#EXTGRP:SCI & DOCUMENT
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692446
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Discovery Science VIP UK
+#EXTGRP:SCI & DOCUMENT
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692447
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Discovery Turbo VIP UK
+#EXTGRP:SCI & DOCUMENT
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692448
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: BBC Earth
+#EXTGRP:SCI & DOCUMENT
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171979
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: NAT GEO Wild
+#EXTGRP:SCI & DOCUMENT
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174724
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Discovery History
+#EXTGRP:SCI & DOCUMENT
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/694
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Discovery World
+#EXTGRP:SCI & DOCUMENT
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/708
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: ANIMAL PLANET
+#EXTGRP:SCI & DOCUMENT
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1130
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: BBC Earth
+#EXTGRP:SCI & DOCUMENT
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174446
+#EXTINF:1,History East (720p) [Not 24/7]
+#EXTGRP:SCI & DOCUMENT
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:1,US: NATIONAL GEOGRAPHIC EAST | HD
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52868
+#EXTINF:1,US: NAT GEO WILD EAST | HD*
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52867
+#EXTINF:1,US: INVESTIGATION DISCOVERY | HD
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52854
+#EXTINF:1,US: HISTORY CHANNEL | HD*
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52849
+#EXTINF:1,US: DISCOVERY FAMILY | HD*
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52824
+#EXTINF:1,US: DISCOVERY SCIENCE | HD
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52825
+#EXTINF:1,US: DISCOVERY | HD
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52826
+#EXTINF:1,RO: NAT GEO HD
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39323
+#EXTINF:1,RO: NAT GEO WILD HD
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39324
+#EXTINF:1,RO: History Channel FHD
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39286
+#EXTINF:1,CA | HISTORY
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146084
+#EXTINF:1,CA | DISCOVERY
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146063
+#EXTINF:1,CA | DISCOVERY SCIENCE
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146064
+#EXTINF:1,CA | BBC EARTH
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146021
+#EXTINF:1,[DE] HISTORY HD
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36755
+#EXTINF:1,[DE] NATIONAL GEOGRAPHIC WILD HD
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36750
+#EXTINF:1,EL: ANIMAL PLANET
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35893
+#EXTINF:1,USA | NATGEO
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145983
+#EXTINF:1,USA | NATGEO WILD
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145984
+#EXTINF:1,USA | HISTORY CHANNEL
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145967
+#EXTINF:1,USA | DISCOVERY CHANNEL
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145942
+#EXTINF:1,USA | DISCOVERY FAMILY
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145943
+#EXTINF:1,USA | DISCOVERY LIFE
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145944
+#EXTINF:1,USA | DISCOVERY SCIENCE
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145945
+#EXTINF:1,USA | ANIMAL PLANET EAST
+#EXTGRP:SCI & DOCUMENT
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145917
+#EXTINF:1,Pluto TV Mythbusters (720p) [Not 24/7]
+#EXTGRP:SCI & DOCUMENT
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd833b41843b56328bac189/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:1,Pluto TV Nature (720p)
+#EXTGRP:SCI & DOCUMENT
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed58b2db26f0007b4aa73/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/oDacp1F.png" group-title="Americas",Love Nature 4K
+#EXTGRP:SCI & DOCUMENT
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony BBC Earth
+#EXTGRP:SCI & DOCUMENT
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192995
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Cartoon Network FHD VIP UK
+#EXTGRP:ANIME & TOON
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692595
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Cartoon Network HD VIP UK
+#EXTGRP:ANIME & TOON
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692596
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Boomerang FHD VIP UK
+#EXTGRP:ANIME & TOON
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692593
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Boomerang HD VIP UK
+#EXTGRP:ANIME & TOON
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692594
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Cartoonito VIP UK
+#EXTGRP:ANIME & TOON
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692597
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: Boomerang
+#EXTGRP:ANIME & TOON
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171955
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: Nick Junior
+#EXTGRP:ANIME & TOON
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157546
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: nickelodeon
+#EXTGRP:ANIME & TOON
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157541
+#EXTINF:1,24/7 Tom & Jerry
+#EXTGRP:ANIME & TOON
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145777
+#EXTINF:1,US: NICK TOONS | HD*
+#EXTGRP:ANIME & TOON
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52870
+#EXTINF:1,RO: NICK TOONS
+#EXTGRP:ANIME & TOON
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39331
+#EXTINF:1,CA | DISNEY JR
+#EXTGRP:ANIME & TOON
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146066
+#EXTINF:1,CA | DISNEY XD
+#EXTGRP:ANIME & TOON
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146067
+#EXTINF:1,USA | Disney XD
+#EXTGRP:ANIME & TOON
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146684
+#EXTINF:1,USA | DISNEY CHANNEL
+#EXTGRP:ANIME & TOON
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146675
+#EXTINF:1,Cartoon Network Asia (720p)
+#EXTGRP:ANIME & TOON
+http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
+#EXTINF:1,Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
+#EXTGRP:ANIME & TOON
+http://210.210.155.37/dr9445/h/h02/index.m3u8
+#EXTINF:-1,Disney Channel Japan (480p) [Not 24/7]
+#EXTGRP:ANIME & TOON
+http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
+#EXTINF:group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",Animax Japan (Indonesian Subs) [Geo-blocked]
+#EXTGRP:ANIME & TOON
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:1,Animax (480p)
+#EXTGRP:ANIME & TOON
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+#EXTINF:1,Animax
+#EXTGRP:ANIME & TOON
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
+#EXTINF:1,Anime TV (360p) [Not 24/7]
+#EXTGRP:ANIME & TOON
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:1,USA | NICKELODEON
+#EXTGRP:ANIME & TOON
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146680
+#EXTINF:1,USA | NICK TOONS
+#EXTGRP:ANIME & TOON
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146679
+#EXTINF:1,Pluto TV One Piece (720p)
+#EXTGRP:ANIME & TOON
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:tvg-id="Naruto.us" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPN.....,Pluto TV Naruto (480p)
+#EXTGRP:ANIME & TOON
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
+#EXTINF:1,Pluto TV Anime All Day (720p)
+#EXTGRP:ANIME & TOON
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:tvg-id="DisneyChannelJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4.....,Disney Channel Japan (540p) [Not 24/7]
+#EXTGRP:ANIME & TOON
+https://cdn.us195.jpnettv.live/jptv/disney_channel/playlist.m3u8
+#EXTINF:tvg-id="DisneyJuniorJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disne.....,Disney Junior Japan (540p) [Not 24/7]
+#EXTGRP:ANIME & TOON
+https://cdn.us195.jpnettv.live/jptv/disney_junior/playlist.m3u8
+#EXTINF:1,Animax Asia (Vietnamese Subs) (720p)
+#EXTGRP:ANIME & TOON
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: Astro Ria
 #EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145975
-#EXTINF:-1,US: LIFETIME | HD
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158347
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: Chutti TV
 #EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52857
-#EXTINF:-1,US: Motor Trend | HD
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157495
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: NTV 7
 #EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52892
-#EXTINF:-1,US: TBS EAST | HD*
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174695
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: RTM TV 1
 #EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52885
-#EXTINF:-1,US: OUTDOOR CHANNEL | HD
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158357
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: RTM TV 2
 #EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52871
-#EXTINF:-1,US: NBC | HD*
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158355
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: TV 3
 #EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52869
-#EXTINF:-1,US: FOX | HD*
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158360
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: TV Alhijrah
 #EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52834
-#EXTINF:-1,US: FOX News | HD*
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157491
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: Warner TV
 #EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52833
-#EXTINF:-1,US: WORLD FISHING NETWORK | HD*
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157550
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: TLC
 #EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52718
-#EXTINF:-1,CA | TLC
-#EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146107
-#EXTINF:-1,[DE] TLC HD
-#EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36769
-#EXTINF:-1,EL: DISCOVERY TURBO
-#EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35913
-#EXTINF:-1,BBC Food
-#EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146817
-#EXTINF:-1,BBC Home
-#EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146818
-#EXTINF:-1,MTV Dating
-#EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146761
-#EXTINF:-1,USA | TLC
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1067
+#EXTINF:1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | TLC
 #EXTGRP:VARIETY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146002
-#EXTINF:-1,USA | MTV
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TLC FHD VIP UK
 #EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145978
-#EXTINF:2,Fashion TV UHD
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692560
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TLC HD VIP UK
 #EXTGRP:VARIETY
-http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1,FASHION 4K
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692561
+#EXTINF:1,USA | TLC
 #EXTGRP:VARIETY
-http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-#EXTINF:-1,RO: FASHION TV
-#EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39263
-#EXTINF:2,Fashion TV Midnite Secrets (1080p)
-#EXTGRP:VARIETY
-https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1,TLC HD
-#EXTGRP:VARIETY
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129916.ts
-#EXTINF:-1,BET Her
-#EXTGRP:VARIETY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146732
-#EXTINF:-1,EL: DISCOVERY TLC
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146002
+#EXTINF:1,EL: DISCOVERY TLC
 #EXTGRP:VARIETY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35912
-#EXTINF:1 tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="Asia",K+ (Indonesian subtitle) (576p)
+#EXTINF:1,TLC HD
 #EXTGRP:VARIETY
-http://210.210.155.37/uq2663/h/h08/index.m3u8
-#EXTINF:1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Worldwide",DW English (1080p)
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129916.ts
+#EXTINF:1,CA | TLC
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146107
+#EXTINF:1,[DE] TLC HD
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36769
+#EXTINF:1,USA | LIFETIME
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145975
+#EXTINF:1,US: LIFETIME | HD
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52857
+#EXTINF:1,US: TBS EAST | HD*
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52885
+#EXTINF:1,US: OUTDOOR CHANNEL | HD
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52871
+#EXTINF:1,US: Motor Trend | HD
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52892
+#EXTINF:1,EL: DISCOVERY TURBO
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35913
+#EXTINF:1,US: NBC | HD*
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52869
+#EXTINF:1,US: FOX | HD*
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52834
+#EXTINF:1,US: FOX News | HD*
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52833
+#EXTINF:1,US: WORLD FISHING NETWORK | HD*
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52718
+#EXTINF:1,BBC Food
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146817
+#EXTINF:1,BBC Home
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146818
+#EXTINF:1,MTV Dating
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146761
+#EXTINF:-1,Fashion TV UHD
+#EXTGRP:VARIETY
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:1,FASHION 4K
+#EXTGRP:VARIETY
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+#EXTINF:1,RO: FASHION TV
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39263
+#EXTINF:-1,Fashion TV Midnite Secrets (1080p)
+#EXTGRP:VARIETY
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:1,BET Her
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146732
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Kiss UK
+#EXTGRP:VARIETY
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692625
+#EXTINF:1,USA | MTV
+#EXTGRP:VARIETY
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145978
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MTV Music UK
+#EXTGRP:VARIETY
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692610
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MTV Hits VIP UK
+#EXTGRP:VARIETY
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692611
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Sports 1
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1735
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Sports 3
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1739
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Sports 4
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/7450
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Sports Haber
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/7448
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Sports Max 1
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/8224
+#EXTINF:1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",TR: beIN Sports Max 2
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16878
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: beIN Sports
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157561
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|FR| BeIN Sports MAX 4 HD
+#EXTGRP:SPORTS
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50034
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports 2 FHD AR
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682933
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports 3 [HEVC] FHD VIP AR
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5480
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports 3 FHD AR
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682934
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports 4 [HEVC] FHD VIP AR
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5479
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports 5 [HEVC] FHD VIP AR
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682935
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports 5 FHD VIP AR
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5478
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports 6 [HEVC] FHD VIP AR
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/54777
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports 7 [HEVC] FHD VIP AR
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/683135
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports 7 FHD VIP AR
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5476
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports Premium 1 FHD VIP AR
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/53432
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports Premium 3 FHD VIP AR
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5473
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports Premium 3 HD VIP AR
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/691817
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports English 1 FHD VIP AR
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/689287
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports English 2 FHD VIP AR
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/689288
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports English 3 HD VIP AR
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/689289
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Premium 1 FHD VIP RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692999
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Premium 1 FHD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694714
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Premium 1 HD VIP RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/695942
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Premium 2 FHD VIP RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693000
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Premium 2 [B] FHD VIP RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/696612
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 1 FHD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/687925
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 1 HD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5465
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 2 HD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5463
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 3 FHD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5461
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 4 FHD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5459
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 5 FHD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5456
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 6 FHD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694282
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 7 HD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694283
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Fight FHD VIP RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/696804
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 1 FHD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694507
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 1 HD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/625234
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 2 HD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/9407
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 3 HD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/9406
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 4 HD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/9405
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 5 HD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/9404
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 6 HD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/9403
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 8 RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/687780
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 10 RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694341
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Nova Sport HD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/674094
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Eurosport 1 HD RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5056
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Eurosport 2 RS
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5055
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Eurosport 1 FHD VIP UK
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692293
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Eurosport 2 FHD VIP UK
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692294
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Main Event FHD VIP UK
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692257
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Main Event HD VIP UK
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692258
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Premier League FHD VIP UK
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692259
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Premier League HD VIP UK
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692260
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Football HD VIP UK
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692262
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports F1 FHD VIP UK
+#EXTGRP:SPORTS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692269
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: Astro SuperSport 1
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146068
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: Astro SuperSport 2
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157556
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: Astro SuperSport 3
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157557
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: Astro SuperSport 4
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157558
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: Astro Arena
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157485
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: Astro Cricket
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157565
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MY: FOX SPORTS 2
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157488
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Sports F1
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/265
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Sports Football
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Sports Golf
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/264
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Sports Main Event
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283053
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Sports Premier League
+#EXTGRP:SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/263
+#EXTINF:1,ES: MOVISTAR FORMULA 1 FHD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39621
+#EXTINF:1,ES: MOVISTAR Golf FHD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39624
+#EXTINF:1,ES: MOVISTAR LaLiga FHD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39627
+#EXTINF:1,ES: MOVISTAR Series
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39641
+#EXTINF:1,ES: Liga de Campeones FHD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39647
+#EXTINF:1,[ES] MOVISTAR MOTOGP | UHD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36610
+#EXTINF:group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 1
+#EXTGRP:SPORTS
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16622
+#EXTINF:group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 2
+#EXTGRP:SPORTS
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16621
+#EXTINF:group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 3
+#EXTGRP:SPORTS
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/56191
+#EXTINF:group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Wah
+#EXTGRP:SPORTS
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165801
+#EXTINF:1,[ES] Murcia
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36611
+#EXTINF:1,ES: MOVISTAR Deportes 1 HD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39612
+#EXTINF:1,ES: MOVISTAR DEPORTS
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/39615
+#EXTINF:1,UK | Sky One
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35017
+#EXTINF:1,UK | Sky One
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35018
+#EXTINF:1,UK | Sky Atlantic FHD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35020
+#EXTINF:1,UK | Sky Atlantic
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35021
+#EXTINF:1,UK | Sky Arts
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35023
+#EXTINF:1,Sky Sports News
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35026
+#EXTINF:1,Sky Sports Main Event
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35029
+#EXTINF:1,Sky Sports Football HD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35031
+#EXTINF:1,Sky Sports F1 FHD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35040
+#EXTINF:1,Sky Sports Cricket
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35044
+#EXTINF:1,Sky Sports Arena UHD UK*
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35048
+#EXTINF:1,Sky Sports Golf UHD UK*
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35051
+#EXTINF:1,Sky Sports Golf FHD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35052
+#EXTINF:1,Sky Sports Mix UHD UK*
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35054
+#EXTINF:1,DUBAI RACING 1 (1920×1080)
+#EXTGRP:SPORTS
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:1,Dubai Racing 2
+#EXTGRP:SPORTS
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:1,DUBAI RACING 2 (1920×1080)
+#EXTGRP:SPORTS
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:1,DUBAI RACING 3 (1920×1080)
+#EXTGRP:SPORTS
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:1,DUBAI SPORTS 1 (1920×1080)
+#EXTGRP:SPORTS
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:1,DUBAI SPORTS 3 (1920×1080)
+#EXTGRP:SPORTS
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:tvg-id="" tvg-logo="" group-title="Americas",beIN Sports Xtra (1080p)
+#EXTGRP:SPORTS
+https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
+#EXTINF:1,USA: ESPN
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35057
+#EXTINF:1,USA: ESPN DEPORTES
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35059
+#EXTINF:1,USA: ESPN NEWS
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35060
+#EXTINF:1,USA: ESPN U
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35061
+#EXTINF:1,US: ESPN DEPORTES FHD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35079
+#EXTINF:1,US: beIN Sports 1 | HD*
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53184
+#EXTINF:1,bein Sports USA | HD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53185
+#EXTINF:1,US: Bein Sports 2 | (ES)
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53186
+#EXTINF:1,US: BeIN Sports 4 | HD*
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53188
+#EXTINF:1,US: BeIN Sports 6 | HD*
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53190
+#EXTINF:1,US: BeIN Sports 7 | HD*
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53191
+#EXTINF:1,US: BeIN Sports 8 | HD*
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53192
+#EXTINF:1,US: BIG TEN NETWORK | HD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53197
+#EXTINF:1,US: ELEVEN SPORTS NETWORK | HD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/53198
+#EXTINF:1,Zona Futbol
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52720
+#EXTINF:1,US: GolTV (En) | HD*
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52672
+#EXTINF:1,US: SPORTSMAN CHANNEL | HD*
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52696
+#EXTINF:1,US: SPORTSNET New York | HD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52697
+#EXTINF:1,US: TyC Sports | HD*
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52714
+#EXTINF:1,TELEKOM SPORT 3
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141570
+#EXTINF:1,TELEKOM SPORT 4
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141571
+#EXTINF:1,US: ESPN 2 | HD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52628
+#EXTINF:1,US: ESPN DEPORTES | HD*
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52637
+#EXTINF:1,US: ESPN U | HD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52641
+#EXTINF:1,US: ESPN | HD*
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52642
+#EXTINF:1,US: FNTSY SPORTS NETWORK | HD*
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52643
+#EXTINF:1,US: FOX SPORTS ARIZONA PLUS | HD*
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52649
+#EXTINF:1,[DE] SkyselectHD-01
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36809
+#EXTINF:1,[DE] SkyselectHD-02
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36810
+#EXTINF:1,[DE] DAZN 1 HD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36811
+#EXTINF:1,[DE] DAZN 2 HD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36812
+#EXTINF:1,[DE] SkyselectHD-04
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36814
+#EXTINF:1,[DE] SkyselectHD-05
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36815
+#EXTINF:1,[DE] SkyselectHD-10
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36820
+#EXTINF:1,[DE] TELEKOM DEL SPORT  1 HD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36821
+#EXTINF:1,[DE] TELEKOM DEL SPORT  2 HD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36822
+#EXTINF:1,[DE] TELEKOM BUNDESLIGA 1 HD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36823
+#EXTINF:1,[DE] TELEKOM BUNDESLIGA 2 HD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36824
+#EXTINF:1,[DE] TELEKOM BUNDESLIGA 5 HD
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36827
+#EXTINF:1,[DE] DAZN 1
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36830
+#EXTINF:1,[DE] SKY SPORT 2 SD [ ONLY ON MATCHDAY ]
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36838
+#EXTINF:1,[DE] SKY SPORT BUNDESLIGA 2  HD [ ONLY ON MATCHDAY ]
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36846
+#EXTINF:1,[DE] SKY SPORT NEWS
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36802
+#EXTINF:1,TUDNxtra 1
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52703
+#EXTINF:1,TUDNxtra 2
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52704
+#EXTINF:1,TUDNxtra 3
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52705
+#EXTINF:1,TUDNxtra 4
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52706
+#EXTINF:1,TUDNxtra 5
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52707
+#EXTINF:1,TUDNxtra 6
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52708
+#EXTINF:1,TUDNxtra 7
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52709
+#EXTINF:1,TUDNxtra 8
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52710
+#EXTINF:1,TUDNxtra 9
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52711
+#EXTINF:1,TUDNxtra 10
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52712
+#EXTINF:1,TUDNxtra 11
+#EXTGRP:SPORTS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52713
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC One FHD VIP UK
+#EXTGRP:OTHERS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692363
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC One HD VIP UK
+#EXTGRP:OTHERS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692364
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC Two FHD VIP UK
+#EXTGRP:OTHERS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692365
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC Two HD VIP UK
+#EXTGRP:OTHERS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692366
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC Three FHD VIP UK
+#EXTGRP:OTHERS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/696748
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC Scotland FHD VIP UK
+#EXTGRP:OTHERS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692377
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC News FHD VIP UK
+#EXTGRP:OTHERS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692369
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC One [Wales] FHD VIP UK
+#EXTGRP:OTHERS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692378
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC World News HD UK
+#EXTGRP:OTHERS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692387
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CNN FHD VIP UK
+#EXTGRP:OTHERS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692388
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CNN HD VIP UK
+#EXTGRP:OTHERS
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692389
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: BBC One
+#EXTGRP:OTHERS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/697
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: BBC News
+#EXTGRP:OTHERS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/696
+#EXTINF:1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: BBC World News
+#EXTGRP:OTHERS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2585
+#EXTINF:1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | BBC AMERICA
+#EXTGRP:OTHERS
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145922
+#EXTINF:tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Worldwide",DW English (1080p)
 #EXTGRP:OTHERS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="Arab world",DW Arabic (1080p)
+#EXTINF:tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="Arab world",DW Arabic (1080p)
 #EXTGRP:OTHERS
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Hispanic America",DW Español (1080p)
+#EXTINF:tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Hispanic America",DW Español (1080p)
 #EXTGRP:OTHERS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:1 tvg-id="DWDeutschPlus.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Benelux",DW Deutsch+ (1080p) [Geo-blocked]
+#EXTINF:tvg-id="DWDeutschPlus.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Benelux",DW Deutsch+ (1080p) [Geo-blocked]
 #EXTGRP:OTHERS
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
-#EXTINF:-1,CA | BBC NEWS
+#EXTINF:1,CA | BBC NEWS
 #EXTGRP:OTHERS
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146022
-#EXTINF:-1,[DE] FOX
+#EXTINF:1,[DE] FOX
 #EXTGRP:OTHERS
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36789
-#EXTINF:-1,[PT] CNN
+#EXTINF:1,[PT] CNN
 #EXTGRP:OTHERS
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36718
-#EXTINF:-1,Euronews English (720p)
+#EXTINF:1,Euronews English (720p)
 #EXTGRP:OTHERS
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1,DW Arabic (1080p)
+#EXTINF:1,DW Arabic (1080p)
 #EXTGRP:OTHERS
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,DW Deutsch (1080p) [Geo-blocked]
+#EXTINF:1,DW Deutsch (1080p) [Geo-blocked]
 #EXTGRP:OTHERS
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTINF:-1,DW Deutsch+ (1080p) [Geo-blocked]
-#EXTGRP:OTHERS
-https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
-#EXTINF:-1,DUBAI ONE (1920×1080)
+#EXTINF:1,DUBAI ONE (1920×1080)
 #EXTGRP:OTHERS
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Al Jazeera
+#EXTINF:1,Al Jazeera
 #EXTGRP:OTHERS
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222437.mp4?checkedby:iptvcat.com
-#EXTINF:1 tvg-id="" tvg-logo="" group-title="Europe",EuronewsEng
+#EXTINF:tvg-id="" tvg-logo="" group-title="Europe",EuronewsEng
 #EXTGRP:OTHERS
 http://109.169.55.98/tsstreamer/EuronewsEngLDAI_SD.ts
-#EXTINF:1 tvg-id="DubaiTV.ae" tvg-logo="https://i.imgur.com/dWueFIE.png" group-title="Arab world",Dubai TV (576p)
+#EXTINF:tvg-id="DubaiTV.ae" tvg-logo="https://i.imgur.com/dWueFIE.png" group-title="Arab world",Dubai TV (576p)
 #EXTGRP:OTHERS
 http://210.210.155.37/uq2663/h/h152/index2.m3u8
-#EXTINF:1 tvg-id="NickJrTooUK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Nick_Jr_Too....,Nick Jr Too UK (576p) [Geo-blocked]
-#EXTGRP:OTHERS
-http://212.224.98.213:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=
-#EXTINF:1 tvg-id="CBSTV.kr" tvg-logo="https://i.imgur.com/WHDU8F3.png" group-title="Asia",CBS (1080p)
+#EXTINF:tvg-id="CBSTV.kr" tvg-logo="https://i.imgur.com/WHDU8F3.png" group-title="Asia",CBS (1080p)
 #EXTGRP:OTHERS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-#EXTINF:-1,24/7 Bikini Chain Gang
+#EXTINF:1,24/7 Bikini Chain Gang
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141771
-#EXTINF:-1,24/7 Black Squirter
+#EXTINF:1,24/7 Black Squirter
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141773
-#EXTINF:-1,24/7 Busty Anal Nymphos
+#EXTINF:1,24/7 Busty Anal Nymphos
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141776
-#EXTINF:-1,24/7 Pirates
+#EXTINF:1,24/7 Pirates
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141782
-#EXTINF:-1,24/7 Pregnant and Pounded
+#EXTINF:1,24/7 Pregnant and Pounded
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141787
-#EXTINF:-1,24/7 Pregnant Pussy
+#EXTINF:1,24/7 Pregnant Pussy
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141788
-#EXTINF:-1,24/7 My First Black Dick
+#EXTINF:1,24/7 My First Black Dick
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141792
-#EXTINF:-1,24/7 A Summer in the Country
+#EXTINF:1,24/7 A Summer in the Country
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141794
-#EXTINF:-1,24/7 Executive Affairs
+#EXTINF:1,24/7 Executive Affairs
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141796
-#EXTINF:-1,24/7 German Gang Bang All-Stars
+#EXTINF:1,24/7 German Gang Bang All-Stars
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141798
-#EXTINF:-1,24/7 Forced Entry (1973)
+#EXTINF:1,24/7 Forced Entry (1973)
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141800
-#EXTINF:-1,24/7 Tear Me a New One
+#EXTINF:1,24/7 Tear Me a New One
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141803
-#EXTINF:-1,24/7 Load Almighty
+#EXTINF:1,24/7 Load Almighty
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141804
-#EXTINF:-1,24/7 Trophy Whores
+#EXTINF:1,24/7 Trophy Whores
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141805
-#EXTINF:-1,24/7 I Like It Rough
+#EXTINF:1,24/7 I Like It Rough
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141868
-#EXTINF:-1,24/7 Rookie Pussy
+#EXTINF:1,24/7 Rookie Pussy
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141869
-#EXTINF:-1,24/7 BFF and I crave a BBC
+#EXTINF:1,24/7 BFF and I crave a BBC
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141937
-#EXTINF:-1,24/7 Panty Pops
+#EXTINF:1,24/7 Panty Pops
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141942
-#EXTINF:-1,24/7 Momma Knows Best
+#EXTINF:1,24/7 Momma Knows Best
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141949
-#EXTINF:-1,24/7 Pregnant and Pounded
+#EXTINF:1,24/7 Pregnant and Pounded
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141951
-#EXTINF:-1,24/7 Mrs Siren - Bring Me your BBC
+#EXTINF:1,24/7 Mrs Siren - Bring Me your BBC
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141955
-#EXTINF:-1,24/7 Tiny Spinner
+#EXTINF:1,24/7 Tiny Spinner
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141958
-#EXTINF:-1,24/7 Maxine X - BJ for the Boyfriend
+#EXTINF:1,24/7 Maxine X - BJ for the Boyfriend
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141961
-#EXTINF:-1,24/7 Kyler Quinn - Rainy Day
+#EXTINF:1,24/7 Kyler Quinn - Rainy Day
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141964
-#EXTINF:-1,24/7 Jenny Simons BBC Gangbang
+#EXTINF:1,24/7 Jenny Simons BBC Gangbang
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141967
-#EXTINF:-1,24/7 Mermaid Sharing With BBC
+#EXTINF:1,24/7 Mermaid Sharing With BBC
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141973
-#EXTINF:-1,24/7 Luna Storm
+#EXTINF:1,24/7 Luna Storm
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141975
-#EXTINF:-1,24/7 Ella Reese - Deep Throating
+#EXTINF:1,24/7 Ella Reese - Deep Throating
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141978
-#EXTINF:-1,24/7 Jenny Simmons - Gangbang
+#EXTINF:1,24/7 Jenny Simmons - Gangbang
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141985
-#EXTINF:-1,24/7 Eve Madison- Gaped
+#EXTINF:1,24/7 Eve Madison- Gaped
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141991
-#EXTINF:-1,24/7 If it ain't Black...take it back
+#EXTINF:1,24/7 If it ain't Black...take it back
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141992
-#EXTINF:-1,24/7 Leah Lee Milking the BBC
+#EXTINF:1,24/7 Leah Lee Milking the BBC
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141997
-#EXTINF:-1,24/7 Natalia Queen - BBC Detention
+#EXTINF:1,24/7 Natalia Queen - BBC Detention
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142005
-#EXTINF:-1,24/7 Kaitlyn Katsaros -Don't Break me
+#EXTINF:1,24/7 Kaitlyn Katsaros -Don't Break me
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142009
-#EXTINF:-1,24/7 Godess Idelsy - BBC
+#EXTINF:1,24/7 Godess Idelsy - BBC
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142015
-#EXTINF:-1,24/7 Britney Benz Loves the BBC
+#EXTINF:1,24/7 Britney Benz Loves the BBC
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142019
-#EXTINF:-1,24/7 Afternoon BBC
+#EXTINF:1,24/7 Afternoon BBC
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142042
-#EXTINF:-1,24/7 Alexa Black - Pleasure Before Business
+#EXTINF:1,24/7 Alexa Black - Pleasure Before Business
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142043
-#EXTINF:-1,24/7 Athena Faris - Cummings on a BBC
+#EXTINF:1,24/7 Athena Faris - Cummings on a BBC
 #EXTGRP:YYY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142044
-#EXTINF:-1,24/7 Forced Entry (1973)
-#EXTGRP:YYY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/141800
