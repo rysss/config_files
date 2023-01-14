@@ -1,16 +1,13 @@
 #EXTM3U
-#EXTINF:vg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title=......,Bisnet Adventure 4K
-#EXTGRP:=== 01 2023 ===
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:1,Medina
-#EXTGRP:=== 01 2023 ===
+#EXTGRP:=== IPTV ===
 http://210.210.155.35/qwr9ew/s/s27/index.m3u8
 #EXTINF:1,Mecca
-#EXTGRP:=== 01 2023 ===
-http://210.210.155.35/qwr9ew/s/s28/index.m3u8
-#EXTINF:1,Biznet Adventure (720p)
 #EXTGRP:=== IPTV ===
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
+http://210.210.155.35/qwr9ew/s/s28/index.m3u8
+#EXTINF:vg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title=......,Bisnet Adventure 4K
+#EXTGRP:INDO CHANNEL
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:1,Biznet Lifestyle (720p)
 #EXTGRP:INDO CHANNEL
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
@@ -23,6 +20,105 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 #EXTINF:vg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title......,Biznet Kids
 #EXTGRP:INDO CHANNEL
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:1,ID: ANIMAL PLANET
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/157532
+#EXTINF:1,ID: ANTV
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/165072
+#EXTINF:1,ID: AXN
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/165079
+#EXTINF:1,ID: Berita Satu
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/162513
+#EXTINF:1,ID: Berita Satu news
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/287421
+#EXTINF:1,ID: Berita Satu World
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/162136
+#EXTINF:1,ID: CNBC Indonesia
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/165062
+#EXTINF:1,ID: CNN Indonesia
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/162137
+#EXTINF:1,ID: Discovery World
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/157597
+#EXTINF:1,ID: Disney Channel
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/165075
+#EXTINF:1,ID: FMN
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/165057
+#EXTINF:1,ID: Fox Crime
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/165076
+#EXTINF:1,ID: Fox Life
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/165083
+#EXTINF:1,ID: GTV
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/157578
+#EXTINF:1,ID: History
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/162519
+#EXTINF:1,ID: Hits
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/165085
+#EXTINF:1,ID: Hits Movies
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/221947
+#EXTINF:1,ID: I AM Channel
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/287423
+#EXTINF:1,ID: iNews
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/157579
+#EXTINF:1,ID: Jak TV
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/157601
+#EXTINF:1,ID: Kompas TV
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/165060
+#EXTINF:1,ID: Metro TV
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/165059
+#EXTINF:1,ID: NAT GEO
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/165094
+#EXTINF:1,ID: NET
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/80292
+#EXTINF:1,ID: Nick Junior
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/165107
+#EXTINF:1,ID: Rajawali TV
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/196457
+#EXTINF:1,ID: RCTI
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/157591
+#EXTINF:1,ID: Thrill
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/157580
+#EXTINF:1,ID: Trans 7
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/162502
+#EXTINF:1,ID: Trans TV
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/162503
+#EXTINF:1,ID: TV One
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/296214
+#EXTINF:1,ID: TVN Movies
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/157596
+#EXTINF:1,ID: TVRI
+#EXTGRP:INDO CHANNEL
+http://iptvtree.net:8080/4467299f/8b713e1a54/162504
 #EXTINF:-1,TVRI Nasional (720p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
@@ -215,6 +311,12 @@ https://devds.site/api/v.m3u8?ch=tvone
 #EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.....,TVONE_HD1
 #EXTGRP:INDO CHANNEL
 https://maper.info/TVONE-Shareext
+#EXTINF:1,Biznet Adventure (720p)
+#EXTGRP:INDO CHANNEL
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
+#EXTINF:1,MY: Cinema World
+#EXTGRP:MOVIES
+http://iptvtree.net:8080/4467299f/8b713e1a54/171956
 #EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.....,MY.CINEMA_dens
 #EXTGRP:MOVIES
 http://210.210.155.35/uq2663/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
@@ -230,6 +332,12 @@ http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1
 #EXTINF:1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Celestial Movies
 #EXTGRP:MOVIES
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174687
+#EXTINF:1,ID: HBO
+#EXTGRP:MOVIES
+http://iptvtree.net:8080/4467299f/8b713e1a54/197972
+#EXTINF:1,ID: HBO Hits
+#EXTGRP:MOVIES
+http://iptvtree.net:8080/4467299f/8b713e1a54/196480
 #EXTINF:1 group-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Animation
 #EXTGRP:MOVIES
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1090
@@ -269,6 +377,9 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/285334
 #EXTINF:1 group-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Pix
 #EXTGRP:MOVIES
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/49539
+#EXTINF:1,IN: Sony Pix
+#EXTGRP:MOVIES
+http://iptvtree.net:8080/4467299f/8b713e1a54/49539
 #EXTINF:tvg-logo="New Logo"group-title="World Network",My Cinema N
 #EXTGRP:MOVIES
 http://210.210.155.37/uq2663/h/h192/index.m3u8
@@ -416,6 +527,15 @@ http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52108
 #EXTINF:-1,FOX MOVIES
 #EXTGRP:MOVIES
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25035.ts
+#EXTINF:1,MY: Hits
+#EXTGRP:MOVIES
+http://iptvtree.net:8080/4467299f/8b713e1a54/157545
+#EXTINF:1,US: Sony Movies
+#EXTGRP:MOVIES OTHERS
+http://iptvtree.net:8080/4467299f/8b713e1a54/5831
+#EXTINF:1,ID: Sony One
+#EXTGRP:MOVIES OTHERS
+http://iptvtree.net:8080/4467299f/8b713e1a54/165077
 #EXTINF:vg-id="" tvg-logo="" group-title="Asia",HITS (576p) [Geo-blocked]
 #EXTGRP:MOVIES OTHERS
 http://210.210.155.37/dr9445/h/h37/index.m3u8
@@ -671,6 +791,9 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171979
 #EXTINF:1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: NAT GEO Wild
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174724
+#EXTINF:1,MY: Discovery Science
+#EXTGRP:SCI & DOCUMENT
+http://iptvtree.net:8080/4467299f/8b713e1a54/157530
 #EXTINF:1 group-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: NAT GEO
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1101
@@ -704,9 +827,18 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1130
 #EXTINF:1 group-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony BBC Earth
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/192995
+#EXTINF:1,CA: DISCOVERY SCIENCE
+#EXTGRP:SCI & DOCUMENT
+http://45.11.57.134:80/kerry/kerry/564809
+#EXTINF:1,US: DISCOVERY SCIENCE
+#EXTGRP:SCI & DOCUMENT
+http://45.11.57.134:80/kerry/kerry/506517
 #EXTINF:tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal.....,Discovery•Science
 #EXTGRP:SCI & DOCUMENT
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157530
+#EXTINF:1,UK: Travel Channel
+#EXTGRP:SCI & DOCUMENT
+http://iptvtree.net:8080/4467299f/8b713e1a54/295133
 #EXTINF:tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ASTROO_......,ASTRO•PRIMA
 #EXTGRP:VARIETY
 https://iplogger.com/Astroprima-shareext
@@ -755,9 +887,21 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158357
 #EXTINF:1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: RTM TV 2
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158355
+#EXTINF:1,MY: RTM TV 1
+#EXTGRP:VARIETY
+http://iptvtree.net:8080/4467299f/8b713e1a54/158357
+#EXTINF:1,MY: RTM TV 2
+#EXTGRP:VARIETY
+http://iptvtree.net:8080/4467299f/8b713e1a54/158355
 #EXTINF:1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: TV 3
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158360
+#EXTINF:1,MY: TV 3
+#EXTGRP:VARIETY
+http://iptvtree.net:8080/4467299f/8b713e1a54/158360
+#EXTINF:1,MY: TV 9
+#EXTGRP:VARIETY
+http://iptvtree.net:8080/4467299f/8b713e1a54/171953
 #EXTINF:1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: TV Alhijrah
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157491
@@ -770,6 +914,21 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157542
 #EXTINF:1 group-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: TLC
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1067
+#EXTINF:1,MY: Astro Awani
+#EXTGRP:VARIETY
+http://iptvtree.net:8080/4467299f/8b713e1a54/157478
+#EXTINF:1,MY: Astro Ceria
+#EXTGRP:VARIETY
+http://iptvtree.net:8080/4467299f/8b713e1a54/157481
+#EXTINF:1,MY: Astro Cricket
+#EXTGRP:VARIETY
+http://iptvtree.net:8080/4467299f/8b713e1a54/157565
+#EXTINF:1,MY: Astro Oasis
+#EXTGRP:VARIETY
+http://iptvtree.net:8080/4467299f/8b713e1a54/157489
+#EXTINF:1,MY: Astro Ria
+#EXTGRP:VARIETY
+http://iptvtree.net:8080/4467299f/8b713e1a54/158347
 #EXTINF:tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal.....,Warner•TV
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157550
@@ -860,6 +1019,18 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/731
 #EXTINF:1 group-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 1
 #EXTGRP:SPORTS
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16622
+#EXTINF:1,IN: Sony Ten 1
+#EXTGRP:SPORTS
+http://iptvtree.net:8080/4467299f/8b713e1a54/16622
+#EXTINF:1,IN: Sony Ten 2
+#EXTGRP:SPORTS
+http://iptvtree.net:8080/4467299f/8b713e1a54/16621
+#EXTINF:1,IN: Sony Ten 3
+#EXTGRP:SPORTS
+http://iptvtree.net:8080/4467299f/8b713e1a54/56191
+#EXTINF:1,IN: Sony SAB TV India
+#EXTGRP:SPORTS
+http://iptvtree.net:8080/4467299f/8b713e1a54/20649
 #EXTINF:1 group-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Sports 1
 #EXTGRP:SPORTS
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3630
@@ -1193,6 +1364,9 @@ http://iptvtree.net:8080/4467299f/8b713e1a54/296403
 #EXTINF:-1,JP: KANSAI News24
 #EXTGRP:OTHERS
 http://iptvtree.net:8080/4467299f/8b713e1a54/296405
+#EXTINF:1,XXX: VODX - DIGITAL PLAYGROUND
+#EXTGRP:YYY
+http://iptvtree.net:8080/4467299f/8b713e1a54/297117
 #EXTINF:-1,PLAYBOY FHD
 #EXTGRP:YYY
 http://pbrz.xyz:80/23115509/27969706/1128
