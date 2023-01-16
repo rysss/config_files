@@ -560,6 +560,36 @@ http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 #EXTINF:tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Thrill
 #EXTGRP:MOVIES OTHERS
 http://rr2.dens.tv/s/s34/index.m3u8
+#EXTINF:1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",RO: Cinemax
+#EXTGRP:MOVIES OTHERS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2237
+#EXTINF:1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",RO: Cinemax 2
+#EXTGRP:MOVIES OTHERS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2236
+#EXTINF:1 group-title="GR" tvg-logo="https://i.ibb.co/JxhwnC3/gr.jpg",GR: Cinemax
+#EXTGRP:MOVIES OTHERS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/282774
+#EXTINF:1 group-title="OSN" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",QA: Fox Action Movies
+#EXTGRP:MOVIES OTHERS
+#EXTINF:-1,US: HBO 1
+http://kuchini.site:8080/pjoy2023/1a8f08cc8b/2336
+#EXTGRP:MOVIES OTHERS
+#EXTINF:-1,US: HBO 2
+http://kuchini.site:8080/pjoy2023/1a8f08cc8b/5844
+#EXTGRP:MOVIES OTHERS
+#EXTINF:-1,CA: HBO 1
+http://kuchini.site:8080/pjoy2023/1a8f08cc8b/463
+#EXTGRP:MOVIES OTHERS
+#EXTINF:-1,CA: HBO 2
+http://kuchini.site:8080/pjoy2023/1a8f08cc8b/9284
+#EXTGRP:MOVIES OTHERS
+#EXTINF:-1,CA: HBO Signature
+http://kuchini.site:8080/pjoy2023/1a8f08cc8b/295079
+#EXTGRP:MOVIES OTHERS
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/283181
+#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.....,HBO.INDONESIA
+#EXTGRP:MOVIES OTHERS
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/197972
 #EXTINF:1 group-title="PT" tvg-logo="https://i.ibb.co/CbvkrHS/Portugal.png",PT: HBO Portugal
 #EXTGRP:MOVIES OTHERS
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/201073
@@ -584,18 +614,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2225
 #EXTINF:1 group-title="GR" tvg-logo="https://i.ibb.co/JxhwnC3/gr.jpg",GR: HBO
 #EXTGRP:MOVIES OTHERS
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291123
-#EXTINF:1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",RO: Cinemax
-#EXTGRP:MOVIES OTHERS
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2237
-#EXTINF:1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",RO: Cinemax 2
-#EXTGRP:MOVIES OTHERS
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2236
-#EXTINF:1 group-title="GR" tvg-logo="https://i.ibb.co/JxhwnC3/gr.jpg",GR: Cinemax
-#EXTGRP:MOVIES OTHERS
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/282774
-#EXTINF:1 group-title="OSN" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",QA: Fox Action Movies
-#EXTGRP:MOVIES OTHERS
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/283181
 #EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.....,HBO•
 #EXTGRP:MOVIES OTHERS
 https://2no.co/HBO-Shareext
@@ -608,9 +626,6 @@ https://2no.co/HBOhits-Shareext
 #EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.....,HBO•SIGNATURE•
 #EXTGRP:MOVIES OTHERS
 https://2no.co/HBOsig-Shareext
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.....,HBO.
-#EXTGRP:MOVIES OTHERS
-http://iptvtree.net:8080/fee2bbca/12e32aafa1/197972
 #EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.....,HBO.Hits
 #EXTGRP:MOVIES OTHERS
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/196480
@@ -626,12 +641,12 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21ab
 #EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.....,HBO.SIG_twn
 #EXTGRP:MOVIES OTHERS
 http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.....,HBO_SIGNATURE_twn
-#EXTGRP:MOVIES OTHERS
-http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.....,HBO_HITS_twn
 #EXTGRP:MOVIES OTHERS
 http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
+#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.....,HBO_SIGNATURE_twn
+#EXTGRP:MOVIES OTHERS
+http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ASTROO_......,HBO•HITS
 #EXTGRP:MOVIES OTHERS
 https://iplogger.com/Hbohits-shareext
