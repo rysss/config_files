@@ -569,13 +569,15 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2236
 #EXTINF:1 group-title="GR" tvg-logo="https://i.ibb.co/JxhwnC3/gr.jpg",GR: Cinemax
 #EXTGRP:MOVIES OTHERS
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/282774
-#EXTINF:1 group-title="OSN" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",QA: Fox Action Movies
 #EXTGRP:MOVIES OTHERS
 #EXTINF:-1,US: HBO 1
 http://kuchini.site:8080/pjoy2023/1a8f08cc8b/2336
 #EXTGRP:MOVIES OTHERS
 #EXTINF:-1,US: HBO 2
 http://kuchini.site:8080/pjoy2023/1a8f08cc8b/5844
+#EXTGRP:MOVIES OTHERS
+#EXTINF:-1,US: HBO Signature
+http://kuchini.site:8080/pjoy2023/1a8f08cc8b/6305
 #EXTGRP:MOVIES OTHERS
 #EXTINF:-1,CA: HBO 1
 http://kuchini.site:8080/pjoy2023/1a8f08cc8b/463
