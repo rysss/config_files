@@ -1,1492 +1,1543 @@
 #EXTM3U
-#EXTINF:-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title=........,Bisnet Lifestyle
+#EXTINF:logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title=.........,Bisnet Lifestyle
 #EXTGRP:+++ IPTV +++
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:1,Mecca
+#EXTINF:-1,Mecca
 #EXTGRP:+++ IPTV +++
 http://210.210.155.35/qwr9ew/s/s28/index.m3u8
-#EXTINF:1,Medina
+#EXTINF:-1,Medina
 #EXTGRP:+++ IPTV +++
 http://210.210.155.35/qwr9ew/s/s27/index.m3u8
-#EXTINF:-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title=........,Bisnet Adventure 4K
-#EXTGRP:+++ IPTV +++
+#EXTINF:logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title=.........,Bisnet Adventure 4K
+#EXTGRP:INDO CHANNEL
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:1,Biznet Lifestyle (720p)
-#EXTGRP:+++ IPTV +++
+#EXTINF:-1,Biznet Lifestyle (720p)
+#EXTGRP:INDO CHANNEL
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
-#EXTINF:1,Biznet Kids (720p)
-#EXTGRP:+++ IPTV +++
+#EXTINF:-1,Biznet Kids (720p)
+#EXTGRP:INDO CHANNEL
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
-#EXTINF:-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title........,Biznet Kids
-#EXTGRP:+++ IPTV +++
+#EXTINF:logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title.........,Biznet Kids
+#EXTGRP:INDO CHANNEL
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:1,ID: ANIMAL PLANET
+#EXTINF:-1,ID: ANIMAL PLANET
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/157532
-#EXTINF:1,ID: ANTV
+#EXTINF:-1,ID: ANTV
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/165072
-#EXTINF:1,ID: AXN
+#EXTINF:-1,ID: AXN
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/165079
-#EXTINF:1,ID: Berita Satu
+#EXTINF:-1,ID: Berita Satu
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/162513
-#EXTINF:1,ID: Berita Satu news
+#EXTINF:-1,ID: Berita Satu news
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/287421
-#EXTINF:1,ID: Berita Satu World
+#EXTINF:-1,ID: Berita Satu World
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/162136
-#EXTINF:1,ID: CNBC Indonesia
+#EXTINF:-1,ID: CNBC Indonesia
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/165062
-#EXTINF:1,ID: CNN Indonesia
+#EXTINF:-1,ID: CNN Indonesia
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/162137
-#EXTINF:1,ID: Discovery World
+#EXTINF:-1,ID: Discovery World
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/157597
-#EXTINF:1,ID: Disney Channel
+#EXTINF:-1,ID: Disney Channel
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/165075
-#EXTINF:1,ID: FMN
+#EXTINF:-1,ID: FMN
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/165057
-#EXTINF:1,ID: Fox Crime
+#EXTINF:-1,ID: Fox Crime
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/165076
-#EXTINF:1,ID: Fox Life
+#EXTINF:-1,ID: Fox Life
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/165083
-#EXTINF:1,ID: GTV
+#EXTINF:-1,ID: GTV
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/157578
-#EXTINF:1,ID: History
+#EXTINF:-1,ID: History
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/162519
-#EXTINF:1,ID: Hits
+#EXTINF:-1,ID: Hits
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/165085
-#EXTINF:1,ID: Hits Movies
+#EXTINF:-1,ID: Hits Movies
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/221947
-#EXTINF:1,ID: I AM Channel
+#EXTINF:-1,ID: I AM Channel
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/287423
-#EXTINF:1,ID: iNews
+#EXTINF:-1,ID: iNews
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/157579
-#EXTINF:1,ID: Jak TV
+#EXTINF:-1,ID: Jak TV
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/157601
-#EXTINF:1,ID: Kompas TV
+#EXTINF:-1,ID: Kompas TV
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/165060
-#EXTINF:1,ID: Metro TV
+#EXTINF:-1,ID: Metro TV
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/165059
-#EXTINF:1,ID: NAT GEO
+#EXTINF:-1,ID: NAT GEO
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/165094
-#EXTINF:1,ID: NET
+#EXTINF:-1,ID: NET
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/80292
-#EXTINF:1,ID: Nick Junior
+#EXTINF:-1,ID: Nick Junior
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/165107
-#EXTINF:1,ID: Rajawali TV
+#EXTINF:-1,ID: Rajawali TV
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/196457
-#EXTINF:1,ID: RCTI
+#EXTINF:-1,ID: RCTI
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/157591
-#EXTINF:1,ID: Thrill
+#EXTINF:-1,ID: Thrill
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/157580
-#EXTINF:1,ID: Trans 7
+#EXTINF:-1,ID: Trans 7
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/162502
-#EXTINF:1,ID: Trans TV
+#EXTINF:-1,ID: Trans TV
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/162503
-#EXTINF:1,ID: TV One
+#EXTINF:-1,ID: TV One
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/296214
-#EXTINF:1,ID: TVN Movies
+#EXTINF:-1,ID: TVN Movies
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/157596
-#EXTINF:1,ID: TVRI
+#EXTINF:-1,ID: TVRI
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/4467299f/8b713e1a54/162504
-#EXTINF:-1,TVRI Nasional (720p)
+#EXTINF:1,TVRI Nasional (720p)
 #EXTGRP:INDO CHANNEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-#EXTINF:1,MOJI TV
+#EXTINF:-1,MOJI TV
 #EXTGRP:INDO CHANNEL
 http://210.210.155.35/session/ab482d7a-f3e0-11e8-ba81-ac53b5fd5dd9/qwr9ew/s/s41/01.m3u8
-#EXTINF:1,CNN Indonesia (720p) [Geo-blocked]
+#EXTINF:-1,CNN Indonesia (720p) [Geo-blocked]
 #EXTGRP:INDO CHANNEL
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-logo="https://upload.wikimedia.org/wikipedia/id/e/eb/CNN_Indonesia.svg" group-title="LOKAL",CNN Indonesia (HD)
+#EXTINF:logo="https://upload.wikimedia.org/wikipedia/id/e/eb/CNN_Indonesia.svg" group-title="LOKAL",CNN Indonesia (HD)
 #EXTGRP:INDO CHANNEL
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png" group-title="LOKAL",CNBC Indonesia (HD)
+#EXTINF:logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png" group-title="LOKAL",CNBC Indonesia (HD)
 #EXTGRP:INDO CHANNEL
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w920218190_b384000_sleng.m3u8
-#EXTINF:id="RajawaliTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-titl.........,RTV (576p) [Geo-blocked]
+#EXTINF:d="RajawaliTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-titl..........,RTV (576p) [Geo-blocked]
 #EXTGRP:INDO CHANNEL
 http://210.210.155.37/dr9445/h/h10/index.m3u8
-#EXTINF:1,TV Edukasi (576p)
+#EXTINF:-1,TV Edukasi (576p)
 #EXTGRP:INDO CHANNEL
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
-#EXTINF:1,Jak TV (480p) [Geo-blocked]
+#EXTINF:-1,Jak TV (480p) [Geo-blocked]
 #EXTGRP:INDO CHANNEL
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,iNews√
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,iNews√
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157579
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,RCTI√
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,RCTI√
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157591
-#EXTINF:-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INEWS_HD
+#EXTINF:logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INEWS_HD
 #EXTGRP:INDO CHANNEL
 https://2no.co/Inews-Shareext
-#EXTINF:-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNC_SPORT
+#EXTINF:logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNC_SPORT
 #EXTGRP:INDO CHANNEL
 https://maper.info/SHAREEXTmncsport
-#EXTINF:-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNC_SPORT_1
+#EXTINF:logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNC_SPORT_1
 #EXTGRP:INDO CHANNEL
 https://maper.info/SHAREEXTmnssports1HD
-#EXTINF:-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNC_SPORT_2
+#EXTINF:logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNC_SPORT_2
 #EXTGRP:INDO CHANNEL
 https://maper.info/SHAREEXTmncsport2
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,ANTV_devds
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,ANTV_devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=antv
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,SCTV_devds
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,SCTV_devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=sctv
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,INDOSIAR_devds
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,INDOSIAR_devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=indosiar
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,MOJI_devds
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,MOJI_devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=moji
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,NET._devds
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,NET._devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=net
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,TRANSTV_devds
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,TRANSTV_devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=transtv
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,TRANS7_devds
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,TRANS7_devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=trans7
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,KOMPAS.TV_devds
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,KOMPAS.TV_devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=kompas
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,METRO.TV_devds
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,METRO.TV_devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=metrotv
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,JAK.TV_devds
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,JAK.TV_devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=jak
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,JTV_devds
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,JTV_devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=jtv
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,DAAI.TV_devds
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,DAAI.TV_devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=daai
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,JPM_devds
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,JPM_devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=jpm
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,TVRI_devds
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,TVRI_devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=tvri
-#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,TVONE_devds
+#EXTINF:logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.........,TVONE_devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=tvone
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.......,RCTI_HD1
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,RCTI_HD1
 #EXTGRP:INDO CHANNEL
 https://maper.info/RCTI-Shareext
-#EXTINF:g-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI+_vcdn
+#EXTINF:-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI+_vcdn
 #EXTGRP:INDO CHANNEL
 https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg" group-title="ShaReExT@Taiwan/HK_.......,三立iNews FHD
+#EXTINF:-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg" group-title="ShaReExT@Taiwan/HK_........,三立iNews FHD
 #EXTGRP:INDO CHANNEL
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.......,SCTV_HD1
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,SCTV_HD1
 #EXTGRP:INDO CHANNEL
 https://maper.info/SCTV-Shareext
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.......,SCTV©vidio
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,SCTV©vidio
 #EXTGRP:INDO CHANNEL
 http://online-teve.xp3.biz/vidio/204.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.......,INDOSIAR_HD1
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,INDOSIAR_HD1
 #EXTGRP:INDO CHANNEL
 https://maper.info/INDOSIAR-Shareext
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.......,INDOSIAR©vidio
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,INDOSIAR©vidio
 #EXTGRP:INDO CHANNEL
 http://online-teve.xp3.biz/vidio/205.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.......,GTV√
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,GTV√
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157578
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.......,Metro•TV√
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,Metro•TV√
 #EXTGRP:INDO CHANNEL
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/165059
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.......,NUSANTARA.TV_devds
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,NUSANTARA.TV_devds
 #EXTGRP:INDO CHANNEL
 https://devds.site/api/v.m3u8?ch=nusantara
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃.......,TVONE_HD1
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃........,TVONE_HD1
 #EXTGRP:INDO CHANNEL
 https://maper.info/TVONE-Shareext
-#EXTINF:1,Biznet Adventure (720p)
+#EXTINF:-1,Biznet Adventure (720p)
 #EXTGRP:INDO CHANNEL
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
-#EXTINF:1,CA: HBO 1
+#EXTINF:-1,HBO Indonesia
 #EXTGRP:HBO
-http://kuchini.site:8080/xusm/4bf044ec60/463
-#EXTINF:1,CA: HBO 2
-#EXTGRP:HBO
-http://kuchini.site:8080/xusm/4bf044ec60/9284
-#EXTINF:1,CA: HBO Signature
-#EXTGRP:HBO
-http://kuchini.site:8080/xusm/4bf044ec60/295079
-#EXTINF:1,UK: HBO Comedy
-#EXTGRP:HBO
-http://kuchini.site:8080/xusm/4bf044ec60/151864
-#EXTINF:1,US: HBO
-#EXTGRP:HBO
-http://kuchini.site:8080/xusm/4bf044ec60/2336
-#EXTINF:1,US: HBO 2
-#EXTGRP:HBO
-http://kuchini.site:8080/xusm/4bf044ec60/5844
-#EXTINF:1,US: HBO Comedy
-#EXTGRP:HBO
-http://kuchini.site:8080/xusm/4bf044ec60/2335
-#EXTINF:1,US: HBO Family
-#EXTGRP:HBO
-http://kuchini.site:8080/xusm/4bf044ec60/760
-#EXTINF:1,US: HBO Signature
-#EXTGRP:HBO
-http://kuchini.site:8080/xusm/4bf044ec60/6305
-#EXTINF:1,US: HBO Zone
-#EXTGRP:HBO
-http://kuchini.site:8080/xusm/4bf044ec60/6328
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,HBO.INDONESIA
+http://muka03.wanicelife.com:8880/DYJ12M2008/89320463/60473
+#EXTINF:-1,HBO Indonesia ALT
 #EXTGRP:HBO
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/197972
-#EXTINF:1,ID: HBO
+#EXTINF:-1,HBO HITS Indonesia
+#EXTGRP:HBO
+http://muka03.wanicelife.com:8880/DYJ12M2008/89320463/60458
+#EXTINF:-1,HBO Signature Indonesia
+#EXTGRP:HBO
+http://muka03.wanicelife.com:8880/DYJ12M2008/89320463/60456
+#EXTINF:-1,CINEMAX Indonesia
+#EXTGRP:HBO
+http://muka03.wanicelife.com:8880/DYJ12M2008/89320463/71058
+#EXTINF:-1,HITS Movies Indonesia
+#EXTGRP:HBO
+http://muka03.wanicelife.com:8880/DYJ12M2008/89320463/60457
+#EXTINF:-1,CA: HBO 1
+#EXTGRP:HBO
+http://kuchini.site:8080/xusm/4bf044ec60/463
+#EXTINF:-1,CA: HBO 2
+#EXTGRP:HBO
+http://kuchini.site:8080/xusm/4bf044ec60/9284
+#EXTINF:-1,CA: HBO Signature
+#EXTGRP:HBO
+http://kuchini.site:8080/xusm/4bf044ec60/295079
+#EXTINF:-1,UK: HBO Comedy
+#EXTGRP:HBO
+http://kuchini.site:8080/xusm/4bf044ec60/151864
+#EXTINF:-1,US: HBO
+#EXTGRP:HBO
+http://kuchini.site:8080/xusm/4bf044ec60/2336
+#EXTINF:-1,US: HBO 2
+#EXTGRP:HBO
+http://kuchini.site:8080/xusm/4bf044ec60/5844
+#EXTINF:-1,US: HBO Comedy
+#EXTGRP:HBO
+http://kuchini.site:8080/xusm/4bf044ec60/2335
+#EXTINF:-1,US: HBO Family
+#EXTGRP:HBO
+http://kuchini.site:8080/xusm/4bf044ec60/760
+#EXTINF:-1,US: HBO Signature
+#EXTGRP:HBO
+http://kuchini.site:8080/xusm/4bf044ec60/6305
+#EXTINF:-1,US: HBO Zone
+#EXTGRP:HBO
+http://kuchini.site:8080/xusm/4bf044ec60/6328
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,HBO.INDONESIA
+#EXTGRP:HBO
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/197972
+#EXTINF:-1,ID: HBO
 #EXTGRP:HBO
 http://kuchini.site:8080/xusm/4bf044ec60/197972
-#EXTINF:1,ID: HBO Hits
+#EXTINF:-1,ID: HBO Hits
 #EXTGRP:HBO
 http://kuchini.site:8080/xusm/4bf044ec60/196480
-#EXTINF:1,BR: HBO+
+#EXTINF:-1,BR: HBO+
 #EXTGRP:HBO
 http://kuchini.site:8080/xusm/4bf044ec60/8823
-#EXTINF:1,UK: HBO Comedy
+#EXTINF:-1,UK: HBO Comedy
 #EXTGRP:HBO
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/151864
-#EXTINF:1,CA: HBO 1
+#EXTINF:-1,CA: HBO 1
 #EXTGRP:HBO
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/463
-#EXTINF:1,CA: HBO 2
+#EXTINF:-1,CA: HBO 2
 #EXTGRP:HBO
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9284
-#EXTINF:1,CA: HBO Signature
+#EXTINF:-1,CA: HBO Signature
 #EXTGRP:HBO
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/295079
-#EXTINF:1,ID: HBO
+#EXTINF:-1,ID: HBO
 #EXTGRP:HBO
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/197972
-#EXTINF:1,ID: HBO Hits
+#EXTINF:-1,ID: HBO Hits
 #EXTGRP:HBO
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196480
-#EXTINF:1,US: HBO
+#EXTINF:-1,US: HBO
 #EXTGRP:HBO
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/2336
-#EXTINF:1,US: HBO 2
+#EXTINF:-1,US: HBO 2
 #EXTGRP:HBO
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/5844
-#EXTINF:1,US: HBO Comedy
+#EXTINF:-1,US: HBO Comedy
 #EXTGRP:HBO
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/2335
-#EXTINF:1,US: HBO Family
+#EXTINF:-1,US: HBO Family
 #EXTGRP:HBO
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/760
-#EXTINF:1,US: HBO Signature
+#EXTINF:-1,US: HBO Signature
 #EXTGRP:HBO
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/6305
-#EXTINF:1,US: HBO Zone
+#EXTINF:-1,US: HBO Zone
 #EXTGRP:HBO
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/6328
-#EXTINF:1,CA: HBO 1
+#EXTINF:-1,CA: HBO 1
 #EXTGRP:HBO
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/463
-#EXTINF:1,CA: HBO 2
+#EXTINF:-1,CA: HBO 2
 #EXTGRP:HBO
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/9284
-#EXTINF:1,CA: HBO Signature
+#EXTINF:-1,CA: HBO Signature
 #EXTGRP:HBO
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/295079
-#EXTINF:-1,MY: HBO Hits
+#EXTINF:1,MY: HBO Hits
 #EXTGRP:HBO
 http://kmkus.wanicelife.com:8880/LNMP6h8cG4/VgJnb88yaZ/71057
-#EXTINF:-1,MY: CINEMAX
-#EXTGRP:HBO
-http://kmkus.wanicelife.com:8880/LNMP6h8cG4/VgJnb88yaZ/71058
-#EXTINF:-1,US: Universal Premiere
-#EXTGRP:MOVIES
-http://iptvtree.net:8080/4467299f/8b713e1a54/291223
-#EXTINF:1,UK: Universal TV
-#EXTGRP:MOVIES
-http://kuchini.site:8080/xusm/4bf044ec60/278519
-#EXTINF:-1,US: The Movie Channel
-#EXTGRP:MOVIES
-http://iptvtree.net:8080/4467299f/8b713e1a54/163770
-#EXTINF:1,EX-YU: Cinemax
-#EXTGRP:MOVIES
-http://kuchini.site:8080/xusm/4bf044ec60/4138
-#EXTINF:1,EX-YU: Cinemax 2
-#EXTGRP:MOVIES
-http://kuchini.site:8080/xusm/4bf044ec60/4139
-#EXTINF:roup-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",RO: Cinemax
-#EXTGRP:MOVIES
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2237
-#EXTINF:roup-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",RO: Cinemax 2
-#EXTGRP:MOVIES
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2236
-#EXTINF:roup-title="GR" tvg-logo="https://i.ibb.co/JxhwnC3/gr.jpg",GR: Cinemax
-#EXTGRP:MOVIES
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/282774
-#EXTINF:1,BR: Cinemax
-#EXTGRP:MOVIES
-http://kuchini.site:8080/xusm/4bf044ec60/8834
-#EXTINF:-1,CINEMAX SD
-#EXTGRP:MOVIES
-http://pbrz.xyz:80/23115509/27969706/1269
-#EXTINF:-1,Cinemax (H265)
-#EXTGRP:MOVIES
-http://pbrz.xyz:80/23115509/27969706/1266
-#EXTINF:-1,Netflix Sinema 1 Hd
-#EXTGRP:MOVIES
-http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/63528.ts
-#EXTINF:-1,Netflix Sinema 2 Hd
-#EXTGRP:MOVIES
-http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/63529.ts
-#EXTINF:-1,Netflix Sinema 3 Hd
-#EXTGRP:MOVIES
-http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/63530.ts
-#EXTINF:-1,Netflix Sinema 4 Hd
-#EXTGRP:MOVIES
-http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/63532.ts
-#EXTINF:-1,Netflix Sinema 5 Hd
-#EXTGRP:MOVIES
-http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/122886.ts
-#EXTINF:-1,Netflix Sinema 6 Hd
-#EXTGRP:MOVIES
-http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/122889.ts
-#EXTINF:-1,Netflix Sinema 7 Hd
-#EXTGRP:MOVIES
-http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/123071.ts
-#EXTINF:-1,Netflix Sinema 8 Hd
-#EXTGRP:MOVIES
-http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/123082.ts
-#EXTINF:-1,Netflix Sinema 9 Hd
-#EXTGRP:MOVIES
-http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/123083.ts
-#EXTINF:-1,Netflix Sinema 10 Hd
-#EXTGRP:MOVIES
-http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/123223.ts
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Animation
-#EXTGRP:MOVIES
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1090
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Drama
-#EXTGRP:MOVIES
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1089
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Family
-#EXTGRP:MOVIES
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/727
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Greats
-#EXTGRP:MOVIES
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1087
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Hits
-#EXTGRP:MOVIES
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1086
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema sci-fi Horror
-#EXTGRP:MOVIES
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/725
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Select
-#EXTGRP:MOVIES
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/726
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Thriller
-#EXTGRP:MOVIES
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1082
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Great Movies +1
-#EXTGRP:MOVIES
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/173235
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Great Movies Classic
-#EXTGRP:MOVIES
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/290529
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Great Movies Classic +1
-#EXTGRP:MOVIES
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/285334
-#EXTINF:roup-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Pix
-#EXTGRP:MOVIES
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/49539
-#EXTINF:1,IN: Sony Pix
-#EXTGRP:MOVIES
-http://iptvtree.net:8080/4467299f/8b713e1a54/49539
-#EXTINF:1,MY: Cinema World
+#EXTINF:-1,MY: Cinema World
 #EXTGRP:MOVIES
 http://iptvtree.net:8080/4467299f/8b713e1a54/171956
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,MY.CINEMA_dens
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,MY.CINEMA_dens
 #EXTGRP:MOVIES
 http://210.210.155.35/uq2663/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,MY.CINEMA.ASIA_dens
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,MY.CINEMA.ASIA_dens
 #EXTGRP:MOVIES
 http://210.210.155.35/uq2663/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,MY.CINEMA.EUROPE_dens
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,MY.CINEMA.EUROPE_dens
 #EXTGRP:MOVIES
 http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Europe_HD
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,MY.FAMILY.CHANEL_dens
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,MY.FAMILY.CHANEL_dens
 #EXTGRP:MOVIES
 http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Celestial Movies
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,Sony.One_id
+#EXTGRP:MOVIES
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/165077
+#EXTINF:-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩TVN Movies Indonesia
+#EXTGRP:MOVIES
+http://rr1.dens.tv/h/h21/index.m3u8
+#EXTINF:-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩TVN Premium Indonesia
+#EXTGRP:MOVIES
+http://rr1.dens.tv/h/h20/index.m3u8
+#EXTINF:-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Xing Kong TV
+#EXTGRP:MOVIES
+http://rr3.dens.tv/s/s94/index2.m3u8
+#EXTINF:-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Zee Bioskop
+#EXTGRP:MOVIES
+http://rr2.dens.tv/s/s32/index.m3u8
+#EXTINF:oup-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Pix
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/49539
+#EXTINF:-1,IN: Sony Pix
+#EXTGRP:MOVIES
+http://iptvtree.net:8080/4467299f/8b713e1a54/49539
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Celestial Movies
 #EXTGRP:MOVIES
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174687
-#EXTINF:g-logo="New Logo"group-title="World Network",My Cinema N
+#EXTINF:-logo="New Logo"group-title="World Network",My Cinema N
 #EXTGRP:MOVIES
 http://210.210.155.37/uq2663/h/h192/index.m3u8
-#EXTINF:g-logo="New Logo"group-title="World Network",My Cinema Asia
+#EXTINF:-logo="New Logo"group-title="World Network",My Cinema Asia
 #EXTGRP:MOVIES
 http://210.210.155.37/uq2663/h/h193/index.m3u8
-#EXTINF:g-logo="New Logo"group-title="World Network",MBC 2 4K
+#EXTINF:1,MY: CINEMAX
 #EXTGRP:MOVIES
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/191
-#EXTINF:g-logo="New Logo"group-title="World Network",MBC 3 4K
+http://kmkus.wanicelife.com:8880/LNMP6h8cG4/VgJnb88yaZ/71058
+#EXTINF:1,CINEMAX SD
 #EXTGRP:MOVIES
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/193
-#EXTINF:g-logo="New Logo"group-title="World Network",MBC MAX 4K
+http://pbrz.xyz:80/23115509/27969706/1269
+#EXTINF:1,Cinemax (H265)
 #EXTGRP:MOVIES
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/201
-#EXTINF:g-logo="New Logo"group-title="World Network",MBC Action 4K
+http://pbrz.xyz:80/23115509/27969706/1266
+#EXTINF:-1,EX-YU: Cinemax
 #EXTGRP:MOVIES
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/204
-#EXTINF:g-logo="New Logo"group-title="World Network",Movie HUB
+http://kuchini.site:8080/xusm/4bf044ec60/4138
+#EXTINF:-1,EX-YU: Cinemax 2
 #EXTGRP:MOVIES
-https://dje6yassknq8t.cloudfront.net/playlist.m3u8
-#EXTINF:g-logo="New Logo"group-title="World Network",Movie kingdom
-#EXTGRP:MOVIES
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:g-logo="New Logo"group-title="World Network",CineLife
-#EXTGRP:MOVIES
-https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:g-logo="New Logo"group-title="World Network",Rakuten Action
-#EXTGRP:MOVIES
-https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:g-logo="New Logo"group-title="World Network",Rakuten Top
-#EXTGRP:MOVIES
-https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:1,EX-YU: Cinemax
+http://kuchini.site:8080/xusm/4bf044ec60/4139
+#EXTINF:-1,EX-YU: Cinemax
 #EXTGRP:MOVIES
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/4138
-#EXTINF:1,EX-YU: Cinemax 2
+#EXTINF:-1,EX-YU: Cinemax 2
 #EXTGRP:MOVIES
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/4139
-#EXTINF:g-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ASTROO_M.......,ASTRO•BOX•OFFICE
-#EXTGRP:MOV ON DEMAND
-https://iplogger.com/A-boxoffice-Shareext
-#EXTINF:g-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩CelestialClassicMovies
-#EXTGRP:MOV ON DEMAND
-http://rr2.dens.tv/s/s31/index.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩CelestialMovies Indonesia
-#EXTGRP:MOV ON DEMAND
-http://210.210.155.35/session/5bf247f6-7a97-11ec-8b65-b82a72d63267/dr9445/h/h14/index.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Cinema Europe
-#EXTGRP:MOV ON DEMAND
-http://rr.dens.tv/h/h18/index.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Cinema World
-#EXTGRP:MOV ON DEMAND
-http://rr1.dens.tv/h/h04/index.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩KIX
-#EXTGRP:MOV ON DEMAND
-http://rr1.dens.tv/h/h07/index.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Kplus
-#EXTGRP:MOV ON DEMAND
-http://rr.dens.tv/h/h08/index.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩My Kidz
-#EXTGRP:MOV ON DEMAND
-http://rr.dens.tv/h/h191/index.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Rock Entertainment
-#EXTGRP:MOV ON DEMAND
-http://210.210.155.37/dr9445/h/h16/01.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Rock Action
-#EXTGRP:MOV ON DEMAND
-http://210.210.155.37/dr9445/h/h15/01.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩ToonMax
-#EXTGRP:MOV ON DEMAND
-http://rr2.dens.tv/s/s50/index.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩TVN Movies Indonesia
-#EXTGRP:MOV ON DEMAND
-http://rr1.dens.tv/h/h21/index.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩TVN Premium Indonesia
-#EXTGRP:MOV ON DEMAND
-http://rr1.dens.tv/h/h20/index.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Xing Kong TV
-#EXTGRP:MOV ON DEMAND
-http://rr3.dens.tv/s/s94/index2.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Zee Bioskop
-#EXTGRP:MOV ON DEMAND
-http://rr2.dens.tv/s/s32/index.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,FOX_Movies(arb)
-#EXTGRP:MOV ON DEMAND
-http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,'Sony.One_id
-#EXTGRP:MOV ON DEMAND
-http://iptvtree.net:8080/fee2bbca/12e32aafa1/165077
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,AXN_id
-#EXTGRP:MOV ON DEMAND
+#EXTINF:oup-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",RO: Cinemax
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2237
+#EXTINF:oup-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",RO: Cinemax 2
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2236
+#EXTINF:oup-title="GR" tvg-logo="https://i.ibb.co/JxhwnC3/gr.jpg",GR: Cinemax
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/282774
+#EXTINF:-1,BR: Cinemax
+#EXTGRP:MOVIES
+http://kuchini.site:8080/xusm/4bf044ec60/8834
+#EXTINF:1,US: Universal Premiere
+#EXTGRP:MOVIES
+http://iptvtree.net:8080/4467299f/8b713e1a54/291223
+#EXTINF:-1,UK: Universal TV
+#EXTGRP:MOVIES
+http://kuchini.site:8080/xusm/4bf044ec60/278519
+#EXTINF:1,US: The Movie Channel
+#EXTGRP:MOVIES
+http://iptvtree.net:8080/4467299f/8b713e1a54/163770
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Animation
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1090
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Drama
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1089
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Family
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/727
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Greats
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1087
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Hits
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1086
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema sci-fi Horror
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/725
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Select
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/726
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Thriller
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1082
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Great Movies +1
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/173235
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Great Movies Classic
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/290529
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Great Movies Classic +1
+#EXTGRP:MOVIES
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/285334
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,AXN_id
+#EXTGRP:MOVIES
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/165079
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,FoxCrime_id
-#EXTGRP:MOV ON DEMAND
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,FoxCrime_id
+#EXTGRP:MOVIES
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/165076
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,Fox.Life_id
-#EXTGRP:MOV ON DEMAND
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,Fox.Life_id
+#EXTGRP:MOVIES
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/165083
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,Hits_id
-#EXTGRP:MOV ON DEMAND
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,Hits_id
+#EXTGRP:MOVIES
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/165085
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,Hits.Movies_id
-#EXTGRP:MOV ON DEMAND
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,Hits.Movies_id
+#EXTGRP:MOVIES
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/221947
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,Thrill_id
-#EXTGRP:MOV ON DEMAND
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,Thrill_id
+#EXTGRP:MOVIES
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157580
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,TVN Movies_id
-#EXTGRP:MOV ON DEMAND
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,TVN Movies_id
+#EXTGRP:MOVIES
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157596
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,Zee Bioskop_id
-#EXTGRP:MOV ON DEMAND
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,Zee Bioskop_id
+#EXTGRP:MOVIES
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157584
-#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.......,Galaxy.premium
-#EXTGRP:MOV ON DEMAND
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,Galaxy.premium
+#EXTGRP:MOVIES
 https://maper.info/GalaxyPrem-Shareext
-#EXTINF:-1,FOX MOVIES
-#EXTGRP:MOV ON DEMAND
+#EXTINF:1,FOX MOVIES
+#EXTGRP:MOVIES
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52108
-#EXTINF:-1,FOX MOVIES
-#EXTGRP:MOV ON DEMAND
+#EXTINF:1,FOX MOVIES
+#EXTGRP:MOVIES
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25035.ts
-#EXTINF:1,MY: Hits
-#EXTGRP:MOV ON DEMAND
+#EXTINF:-1,MY: Hits
+#EXTGRP:MOVIES
 http://iptvtree.net:8080/4467299f/8b713e1a54/157545
-#EXTINF:1,US: Sony Movies
-#EXTGRP:MOV ON DEMAND
+#EXTINF:-1,US: Sony Movies
+#EXTGRP:MOVIES
 http://iptvtree.net:8080/4467299f/8b713e1a54/5831
-#EXTINF:1,ID: Sony One
-#EXTGRP:MOV ON DEMAND
+#EXTINF:-1,ID: Sony One
+#EXTGRP:MOVIES
 http://iptvtree.net:8080/4467299f/8b713e1a54/165077
-#EXTINF:-id="" tvg-logo="" group-title="Asia",HITS (576p) [Geo-blocked]
-#EXTGRP:MOV ON DEMAND
+#EXTINF:id="" tvg-logo="" group-title="Asia",HITS (576p) [Geo-blocked]
+#EXTGRP:MOVIES
 http://210.210.155.37/dr9445/h/h37/index.m3u8
-#EXTINF:-id="Thrill.hk" tvg-logo="https://i.imgur.com/isr5jto.png" group-title="Southeast Asia",Thrill (576p)
-#EXTGRP:MOV ON DEMAND
+#EXTINF:id="Thrill.hk" tvg-logo="https://i.imgur.com/isr5jto.png" group-title="Southeast Asia",Thrill (576p)
+#EXTGRP:MOVIES
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1,Thrill HD
-#EXTGRP:MOV ON DEMAND
+#EXTINF:1,Thrill HD
+#EXTGRP:MOVIES
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal.....,Hits
-#EXTGRP:MOV ON DEMAND
+#EXTINF:vg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal......,Hits
+#EXTGRP:MOVIES
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157545
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴.....,WarnerTV.my
-#EXTGRP:MOV ON DEMAND
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴......,WarnerTV.my
+#EXTGRP:MOVIES
 http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
-#EXTINF:-id="MyCinemaEurope.ch" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_cinema_europe_kr.png" g........,My Cinema Europe (576p)
-#EXTGRP:MOV ON DEMAND
+#EXTINF:id="MyCinemaEurope.ch" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_cinema_europe_kr.png" g.........,My Cinema Europe (576p)
+#EXTGRP:MOVIES
 http://210.210.155.37/uq2663/h/h18/index.m3u8
-#EXTINF:-id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="Asia",Zee Bioskop (360p) [Geo-blocked]
-#EXTGRP:MOV ON DEMAND
+#EXTINF:id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="Asia",Zee Bioskop (360p) [Geo-blocked]
+#EXTGRP:MOVIES
 http://210.210.155.37/qwr9ew/s/s32/index.m3u8
-#EXTINF:g-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Thrill
-#EXTGRP:MOV ON DEMAND
+#EXTINF:-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Thrill
+#EXTGRP:MOVIES
 http://rr2.dens.tv/s/s34/index.m3u8
-#EXTINF:-1,CA: Fox Movie Action
-#EXTGRP:MOV ON DEMAND
+#EXTINF:1,CA: Fox Movie Action
+#EXTGRP:MOVIES
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/283181
-#EXTINF:tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 1 HD" tvg-logo="https://cdn.iconscout.com/icon/free/png.....,MARVEL|STUDIO CHANNEL 1 HD
-#EXTGRP:MOV ON DEMAND
+#EXTINF:vg-id="" tvg-name="MARVEL| STUDIO CHANNEL 1 HD" tvg-logo="https://cdn.iconscout.com/icon/free/png......,MARVEL|STUDIO CHANNEL 1 HD
+#EXTGRP:MOVIES
 http://iptvglobal.site:25461/LionTv/r1942G22hz/155979
-#EXTINF:tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 2 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2.....,MARVEL|STUDIO CHANNEL 2 HD
-#EXTGRP:MOV ON DEMAND
+#EXTINF:vg-id="" tvg-name="MARVEL| STUDIO CHANNEL 2 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2......,MARVEL|STUDIO CHANNEL 2 HD
+#EXTGRP:MOVIES
 http://iptvglobal.site:25461/LionTv/r1942G22hz/155980
-#EXTINF:tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 3 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2.....,MARVEL|STUDIO CHANNEL 3 HD
-#EXTGRP:MOV ON DEMAND
+#EXTINF:vg-id="" tvg-name="MARVEL| STUDIO CHANNEL 3 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2......,MARVEL|STUDIO CHANNEL 3 HD
+#EXTGRP:MOVIES
 http://iptvglobal.site:25461/LionTv/r1942G22hz/155981
-#EXTINF:tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 4 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2.....,MARVEL|STUDIO CHANNEL 4 HD
-#EXTGRP:MOV ON DEMAND
+#EXTINF:vg-id="" tvg-name="MARVEL| STUDIO CHANNEL 4 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2......,MARVEL|STUDIO CHANNEL 4 HD
+#EXTGRP:MOVIES
 http://iptvglobal.site:25461/LionTv/r1942G22hz/155982
-#EXTINF:tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 5 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2.....,MARVEL|STUDIO CHANNEL 5 HD
-#EXTGRP:MOV ON DEMAND
+#EXTINF:vg-id="" tvg-name="MARVEL| STUDIO CHANNEL 5 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2......,MARVEL|STUDIO CHANNEL 5 HD
+#EXTGRP:MOVIES
 http://iptvglobal.site:25461/LionTv/r1942G22hz/155983
-#EXTINF:tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 6 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2.....,MARVEL|STUDIO CHANNEL 6 HD
-#EXTGRP:MOV ON DEMAND
+#EXTINF:vg-id="" tvg-name="MARVEL| STUDIO CHANNEL 6 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2......,MARVEL|STUDIO CHANNEL 6 HD
+#EXTGRP:MOVIES
 http://iptvglobal.site:25461/LionTv/r1942G22hz/155984
-#EXTINF:tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 7 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2.....,MARVEL|STUDIO CHANNEL 7 HD
-#EXTGRP:MOV ON DEMAND
+#EXTINF:vg-id="" tvg-name="MARVEL| STUDIO CHANNEL 7 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2......,MARVEL|STUDIO CHANNEL 7 HD
+#EXTGRP:MOVIES
 http://iptvglobal.site:25461/LionTv/r1942G22hz/155985
-#EXTINF:tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 8 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2.....,MARVEL|STUDIO CHANNEL 8 HD
-#EXTGRP:MOV ON DEMAND
+#EXTINF:vg-id="" tvg-name="MARVEL| STUDIO CHANNEL 8 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2......,MARVEL|STUDIO CHANNEL 8 HD
+#EXTGRP:MOVIES
 http://iptvglobal.site:25461/LionTv/r1942G22hz/155986
-#EXTINF:tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 9 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2.....,MARVEL|STUDIO CHANNEL 9 HD
-#EXTGRP:MOV ON DEMAND
+#EXTINF:vg-id="" tvg-name="MARVEL| STUDIO CHANNEL 9 HD" tvg-logo="http://iptvglobal.site:25461/images/cc2......,MARVEL|STUDIO CHANNEL 9 HD
+#EXTGRP:MOVIES
 http://iptvglobal.site:25461/LionTv/r1942G22hz/155987
-#EXTINF:tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 10 HD" tvg-logo="http://iptvglobal.site:25461/images/cc.....,MARVEL|STUDIO CHANNEL 10 HD
-#EXTGRP:MOV ON DEMAND
+#EXTINF:vg-id="" tvg-name="MARVEL| STUDIO CHANNEL 10 HD" tvg-logo="http://iptvglobal.site:25461/images/cc......,MARVEL|STUDIO CHANNEL 10 HD
+#EXTGRP:MOVIES
 http://iptvglobal.site:25461/LionTv/r1942G22hz/155988
-#EXTINF:tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@BEIN_HIBURAN",BEIN.MOVIES 1 HD
-#EXTGRP:MOV ON DEMAND
-http://txm1.flysat.live:2089/9152894094/3603122011/198236
-#EXTINF:tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@BEIN_HIBURAN",BEIN.MOVIES 2 HD
-#EXTGRP:MOV ON DEMAND
-http://txm1.flysat.live:2089/9152894094/3603122011/198235
-#EXTINF:tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@BEIN_HIBURAN",BEIN.MOVIES 3 HD
-#EXTGRP:MOV ON DEMAND
-http://txm1.flysat.live:2089/9152894094/3603122011/198234
-#EXTINF:tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@BEIN_HIBURAN",BEIN.MOVIES 4 HD
-#EXTGRP:MOV ON DEMAND
-http://txm1.flysat.live:2089/9152894094/3603122011/198233
-#EXTINF:tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@BEIN_HIBURAN",BEIN.SERIES 1 HD
-#EXTGRP:MOV ON DEMAND
-http://txm1.flysat.live:2089/9152894094/3603122011/198232
-#EXTINF:tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@BEIN_HIBURAN",BEIN.SERIES 2 HD
-#EXTGRP:MOV ON DEMAND
-http://txm1.flysat.live:2089/9152894094/3603122011/198231
-#EXTINF:tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@BEIN_HIBURAN",FOX_MOVIES_ACTION HD
-#EXTGRP:MOV ON DEMAND
+#EXTINF:-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴........,FOX_Movies(arb)
+#EXTGRP:MOVIES
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
+#EXTINF:vg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@BEIN_HIBURAN",FOX_MOVIES_ACTION HD
+#EXTGRP:MOVIES
 http://txm1.flysat.live:2089/9152894094/3603122011/198230
-#EXTINF:-1,TV Tokyo
+#EXTINF:vg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@BEIN_HIBURAN",BEIN.MOVIES 1 HD
+#EXTGRP:MOVIES
+http://txm1.flysat.live:2089/9152894094/3603122011/198236
+#EXTINF:vg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@BEIN_HIBURAN",BEIN.MOVIES 2 HD
+#EXTGRP:MOVIES
+http://txm1.flysat.live:2089/9152894094/3603122011/198235
+#EXTINF:vg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@BEIN_HIBURAN",BEIN.MOVIES 3 HD
+#EXTGRP:MOVIES
+http://txm1.flysat.live:2089/9152894094/3603122011/198234
+#EXTINF:vg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@BEIN_HIBURAN",BEIN.MOVIES 4 HD
+#EXTGRP:MOVIES
+http://txm1.flysat.live:2089/9152894094/3603122011/198233
+#EXTINF:vg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@BEIN_HIBURAN",BEIN.SERIES 1 HD
+#EXTGRP:MOVIES
+http://txm1.flysat.live:2089/9152894094/3603122011/198232
+#EXTINF:vg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@BEIN_HIBURAN",BEIN.SERIES 2 HD
+#EXTGRP:MOVIES
+http://txm1.flysat.live:2089/9152894094/3603122011/198231
+#EXTINF:1,Netflix Sinema 1 Hd
+#EXTGRP:MOVIES
+http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/63528.ts
+#EXTINF:1,Netflix Sinema 2 Hd
+#EXTGRP:MOVIES
+http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/63529.ts
+#EXTINF:1,Netflix Sinema 3 Hd
+#EXTGRP:MOVIES
+http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/63530.ts
+#EXTINF:1,Netflix Sinema 4 Hd
+#EXTGRP:MOVIES
+http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/63532.ts
+#EXTINF:1,Netflix Sinema 5 Hd
+#EXTGRP:MOVIES
+http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/122886.ts
+#EXTINF:1,Netflix Sinema 6 Hd
+#EXTGRP:MOVIES
+http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/122889.ts
+#EXTINF:1,Netflix Sinema 7 Hd
+#EXTGRP:MOVIES
+http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/123071.ts
+#EXTINF:1,Netflix Sinema 8 Hd
+#EXTGRP:MOVIES
+http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/123082.ts
+#EXTINF:1,Netflix Sinema 9 Hd
+#EXTGRP:MOVIES
+http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/123083.ts
+#EXTINF:1,Netflix Sinema 10 Hd
+#EXTGRP:MOVIES
+http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/123223.ts
+#EXTINF:-logo="New Logo"group-title="World Network",MBC 2 4K
+#EXTGRP:MOVIES
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/191
+#EXTINF:-logo="New Logo"group-title="World Network",MBC 3 4K
+#EXTGRP:MOVIES
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/193
+#EXTINF:-logo="New Logo"group-title="World Network",MBC MAX 4K
+#EXTGRP:MOVIES
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/201
+#EXTINF:-logo="New Logo"group-title="World Network",MBC Action 4K
+#EXTGRP:MOVIES
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/204
+#EXTINF:-logo="New Logo"group-title="World Network",Movie HUB
+#EXTGRP:MOVIES
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+#EXTINF:-logo="New Logo"group-title="World Network",Movie kingdom
+#EXTGRP:MOVIES
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-logo="New Logo"group-title="World Network",CineLife
+#EXTGRP:MOVIES
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-logo="New Logo"group-title="World Network",Rakuten Action
+#EXTGRP:MOVIES
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-logo="New Logo"group-title="World Network",Rakuten Top
+#EXTGRP:MOVIES
+https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ASTROO_M........,ASTRO•BOX•OFFICE
+#EXTGRP:MOVIES
+https://iplogger.com/A-boxoffice-Shareext
+#EXTINF:-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩CelestialClassicMovies
+#EXTGRP:MOVIES
+http://rr2.dens.tv/s/s31/index.m3u8
+#EXTINF:-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩CelestialMovies Indonesia
+#EXTGRP:MOVIES
+http://210.210.155.35/session/5bf247f6-7a97-11ec-8b65-b82a72d63267/dr9445/h/h14/index.m3u8
+#EXTINF:-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Cinema Europe
+#EXTGRP:MOVIES
+http://rr.dens.tv/h/h18/index.m3u8
+#EXTINF:-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Cinema World
+#EXTGRP:MOVIES
+http://rr1.dens.tv/h/h04/index.m3u8
+#EXTINF:-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩KIX
+#EXTGRP:MOVIES
+http://rr1.dens.tv/h/h07/index.m3u8
+#EXTINF:-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Kplus
+#EXTGRP:MOVIES
+http://rr.dens.tv/h/h08/index.m3u8
+#EXTINF:-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩My Kidz
+#EXTGRP:MOVIES
+http://rr.dens.tv/h/h191/index.m3u8
+#EXTINF:-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Rock Entertainment
+#EXTGRP:MOVIES
+http://210.210.155.37/dr9445/h/h16/01.m3u8
+#EXTINF:-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩Rock Action
+#EXTGRP:MOVIES
+http://210.210.155.37/dr9445/h/h15/01.m3u8
+#EXTINF:-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩ToonMax
+#EXTGRP:MOVIES
+http://rr2.dens.tv/s/s50/index.m3u8
+#EXTINF:1,TV Tokyo
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
-#EXTINF:-1,BS TV Tokyo
+#EXTINF:1,BS TV Tokyo
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/bs06hd/playlist.m3u8
-#EXTINF:-1,BS Nippon TV (480p)
+#EXTINF:1,BS Nippon TV (480p)
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
-#EXTINF:-id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Asia",Nippon TV (JOAXD-TV) (720p)
+#EXTINF:id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Asia",Nippon TV (JOAXD-TV) (720p)
 #EXTGRP:JAPAN
 https://cdn.us195.jpnettv.live/jptv/kanto_nippon_720/playlist.m3u8
-#EXTINF:-id="NipponTV.jp" tvg-logo="https://i.imgur.com/HUHGTzu.png" group-title="Asia",Nippon TV (540p) [Not 24/7]
+#EXTINF:id="NipponTV.jp" tvg-logo="https://i.imgur.com/HUHGTzu.png" group-title="Asia",Nippon TV (540p) [Not 24/7]
 #EXTGRP:JAPAN
 https://ntv3.mov3.co/hls/ntv.m3u8
-#EXTINF:-1,TV Asahi (480p)
+#EXTINF:1,TV Asahi (480p)
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-#EXTINF:-1,BS Asahi (480p)
+#EXTINF:1,BS Asahi (480p)
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
-#EXTINF:-1,BS TBS (480p)
+#EXTINF:1,BS TBS (480p)
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
-#EXTINF:-1,BS Fuji TV (480p)
+#EXTINF:1,BS Fuji TV (480p)
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
-#EXTINF:-1,NHK World Japan (1080p)
+#EXTINF:1,NHK World Japan (1080p)
 #EXTGRP:JAPAN
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1,NHK Worldᴴᴰ
+#EXTINF:1,NHK Worldᴴᴰ
 #EXTGRP:JAPAN
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1,NHK E
+#EXTINF:1,NHK E
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
-#EXTINF:-1,NHK G
+#EXTINF:1,NHK G
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
-#EXTINF:-1,NHK World Japan (720p)
+#EXTINF:1,NHK World Japan (720p)
 #EXTGRP:JAPAN
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1,NHK BS1 (480p)
+#EXTINF:1,NHK BS1 (480p)
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
-#EXTINF:-1,NHK BSP (480p)
+#EXTINF:1,NHK BSP (480p)
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
-#EXTINF:-1,Tokyo MX1 (720p)
+#EXTINF:1,Tokyo MX1 (720p)
 #EXTGRP:JAPAN
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
-#EXTINF:-1,Tokyo MX1
+#EXTINF:1,Tokyo MX1
 #EXTGRP:JAPAN
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
-#EXTINF:-1,Tokyo MX1
+#EXTINF:1,Tokyo MX1
 #EXTGRP:JAPAN
 https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-#EXTINF:-1,Tokyo MX1
+#EXTINF:1,Tokyo MX1
 #EXTGRP:JAPAN
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
-#EXTINF:-1,Tokyo MX2 (720p)
+#EXTINF:1,Tokyo MX2 (720p)
 #EXTGRP:JAPAN
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
-#EXTINF:-1,Tokyo MX2
+#EXTINF:1,Tokyo MX2
 #EXTGRP:JAPAN
 https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-#EXTINF:-1,Tokyo MX2
+#EXTINF:1,Tokyo MX2
 #EXTGRP:JAPAN
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,NHK°BS1
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,NHK°BS1
 #EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,NHK°BS°Premium
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,NHK°BS°Premium
 #EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,BS°Nittere
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,BS°Nittere
 #EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,BS°Asahi
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,BS°Asahi
 #EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,BS°TBS
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,BS°TBS
 #EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,BS°TV°Tokyo
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,BS°TV°Tokyo
 #EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,BS°Fuji
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,BS°Fuji
 #EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,WOWOW°Prime
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,WOWOW°Prime
 #EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,WOWOW°Live
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,WOWOW°Live
 #EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,WOWOW°Cinema
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,WOWOW°Cinema
 #EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Star°Channel 1
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Star°Channel 1
 #EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Star°Channel 2
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Star°Channel 2
 #EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Star°Channel 3
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Star°Channel 3
 #EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1,MY: ANIMAX
-#EXTGRP:ANIME & TOON
+#EXTINF:1,MY: ANIMAX
+#EXTGRP:JAPAN
 http://kmkus.wanicelife.com:8880/LNMP6h8cG4/VgJnb88yaZ/71100
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,BS°Animax
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,BS°Animax
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,BS°SkyPerfecTV!
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,BS°SkyPerfecTV!
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,BS°Tsuri Vision
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,BS°Tsuri Vision
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Nippon°Eiga°Senmon Channel
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Nippon°Eiga°Senmon Channel
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Toei°Channel
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Toei°Channel
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Channel°Neco
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Channel°Neco
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Movie°Plus
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Movie°Plus
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Sky°A
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Sky°A
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Gaora°Sports
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Gaora°Sports
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Nittere°G+
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Nittere°G+
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Golf°Network
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Golf°Network
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Jidaigeki°Senmon Channel
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Jidaigeki°Senmon Channel
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Family°Gekijo
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Family°Gekijo
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Channel°Ginga
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Channel°Ginga
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Super!°Drama TV
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Super!°Drama TV
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Fox°Japan
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Fox°Japan
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Lala°TV
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Lala°TV
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Music°On! TV
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Music°On! TV
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Kids°Station
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Kids°Station
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,Nittere°News 24
-#EXTGRP:ANIME & TOON
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,Nittere°News 24
+#EXTGRP:JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1,DE: Tom Jerry
+#EXTINF:1,DE: Tom Jerry
 #EXTGRP:ANIME & TOON
 http://kuchini.site:8080/pjoy2023/1a8f08cc8b/63343
-#EXTINF:-1,AL: Tom & Jerry
+#EXTINF:1,AL: Tom & Jerry
 #EXTGRP:ANIME & TOON
 http://kuchini.site:8080/pjoy2023/1a8f08cc8b/15543
-#EXTINF:1,EX-YU: Tom and Jerry
-#EXTGRP:ANIME & TOON
-http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/26810
 #EXTINF:-1,EX-YU: Tom and Jerry
 #EXTGRP:ANIME & TOON
+http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/26810
+#EXTINF:1,EX-YU: Tom and Jerry
+#EXTGRP:ANIME & TOON
 http://kuchini.site:8080/pjoy2023/1a8f08cc8b/26810
-#EXTINF:roup-title="OSN" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",QA: Cartoon Network Arabic
+#EXTINF:oup-title="OSN" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",QA: Cartoon Network Arabic
 #EXTGRP:ANIME & TOON
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/283184
-#EXTINF:g-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ASTROO_........,ANIMAX•
+#EXTINF:-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ASTROO_.........,ANIMAX•
 #EXTGRP:ANIME & TOON
 https://iplogger.com/Animax-shareext
-#EXTINF:-1,Cartoon Network Asia (720p)
+#EXTINF:1,Cartoon Network Asia (720p)
 #EXTGRP:ANIME & TOON
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
-#EXTINF:-1,Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
+#EXTINF:1,Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
 #EXTGRP:ANIME & TOON
 http://210.210.155.37/dr9445/h/h02/index.m3u8
-#EXTINF:1,Disney Channel Japan (480p) [Not 24/7]
+#EXTINF:-1,Disney Channel Japan (480p) [Not 24/7]
 #EXTGRP:ANIME & TOON
 http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
-#EXTINF:up-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",Animax Japan (Indonesian Subs) [Geo-blocked]
+#EXTINF:p-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",Animax Japan (Indonesian Subs) [Geo-blocked]
 #EXTGRP:ANIME & TOON
 http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1,Animax (480p)
+#EXTINF:1,Animax (480p)
 #EXTGRP:ANIME & TOON
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
-#EXTINF:-1,Animax
+#EXTINF:1,Animax
 #EXTGRP:ANIME & TOON
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
-#EXTINF:-1,Anime TV (360p) [Not 24/7]
+#EXTINF:1,Anime TV (360p) [Not 24/7]
 #EXTGRP:ANIME & TOON
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-id="DisneyChannelJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4........,Disney Channel Japan (540p) [Not 24/7]
+#EXTINF:id="DisneyChannelJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4.........,Disney Channel Japan (540p) [Not 24/7]
 #EXTGRP:ANIME & TOON
 https://cdn.us195.jpnettv.live/jptv/disney_channel/playlist.m3u8
-#EXTINF:-id="DisneyJuniorJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disne........,Disney Junior Japan (540p) [Not 24/7]
+#EXTINF:id="DisneyJuniorJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disne.........,Disney Junior Japan (540p) [Not 24/7]
 #EXTGRP:ANIME & TOON
 https://cdn.us195.jpnettv.live/jptv/disney_junior/playlist.m3u8
-#EXTINF:-1,Animax Asia (Vietnamese Subs) (720p)
+#EXTINF:1,Animax Asia (Vietnamese Subs) (720p)
 #EXTGRP:ANIME & TOON
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
-#EXTINF:-1,UK: History
+#EXTINF:1,UK: History
 #EXTGRP:SCI & DOCUMENT
 http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/189615.ts
-#EXTINF:-1,UK: History 2
+#EXTINF:1,UK: History 2
 #EXTGRP:SCI & DOCUMENT
 http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/189616.ts
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: BBC Earth
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: BBC Earth
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171979
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: NAT GEO Wild
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: NAT GEO Wild
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174724
-#EXTINF:1,MY: Discovery Science
+#EXTINF:-1,MY: Discovery Science
 #EXTGRP:SCI & DOCUMENT
 http://iptvtree.net:8080/4467299f/8b713e1a54/157530
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: NAT GEO
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: NAT GEO
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1101
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: NAT GEO Wild
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: NAT GEO Wild
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/724
-#EXTINF:roup-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BT SPORT ESPN
+#EXTINF:oup-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BT SPORT ESPN
 #EXTGRP:SCI & DOCUMENT
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29686.ts
-#EXTINF:roup-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY 1
+#EXTINF:oup-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY 1
 #EXTGRP:SCI & DOCUMENT
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29916.ts
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Viasat Explore
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Viasat Explore
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/187632
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Viasat History
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Viasat History
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16398
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Viasat Nature
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Viasat Nature
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/65910
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Discovery History
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Discovery History
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/694
-#EXTINF:-1,UK: Discovery History
+#EXTINF:1,UK: Discovery History
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/b12515fa/f176763b4e/694
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Discovery World
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Discovery World
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/708
-#EXTINF:-1,UK: Discovery Science
+#EXTINF:1,UK: Discovery Science
 #EXTGRP:SCI & DOCUMENT
 http://iptvtree.net:8080/4467299f/8b713e1a54/713
-#EXTINF:-1,UK: Discovery Turbo
+#EXTINF:1,UK: Discovery Turbo
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/b12515fa/f176763b4e/1114
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: ANIMAL PLANET
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: ANIMAL PLANET
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1130
-#EXTINF:roup-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony BBC Earth
+#EXTINF:oup-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony BBC Earth
 #EXTGRP:SCI & DOCUMENT
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/192995
-#EXTINF:1,CA: DISCOVERY SCIENCE
+#EXTINF:-1,CA: DISCOVERY SCIENCE
 #EXTGRP:SCI & DOCUMENT
 http://45.11.57.134:80/kerry/kerry/564809
-#EXTINF:1,US: DISCOVERY SCIENCE
+#EXTINF:-1,US: DISCOVERY SCIENCE
 #EXTGRP:SCI & DOCUMENT
 http://45.11.57.134:80/kerry/kerry/506517
-#EXTINF:g-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal.......,Discovery•Science
+#EXTINF:-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal........,Discovery•Science
 #EXTGRP:SCI & DOCUMENT
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157530
-#EXTINF:1,UK: Travel Channel
+#EXTINF:-1,UK: Travel Channel
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/4467299f/8b713e1a54/295133
-#EXTINF:g-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ASTROO_........,ASTRO•PRIMA
+#EXTINF:-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ASTROO_.........,ASTRO•PRIMA
 #EXTGRP:VARIETY
 https://iplogger.com/Astroprima-shareext
-#EXTINF:g-logo="https://imgur.com/PFca37j"group-title="SUMON 4K",Fashion HD
+#EXTINF:-logo="https://imgur.com/PFca37j"group-title="SUMON 4K",Fashion HD
 #EXTGRP:VARIETY
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:g-logo="https://imgur.com/PFca37j"group-title="SUMON 4K",Fashion TV
+#EXTINF:-logo="https://imgur.com/PFca37j"group-title="SUMON 4K",Fashion TV
 #EXTGRP:VARIETY
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:g-logo="https://imgur.com/BLoZbXL"group-title="SUMON 4K",Fashion Mid-Night
+#EXTINF:-logo="https://imgur.com/BLoZbXL"group-title="SUMON 4K",Fashion Mid-Night
 #EXTGRP:VARIETY
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
-#EXTINF:-1,Fashion TV UHD
+#EXTINF:1,Fashion TV UHD
 #EXTGRP:VARIETY
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:1,FASHION 4K
+#EXTINF:-1,FASHION 4K
 #EXTGRP:VARIETY
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: AXN
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: AXN
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157542
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Boomerang
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Boomerang
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171955
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Warner TV
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Warner TV
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157550
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Chutti TV
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Chutti TV
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157495
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Cinema World
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Cinema World
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171956
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Egg Network
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Egg Network
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157484
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Nick Junior
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Nick Junior
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157546
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: NTV 7
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: NTV 7
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174695
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: RTM TV 1
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: RTM TV 1
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158357
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: RTM TV 2
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: RTM TV 2
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158355
-#EXTINF:1,MY: RTM TV 1
+#EXTINF:-1,MY: RTM TV 1
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/4467299f/8b713e1a54/158357
-#EXTINF:1,MY: RTM TV 2
+#EXTINF:-1,MY: RTM TV 2
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/4467299f/8b713e1a54/158355
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: TV 3
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: TV 3
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158360
-#EXTINF:1,MY: TV 3
+#EXTINF:-1,MY: TV 3
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/4467299f/8b713e1a54/158360
-#EXTINF:1,MY: TV 9
+#EXTINF:-1,MY: TV 9
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/4467299f/8b713e1a54/171953
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: TV Alhijrah
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: TV Alhijrah
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157491
-#EXTINF:roup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: TLC
+#EXTINF:oup-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: TLC
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1067
-#EXTINF:1,MY: Astro Awani
+#EXTINF:-1,MY: Astro Awani
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/4467299f/8b713e1a54/157478
-#EXTINF:1,MY: Astro Ceria
+#EXTINF:-1,MY: Astro Ceria
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/4467299f/8b713e1a54/157481
-#EXTINF:1,MY: Astro Cricket
+#EXTINF:-1,MY: Astro Cricket
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/4467299f/8b713e1a54/157565
-#EXTINF:1,MY: Astro Oasis
+#EXTINF:-1,MY: Astro Oasis
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/4467299f/8b713e1a54/157489
-#EXTINF:1,MY: Astro Ria
+#EXTINF:-1,MY: Astro Ria
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/4467299f/8b713e1a54/158347
-#EXTINF:g-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal.......,Warner•TV
+#EXTINF:-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal........,Warner•TV
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157550
-#EXTINF:g-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal.......,•Awani
+#EXTINF:-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal........,•Awani
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157478
-#EXTINF:g-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal.......,•Ceria
+#EXTINF:-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal........,•Ceria
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157481
-#EXTINF:g-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal.......,•Oasis
+#EXTINF:-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal........,•Oasis
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157489
-#EXTINF:g-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal.......,•Ria
+#EXTINF:-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 Mal........,•Ria
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/158347
-#EXTINF:roup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Astro Ria
+#EXTINF:oup-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MY: Astro Ria
 #EXTGRP:VARIETY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158347
-#EXTINF:-1,UK: Lifetime
+#EXTINF:1,UK: Lifetime
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/4467299f/8b713e1a54/297104
-#EXTINF:-1,UK: Jewellery Maker
+#EXTINF:1,UK: Jewellery Maker
 #EXTGRP:VARIETY
 http://iptvtree.net:8080/4467299f/8b713e1a54/166001
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,J°Sports 1
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,J°Sports 1
 #EXTGRP:SPORTS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,J°Sports 2
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,J°Sports 2
 #EXTGRP:SPORTS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,J°Sports 3
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,J°Sports 3
 #EXTGRP:SPORTS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION....,J=Sports 4
+#EXTINF:g-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION.....,J=Sports 4
 #EXTGRP:SPORTS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1,MY: beIN Sports
+#EXTINF:-1,MY: beIN Sports
 #EXTGRP:SPORTS
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/157561
-#EXTINF:1,MY: Astro Arena
+#EXTINF:-1,MY: Astro Arena
 #EXTGRP:SPORTS
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/157485
-#EXTINF:1,MY: Astro Awani
+#EXTINF:-1,MY: Astro Awani
 #EXTGRP:SPORTS
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/157478
-#EXTINF:1,MY: Astro Ceria
+#EXTINF:-1,MY: Astro Ceria
 #EXTGRP:SPORTS
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/157481
-#EXTINF:1,MY: Astro Cricket
+#EXTINF:-1,MY: Astro Cricket
 #EXTGRP:SPORTS
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/157565
-#EXTINF:1,MY: Astro Oasis
+#EXTINF:-1,MY: Astro Oasis
 #EXTGRP:SPORTS
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/157489
-#EXTINF:1,MY: Astro Ria
+#EXTINF:-1,MY: Astro Ria
 #EXTGRP:SPORTS
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/158347
-#EXTINF:1,MY: Astro SuperSport 1
+#EXTINF:-1,MY: Astro SuperSport 1
 #EXTGRP:SPORTS
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/146068
-#EXTINF:1,MY: Astro SuperSport 2
+#EXTINF:-1,MY: Astro SuperSport 2
 #EXTGRP:SPORTS
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/157556
-#EXTINF:1,MY: Astro SuperSport 3
+#EXTINF:-1,MY: Astro SuperSport 3
 #EXTGRP:SPORTS
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/157557
-#EXTINF:1,MY: Astro SuperSport 4
+#EXTINF:-1,MY: Astro SuperSport 4
 #EXTGRP:SPORTS
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/157558
-#EXTINF:1,MY: FOX SPORTS 2
+#EXTINF:-1,MY: FOX SPORTS 2
 #EXTGRP:SPORTS
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/157488
-#EXTINF:-1,JSPORT 1
+#EXTINF:1,JSPORT 1
 #EXTGRP:SPORTS
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
-#EXTINF:-1,JSPORT 2
+#EXTINF:1,JSPORT 2
 #EXTGRP:SPORTS
 http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
-#EXTINF:-1,JSPORT 3
+#EXTINF:1,JSPORT 3
 #EXTGRP:SPORTS
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
-#EXTINF:1,JSPORT 4
+#EXTINF:-1,JSPORT 4
 #EXTGRP:SPORTS
 http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8
-#EXTINF:xui-id="146" tvg-id="DAZN1HD" tvg-name="DE | DAZN Bar 1 HD+" tvg-logo="http://boomtivi.xyz/images/.....,DAZN Bar 1 HD+
+#EXTINF:ui-id="146" tvg-id="DAZN1HD" tvg-name="DE | DAZN Bar 1 HD+" tvg-logo="http://boomtivi.xyz/images/......,DAZN Bar 1 HD+
 #EXTGRP:SPORTS
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
-#EXTINF:xui-id="148" tvg-id="DAZN2HD" tvg-name="DE | DAZN Bar 2 HD+" tvg-logo="http://boomtivi.xyz/images/.....,DAZN Bar 2 HD+
+#EXTINF:ui-id="148" tvg-id="DAZN2HD" tvg-name="DE | DAZN Bar 2 HD+" tvg-logo="http://boomtivi.xyz/images/......,DAZN Bar 2 HD+
 #EXTGRP:SPORTS
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
-#EXTINF:xui-id="149" tvg-id="Eurosport1.de" tvg-name="DE | Eurosport 1 HD+" tvg-logo="http://boomtivi.xyz/.....,Eurosport 1 HD+
+#EXTINF:ui-id="149" tvg-id="Eurosport1.de" tvg-name="DE | Eurosport 1 HD+" tvg-logo="http://boomtivi.xyz/......,Eurosport 1 HD+
 #EXTGRP:SPORTS
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StsB60XRHQki2IRJSwyUIc0
-#EXTINF:xui-id="150" tvg-id="Sky1.de" tvg-name="DE | Eurosport 2 HD+" tvg-logo="http://boomtivi.xyz/images.....,Eurosport 2 HD+
+#EXTINF:ui-id="150" tvg-id="Sky1.de" tvg-name="DE | Eurosport 2 HD+" tvg-logo="http://boomtivi.xyz/images......,Eurosport 2 HD+
 #EXTGRP:SPORTS
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StKrxXztnrfEGmivohJSVmE
-#EXTINF:xui-id="152" tvg-id="Eurosport2Xtra.de" tvg-name="DE | Eurosport 2Xtra HD+" tvg-logo="http://boomt.....,Eurosport 2Xtra HD+
+#EXTINF:ui-id="152" tvg-id="Eurosport2Xtra.de" tvg-name="DE | Eurosport 2Xtra HD+" tvg-logo="http://boomt......,Eurosport 2Xtra HD+
 #EXTGRP:SPORTS
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SnAfUrS0jI2D2AtirN9YF2A
-#EXTINF:-1,SkySports•PremierLeague
+#EXTINF:1,SkySports•PremierLeague
 #EXTGRP:SPORTS
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/263
-#EXTINF:xui-id="154" tvg-id="Sport1HD.de" tvg-name="DE | Sport1" tvg-logo="http://boomtivi.xyz/images/logo.....,Sport1
+#EXTINF:ui-id="154" tvg-id="Sport1HD.de" tvg-name="DE | Sport1" tvg-logo="http://boomtivi.xyz/images/logo......,Sport1
 #EXTGRP:SPORTS
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrIEZ6snbsNvwTWuNVj02wU
-#EXTINF:xui-id="155" tvg-id="SPORT1plus.de" tvg-name="DE | Sport1+" tvg-logo="http://boomtivi.xyz/images/l.....,Sport1+
+#EXTINF:ui-id="155" tvg-id="SPORT1plus.de" tvg-name="DE | Sport1+" tvg-logo="http://boomtivi.xyz/images/l......,Sport1+
 #EXTGRP:SPORTS
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Ss7XMe2T7HJFI2Jg9rmJ-MQ
-#EXTINF:tvg-id="" tvg-name="SPORTS| REAL MADRID TV" tvg-logo="https://i.picasion.com/pic92/f550efd0ad9bd82.....,REAL MADRID TV
+#EXTINF:vg-id="" tvg-name="SPORTS| REAL MADRID TV" tvg-logo="https://i.picasion.com/pic92/f550efd0ad9bd82......,REAL MADRID TV
 #EXTGRP:SPORTS
 http://iptvglobal.site:25461/LionTv/r1942G22hz/86426
-#EXTINF:tvg-id="" tvg-name="PPVV| MOVISTAR LA LIGA FHD" tvg-logo="https://i.picasion.com/pic92/cec58b7f6f7.....,MOVISTAR LALIGA FHD
+#EXTINF:vg-id="" tvg-name="PPVV| MOVISTAR LA LIGA FHD" tvg-logo="https://i.picasion.com/pic92/cec58b7f6f7......,MOVISTAR LALIGA FHD
 #EXTGRP:SPORTS
 http://iptvglobal.site:25461/LionTv/r1942G22hz/86307
-#EXTINF:tvg-id="" tvg-name="PPVV| LA LIGA BAR TV FHD" tvg-logo="https://i.picasion.com/pic92/560e1017d9f5f.....,LALIGA BAR TV FHD
+#EXTINF:vg-id="" tvg-name="PPVV| LA LIGA BAR TV FHD" tvg-logo="https://i.picasion.com/pic92/560e1017d9f5f......,LALIGA BAR TV FHD
 #EXTGRP:SPORTS
 http://iptvglobal.site:25461/LionTv/r1942G22hz/86306
-#EXTINF:tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIAN⚽SPORTS⚽"...,BeinSport.English HD1 HD
+#EXTINF:vg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIAN⚽SPORTS⚽"...,BeinSport.English HD1 HD
 #EXTGRP:SPORTS
 http://txm1.flysat.live:2089/9152894094/3603122011/254625
-#EXTINF:tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIAN⚽SPORTS⚽"...,BeinSport.English HD2 HD
+#EXTINF:vg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIAN⚽SPORTS⚽"...,BeinSport.English HD2 HD
 #EXTGRP:SPORTS
 http://txm1.flysat.live:2089/9152894094/3603122011/254622
-#EXTINF:tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIAN⚽SPORTS⚽"...,BeinSport.English HD3 HD
+#EXTINF:vg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIAN⚽SPORTS⚽"...,BeinSport.English HD3 HD
 #EXTGRP:SPORTS
 http://txm1.flysat.live:2089/9152894094/3603122011/254619
-#EXTINF:tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thai.....,NBA
+#EXTINF:vg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thai......,NBA
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/115302
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING.....,RedBull•TV
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING......,RedBull•TV
 #EXTGRP:SPORTS
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/85429
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING.....,MUTV
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING......,MUTV
 #EXTGRP:SPORTS
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/1102
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING.....,Premier•Sports 1
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING......,Premier•Sports 1
 #EXTGRP:SPORTS
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/1097
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING.....,Premier•Sports 2
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING......,Premier•Sports 2
 #EXTGRP:SPORTS
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/4723
-#EXTINF:tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SONY SIX HD
+#EXTINF:vg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SONY SIX HD
 #EXTGRP:SPORTS
 http://txm1.flysat.live:2089/9152894094/3603122011/203434
-#EXTINF:tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE_Spor.....,SonySport.1 HD_
+#EXTINF:vg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE_Spor......,SonySport.1 HD_
 #EXTGRP:SPORTS
 http://clientportal.link:80/CZ40WC484/iGW0Kw998/10168
-#EXTINF:tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE_Spor.....,SonySport.2 HD_
+#EXTINF:vg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE_Spor......,SonySport.2 HD_
 #EXTGRP:SPORTS
 http://clientportal.link:80/CZ40WC484/iGW0Kw998/10170
-#EXTINF:tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE_Spor.....,SonySport.3_
+#EXTINF:vg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE_Spor......,SonySport.3_
 #EXTGRP:SPORTS
 http://clientportal.link:80/CZ40WC484/iGW0Kw998/10169
-#EXTINF:tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE_Spor.....,Sony.Sports.5 HD_
+#EXTINF:vg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE_Spor......,Sony.Sports.5 HD_
 #EXTGRP:SPORTS
 http://clientportal.link:80/CZ40WC484/iGW0Kw998/18805
-#EXTINF:tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SETANTA_1™
+#EXTINF:vg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SETANTA_1™
 #EXTGRP:SPORTS
 http://31.146.176.94:80/setanta1/index.m3u8
-#EXTINF:tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SETANTA_2™
+#EXTINF:vg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SETANTA_2™
 #EXTGRP:SPORTS
 http://31.146.176.94:80/setanta2/index.m3u8
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER".....,HubPremier 4K UHD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER"......,HubPremier 4K UHD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348096
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER".....,HubPremier 1 FHD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER"......,HubPremier 1 FHD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348097
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER".....,HubPremier 2 FHD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER"......,HubPremier 2 FHD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348098
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER".....,HubPremier 3 FHD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER"......,HubPremier 3 FHD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348099
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER".....,HubPremier 4 FHD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER"......,HubPremier 4 FHD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348100
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER".....,HubPremier 5 FHD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER"......,HubPremier 5 FHD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348101
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER".....,HubPremier 6 FHD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER"......,HubPremier 6 FHD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348102
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER".....,HubPremier 7 FHD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER"......,HubPremier 7 FHD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348103
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER".....,HubPremier 8 FHD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER"......,HubPremier 8 FHD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348104
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER".....,HubPremier 9 FHD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER"......,HubPremier 9 FHD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348105
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER".....,HubPremier 10 FHD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER"......,HubPremier 10 FHD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348106
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER".....,HubPremier 11 FHD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HUBPREMIER"......,HubPremier 11 FHD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348107
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports News HD
+#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING...,SkySports•Arena
+#EXTGRP:SPORTS
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/267
+#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING...,SkySports•Cricket
+#EXTGRP:SPORTS
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/269
+#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING...,SkySports•F1
+#EXTGRP:SPORTS
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/265
+#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING...,SkySports•Football
+#EXTGRP:SPORTS
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/266
+#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING...,SkySports•Golf
+#EXTGRP:SPORTS
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/264
+#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING...,SkySports•MainEvent
+#EXTGRP:SPORTS
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/283053
+#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING...,SkySports•Mix
+#EXTGRP:SPORTS
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/261
+#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING...,SkySports•News
+#EXTGRP:SPORTS
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/260
+#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING...,SkySports•NFL
+#EXTGRP:SPORTS
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/281849
+#EXTINF:1,SkySports•PremierLeague
+#EXTGRP:SPORTS
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/263
+#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KING...,SkySports•Racing
+#EXTGRP:SPORTS
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/163132
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports News HD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94502
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports Global HD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports Global HD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94500
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports 1 PREMIUM HD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports 1 PREMIUM HD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94498
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports 2 PREMIUM HD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports 2 PREMIUM HD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94494
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports 3 PREMIUM HD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports 3 PREMIUM HD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94490
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports 1 HD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports 1 HD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94486
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports 2 HD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports 2 HD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94482
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports 3 HD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports 3 HD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94478
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports 4 HD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports 4 HD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94474
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports 5 HD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports 5 HD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94470
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports 6 HD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports 6 HD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94466
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports 7 HD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports 7 HD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94462
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports XTRA 1 HD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports XTRA 1 HD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94459
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports XTRA 2 HD
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports XTRA 2 HD
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94456
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports 1 HD EN
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports 1 HD EN
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94452
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports 2 HD EN
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports 2 HD EN
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94448
-#EXTINF:tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽".....,beINSports 3 HD EN
+#EXTINF:vg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@BIENSPORT⚽"......,beINSports 3 HD EN
 #EXTGRP:SPORTS
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94444
-#EXTINF:-1,JP: weather news
+#EXTINF:1,JP: weather news
 #EXTGRP:OTHERS
 http://iptvtree.net:8080/4467299f/8b713e1a54/145063
-#EXTINF:id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Worldwide",DW English (1080p)
+#EXTINF:d="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Worldwide",DW English (1080p)
 #EXTGRP:OTHERS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1,DE: DW English
+#EXTINF:1,DE: DW English
 #EXTGRP:OTHERS
 http://iptvtree.net:8080/4467299f/8b713e1a54/19276
-#EXTINF:id="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="Arab world",DW Arabic (1080p)
+#EXTINF:d="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="Arab world",DW Arabic (1080p)
 #EXTGRP:OTHERS
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Hispanic America",DW Español (1080p)
+#EXTINF:d="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Hispanic America",DW Español (1080p)
 #EXTGRP:OTHERS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:id="DWDeutschPlus.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Benelux",DW Deutsch+ (1080p) [Geo-blocked]
+#EXTINF:d="DWDeutschPlus.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Benelux",DW Deutsch+ (1080p) [Geo-blocked]
 #EXTGRP:OTHERS
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
-#EXTINF:-1,JP: ANN News
+#EXTINF:1,JP: ANN News
 #EXTGRP:OTHERS
 http://iptvtree.net:8080/4467299f/8b713e1a54/296403
-#EXTINF:-1,JP: KANSAI News24
+#EXTINF:1,JP: KANSAI News24
 #EXTGRP:OTHERS
 http://iptvtree.net:8080/4467299f/8b713e1a54/296405
-#EXTINF:1,XXX: PLAYBOY
-#EXTGRP:YYY
-http://kuchini.site:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/14222
-#EXTINF:1,XXX: PLAYBOY Latino
-#EXTGRP:YYY
-http://kuchini.site:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/290309
-#EXTINF:1,XXX: PLAYBOY USA
-#EXTGRP:YYY
-http://kuchini.site:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/290342
-#EXTINF:1,XXX: PLAYBOY
-#EXTGRP:YYY
-http://kuchini.site:8080/xusm/4bf044ec60/14222
-#EXTINF:1,XXX: PLAYBOY Latino
-#EXTGRP:YYY
-http://kuchini.site:8080/xusm/4bf044ec60/290309
-#EXTINF:1,XXX: PLAYBOY USA
-#EXTGRP:YYY
-http://kuchini.site:8080/xusm/4bf044ec60/290342
-#EXTINF:1,XXX: VODX - DIGITAL PLAYGROUND
-#EXTGRP:YYY
-http://iptvtree.net:8080/4467299f/8b713e1a54/297117
-#EXTINF:-1,PLAYBOY FHD
-#EXTGRP:YYY
-http://pbrz.xyz:80/23115509/27969706/1128
-#EXTINF:-1,PLAYBOY HD
-#EXTGRP:YYY
-http://pbrz.xyz:80/23115509/27969706/1095
 #EXTINF:-1,XXX: PLAYBOY
 #EXTGRP:YYY
-http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/196709.ts
-#EXTINF:-1,XXX: PLAYBOY DD
-#EXTGRP:YYY
-http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/196710.ts
+http://kuchini.site:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/14222
 #EXTINF:-1,XXX: PLAYBOY Latino
 #EXTGRP:YYY
+http://kuchini.site:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/290309
+#EXTINF:-1,XXX: PLAYBOY USA
+#EXTGRP:YYY
+http://kuchini.site:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/290342
+#EXTINF:-1,XXX: PLAYBOY
+#EXTGRP:YYY
+http://kuchini.site:8080/xusm/4bf044ec60/14222
+#EXTINF:-1,XXX: PLAYBOY Latino
+#EXTGRP:YYY
+http://kuchini.site:8080/xusm/4bf044ec60/290309
+#EXTINF:-1,XXX: PLAYBOY USA
+#EXTGRP:YYY
+http://kuchini.site:8080/xusm/4bf044ec60/290342
+#EXTINF:-1,XXX: VODX - DIGITAL PLAYGROUND
+#EXTGRP:YYY
+http://iptvtree.net:8080/4467299f/8b713e1a54/297117
+#EXTINF:1,PLAYBOY FHD
+#EXTGRP:YYY
+http://pbrz.xyz:80/23115509/27969706/1128
+#EXTINF:1,PLAYBOY HD
+#EXTGRP:YYY
+http://pbrz.xyz:80/23115509/27969706/1095
+#EXTINF:1,XXX: PLAYBOY
+#EXTGRP:YYY
+http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/196709.ts
+#EXTINF:1,XXX: PLAYBOY DD
+#EXTGRP:YYY
+http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/196710.ts
+#EXTINF:1,XXX: PLAYBOY Latino
+#EXTGRP:YYY
 http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/196711.ts
-#EXTINF:-1,XXX: Playboy Europe HD
+#EXTINF:1,XXX: Playboy Europe HD
 #EXTGRP:YYY
 http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/196873.ts
-#EXTINF:-1,XXX: Playboy HD
+#EXTINF:1,XXX: Playboy HD
 #EXTGRP:YYY
 http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/196874.ts
-#EXTINF:-1,XXX: Playboy Plus
+#EXTINF:1,XXX: Playboy Plus
 #EXTGRP:YYY
 http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/196875.ts
-#EXTINF:-1,XXX Adult Channel 1 Hd
+#EXTINF:1,XXX Adult Channel 1 Hd
 #EXTGRP:YYY
 http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/187395.ts
-#EXTINF:-1,XXX Adult Channel 2 Hd
+#EXTINF:1,XXX Adult Channel 2 Hd
 #EXTGRP:YYY
 http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/187396.ts
-#EXTINF:-1,XXX Adult Channel 3 Hd
+#EXTINF:1,XXX Adult Channel 3 Hd
 #EXTGRP:YYY
 http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/187397.ts
-#EXTINF:-1,XXX Adult Channel 4 Hd
+#EXTINF:1,XXX Adult Channel 4 Hd
 #EXTGRP:YYY
 http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/187398.ts
-#EXTINF:-1,XXX Adult Channel 5 Hd
+#EXTINF:1,XXX Adult Channel 5 Hd
 #EXTGRP:YYY
 http://4578.cdn-77.com:80/live/serdarbaykan.2022/aa01042022zz/187399.ts
-#EXTINF:1,VENUS
+#EXTINF:-1,VENUS
 #EXTGRP:YYY
 http://go.iptvhn.net:25461/Denis/Denis123/6648
-#EXTINF:1,PAYBOY
+#EXTINF:-1,PAYBOY
 #EXTGRP:YYY
 http://go.iptvhn.net:25461/Denis/Denis123/6602
-#EXTINF:1,6853
+#EXTINF:-1,6853
 #EXTGRP:YYY
 http://go.iptvhn.net:25461/Denis/Denis123/6853
-#EXTINF:1,7680
+#EXTINF:-1,7680
 #EXTGRP:YYY
 http://go.iptvhn.net:25461/Denis/Denis123/7680
-#EXTINF:1,7681
+#EXTINF:-1,7681
 #EXTGRP:YYY
 http://go.iptvhn.net:25461/Denis/Denis123/7681
-#EXTINF:1,7682
+#EXTINF:-1,7682
 #EXTGRP:YYY
 http://go.iptvhn.net:25461/Denis/Denis123/7682
-#EXTINF:-1,XXX: BRAZZERS
+#EXTINF:1,XXX: BRAZZERS
 #EXTGRP:YYY
 http://kuchini.site:8080/pjoy2023/1a8f08cc8b/291234
-#EXTINF:-1,XXX: BRAZZERS +1
+#EXTINF:1,XXX: BRAZZERS +1
 #EXTGRP:YYY
 http://kuchini.site:8080/pjoy2023/1a8f08cc8b/296073
-#EXTINF:-1,XXX: BRAZZERS +2
+#EXTINF:1,XXX: BRAZZERS +2
 #EXTGRP:YYY
 http://kuchini.site:8080/pjoy2023/1a8f08cc8b/297156
-#EXTINF:-1,XXX: BRAZZERS Europe
+#EXTINF:1,XXX: BRAZZERS Europe
 #EXTGRP:YYY
 http://kuchini.site:8080/pjoy2023/1a8f08cc8b/79
-#EXTINF:-1,XXX: Passion XXX
+#EXTINF:1,XXX: Passion XXX
 #EXTGRP:YYY
 http://kuchini.site:8080/pjoy2023/1a8f08cc8b/48
-#EXTINF:-1,XXX: PENTHOUSE Gold
+#EXTINF:1,XXX: PENTHOUSE Gold
 #EXTGRP:YYY
 http://kuchini.site:8080/pjoy2023/1a8f08cc8b/32056
-#EXTINF:-1,XXX: PENTHOUSE Passion
+#EXTINF:1,XXX: PENTHOUSE Passion
 #EXTGRP:YYY
 http://kuchini.site:8080/pjoy2023/1a8f08cc8b/172382
-#EXTINF:-1,XXX: PENTHOUSE REALITY TV
+#EXTINF:1,XXX: PENTHOUSE REALITY TV
 #EXTGRP:YYY
 http://kuchini.site:8080/pjoy2023/1a8f08cc8b/296983
-#EXTINF:1,Sex Education S01 E01
+#EXTINF:-1,Sex Education S01 E01
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65310.mp4
-#EXTINF:1,Sex Education S01 E02
+#EXTINF:-1,Sex Education S01 E02
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65311.mp4
-#EXTINF:1,Sex Education S01 E03
+#EXTINF:-1,Sex Education S01 E03
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65312.mp4
-#EXTINF:1,Sex Education S01 E04
+#EXTINF:-1,Sex Education S01 E04
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65313.mp4
-#EXTINF:1,Sex Education S01 E05
+#EXTINF:-1,Sex Education S01 E05
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65314.mp4
-#EXTINF:1,Sex Education S01 E06
+#EXTINF:-1,Sex Education S01 E06
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65315.mp4
-#EXTINF:1,Sex Education S01 E07
+#EXTINF:-1,Sex Education S01 E07
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65316.mp4
-#EXTINF:1,Sex Education S01 E08
+#EXTINF:-1,Sex Education S01 E08
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65317.mp4
-#EXTINF:1,Sex Education S02 E01
+#EXTINF:-1,Sex Education S02 E01
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65318.mkv
-#EXTINF:1,Sex Education S02 E02
+#EXTINF:-1,Sex Education S02 E02
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65319.mkv
-#EXTINF:1,Sex Education S02 E03
+#EXTINF:-1,Sex Education S02 E03
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65320.mkv
-#EXTINF:1,Sex Education S02 E04
+#EXTINF:-1,Sex Education S02 E04
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65321.mkv
-#EXTINF:1,Sex Education S02 E05
+#EXTINF:-1,Sex Education S02 E05
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65322.mkv
-#EXTINF:1,Sex Education S02 E06
+#EXTINF:-1,Sex Education S02 E06
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65323.mkv
-#EXTINF:1,Sex Education S02 E07
+#EXTINF:-1,Sex Education S02 E07
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65324.mkv
-#EXTINF:1,Sex Education S02 E08
+#EXTINF:-1,Sex Education S02 E08
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/65325.mkv
-#EXTINF:1,Sex Education S03 E01
+#EXTINF:-1,Sex Education S03 E01
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/140859.mkv
-#EXTINF:1,Sex Education S03 E02
+#EXTINF:-1,Sex Education S03 E02
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/140860.mkv
-#EXTINF:1,Sex Education S03 E03
+#EXTINF:-1,Sex Education S03 E03
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/140861.mkv
-#EXTINF:1,Sex Education S03 E04
+#EXTINF:-1,Sex Education S03 E04
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/140862.mkv
-#EXTINF:1,Sex Education S03 E05
+#EXTINF:-1,Sex Education S03 E05
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/140863.mkv
-#EXTINF:1,Sex Education S03 E06
+#EXTINF:-1,Sex Education S03 E06
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/140864.mkv
-#EXTINF:1,Sex Education S03 E07
+#EXTINF:-1,Sex Education S03 E07
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/140865.mkv
-#EXTINF:1,Sex Education S03 E08
+#EXTINF:-1,Sex Education S03 E08
 #EXTGRP:YYY
 http://4khdtv.eu:80/series/umt-stefanbuerdick/FZZQRAdxtMSC/140866.mkv
-#EXTINF:1,Love & Sex (2000)
+#EXTINF:-1,Love & Sex (2000)
 #EXTGRP:YYY
 http://4khdtv.eu:80/movie/umt-stefanbuerdick/FZZQRAdxtMSC/115649.mp4
-#EXTINF:1,XXX: babes
+#EXTINF:-1,XXX: babes
 #EXTGRP:YYY
 http://kuchini.site:8080/xusm/4bf044ec60/296234
